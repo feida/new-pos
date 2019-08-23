@@ -1,0 +1,258 @@
+[
+  {
+    "id": "5b979d647490531fc5f34b3f",
+    "pval": "*",
+    "parent": null,
+    "pname": "所有权限",
+    "ptype": 0,
+    "leaf": null
+  },
+  {
+    "id": "5b979edadc01ee2048c43e21",
+    "pval": "a:auth",
+    "parent": null,
+    "pname": "登录模块",
+    "ptype": 3,
+    "leaf": 1
+  },
+  {
+    "id": "5b979f14dc01ee2048c43e22",
+    "pval": "a:gradleBuild",
+    "parent": "a:test",
+    "pname": "构建gradle",
+    "ptype": 3,
+    "leaf": 1
+  },
+  {
+    "id": "5b98a7cb6ac64a2767d627e2",
+    "pval": "a:mvn:install",
+    "parent": "a:test",
+    "pname": "mvnInstall",
+    "ptype": 3,
+    "leaf": 1
+  },
+  {
+    "id": "5b98a7e46ac64a2767d627e3",
+    "pval": "a:option",
+    "parent": "null",
+    "pname": "选项模块",
+    "ptype": 3,
+    "leaf": 1
+  },
+  {
+    "id": "5b98a7fa6ac64a2767d627e4",
+    "pval": "a:perm:query",
+    "parent": "a:sys:perm",
+    "pname": "查询sys_perm",
+    "ptype": 3,
+    "leaf": 1
+  },
+  {
+    "id": "5b98a80b6ac64a2767d627e5",
+    "pval": "a:perm:updatey",
+    "parent": "a:sys:perm",
+    "pname": "update",
+    "ptype": 3,
+    "leaf": 1
+  },
+  {
+    "id": "5b98a8526ac64a2767d627e6",
+    "pval": "a:role:query",
+    "parent": "a:sys:role",
+    "pname": "query",
+    "ptype": 3,
+    "leaf": 1
+  },
+  {
+    "id": "5b98a8946ac64a2767d627e7",
+    "pval": "a:role:update",
+    "parent": "a:sys:role",
+    "pname": "update",
+    "ptype": 3,
+    "leaf": 1
+  },
+  {
+    "id": "5b98a8ac6ac64a2767d627e8",
+    "pval": "a:sys:perm",
+    "parent": "null",
+    "pname": "系统权限模块",
+    "ptype": 3,
+    "leaf": 0
+  },
+  {
+    "id": "5b98a8c16ac64a2767d627e9",
+    "pval": "a:sys:role",
+    "parent": "null",
+    "pname": "系统角色模块",
+    "ptype": 3,
+    "leaf": 0
+  },
+  {
+    "id": "5b98a8e86ac64a2767d627ea",
+    "pval": "a:sys:接口",
+    "parent": "null",
+    "pname": "系统用户模块",
+    "ptype": 3,
+    "leaf": 1
+  },
+  {
+    "id": "5b98a8fc6ac64a2767d627eb",
+    "pval": "a:test",
+    "parent": "null",
+    "pname": "测试模块模块",
+    "ptype": 3,
+    "leaf": 0
+  },
+  {
+    "id": "5b98aa326ac64a2767d627ee",
+    "pval": "b:user:delete",
+    "parent": "m:sys:user",
+    "pname": "删除用户",
+    "ptype": 2,
+    "leaf": 0
+  },
+  {
+    "id": "5b9f5b282eba3e4b60992eb5",
+    "pval": "b:user:add",
+    "parent": "m:sys:user",
+    "pname": "用户添加",
+    "ptype": 2,
+    "leaf": 0
+  },
+  {
+    "id": "5ba0b5032d15ea0a420c8fa3",
+    "pval": "m:sys:user",
+    "pname": "用户管理",
+    "ptype": 1,
+    "parent": "m:sys",
+    "leaf": 1
+  },
+  {
+    "id": "5ba0b5032d15ea0a420c8fa4",
+    "pval": "m:sys:role",
+    "pname": "角色管理",
+    "ptype": 1,
+    "parent": "m:sys",
+    "leaf": 1
+  },
+  {
+    "id": "5ba0b5032d15ea0a420c8fa5",
+    "pval": "m:sys:perm",
+    "pname": "权限管理",
+    "ptype": 1,
+    "parent": "m:sys",
+    "leaf": 1
+  },
+  {
+    "id": "5ba0b5032d15ea0a420c8fa6",
+    "pval": "m:sys",
+    "pname": "系统",
+    "ptype": 1,
+    "parent": null,
+    "leaf": 0
+  },
+  {
+    "id": "5ba0b5032d15ea0a420c8fa7",
+    "pval": "m:menu1",
+    "pname": "菜单1",
+    "ptype": 1,
+    "parent": null,
+    "leaf": 1
+  },
+  {
+    "id": "5ba0b5032d15ea0a420c8fa8",
+    "pval": "m:menu2",
+    "pname": "菜单2",
+    "ptype": 1,
+    "parent": null,
+    "leaf": 1
+  },
+  {
+    "id": "5ba0b5032d15ea0a420c8fa9",
+    "pval": "m:menu5",
+    "pname": "菜单5",
+    "ptype": 1,
+    "parent": null,
+    "leaf": 1
+  },
+  {
+    "id": "5ba0b5032d15ea0a420c8faa",
+    "pval": "m:menu3:1",
+    "pname": "菜单3-1",
+    "ptype": 1,
+    "parent": "m:menu3",
+    "leaf": 1
+  },
+  {
+    "id": "5ba0b5032d15ea0a420c8fab",
+    "pval": "m:menu3:2",
+    "pname": "菜单3-2",
+    "ptype": 1,
+    "parent": "m:menu3",
+    "leaf": 1
+  },
+  {
+    "id": "5ba0b5032d15ea0a420c8fac",
+    "pval": "m:menu3:3",
+    "pname": "菜单3-3",
+    "ptype": 1,
+    "parent": "m:menu3",
+    "leaf": 1
+  },
+  {
+    "id": "5ba0b5032d15ea0a420c8fad",
+    "pval": "m:menu3",
+    "pname": "菜单3",
+    "ptype": 1,
+    "parent": null,
+    "leaf": 0
+  },
+  {
+    "id": "5ba0b5032d15ea0a420c8fae",
+    "pval": "m:menu4:1:a",
+    "pname": "菜单4-1-a",
+    "ptype": 1,
+    "parent": "m:menu4:1",
+    "leaf": 1
+  },
+  {
+    "id": "5ba0b5032d15ea0a420c8faf",
+    "pval": "m:menu4:1:b",
+    "pname": "菜单4-1-b",
+    "ptype": 1,
+    "parent": "m:menu4:1",
+    "leaf": 1
+  },
+  {
+    "id": "5ba0b5032d15ea0a420c8fb0",
+    "pval": "m:menu4:1:c",
+    "pname": "菜单4-1-c",
+    "ptype": 1,
+    "parent": "m:menu4:1",
+    "leaf": 1
+  },
+  {
+    "id": "5ba0b5032d15ea0a420c8fb1",
+    "pval": "m:menu4:1",
+    "pname": "菜单4-1",
+    "ptype": 1,
+    "parent": "m:menu4",
+    "leaf": 0
+  },
+  {
+    "id": "5ba0b5032d15ea0a420c8fb2",
+    "pval": "m:menu4:2",
+    "pname": "菜单4-2",
+    "ptype": 1,
+    "parent": "m:menu4",
+    "leaf": 1
+  },
+  {
+    "id": "5ba0b5032d15ea0a420c8fb3",
+    "pval": "m:menu4",
+    "pname": "菜单4",
+    "ptype": 1,
+    "parent": null,
+    "leaf": 0
+  }
+]

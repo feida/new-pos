@@ -1,0 +1,14 @@
+{
+  "restartable": "rs",
+  "ignore": [
+    ".git",
+    "shopDetail.json",
+    "node_modules/**/node_modules",
+    "view/*",
+    "views/*",
+    "src/*",
+    ".gitignore"
+  ],
+  "verbose": false,
+  "ext": "js json"
+}

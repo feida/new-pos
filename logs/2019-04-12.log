@@ -1,0 +1,152 @@
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-12 13:55:45"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-12 13:56:12"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-12 13:56:32"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-12 13:56:33"}
+{"level":"info","message":"GET /system/info 1111 2019-04-12 13:56:42","timestamp":"2019-04-12 13:56:42"}
+{"level":"info","message":"GET /area 21 2019-04-12 13:56:47","timestamp":"2019-04-12 13:56:47"}
+{"level":"info","message":"GET /table/list 64 2019-04-12 13:56:47","timestamp":"2019-04-12 13:56:47"}
+{"level":"info","message":"GET /order/detail 71 2019-04-12 13:56:47","timestamp":"2019-04-12 13:56:47"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-12 13:56:48"}
+{"level":"info","message":"GET /area 3 2019-04-12 13:56:48","timestamp":"2019-04-12 13:56:48"}
+{"level":"info","message":"GET /table/list 5 2019-04-12 13:56:48","timestamp":"2019-04-12 13:56:48"}
+{"level":"info","message":"GET /article/family_list 29 2019-04-12 13:57:00","timestamp":"2019-04-12 13:57:00"}
+{"level":"info","message":"GET /article/article_list 35 2019-04-12 13:57:00","timestamp":"2019-04-12 13:57:00"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-12 13:57:03"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-12 13:57:03"}
+{"level":"info","message":"GET /article/article_list 55 2019-04-12 13:57:04","timestamp":"2019-04-12 13:57:04"}
+{"level":"info","message":"GET /article/article_list 16 2019-04-12 13:57:06","timestamp":"2019-04-12 13:57:06"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-12 13:57:26"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-12 13:57:41"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-12 13:57:41"}
+{"level":"info","message":"GET /area 5 2019-04-12 13:58:12","timestamp":"2019-04-12 13:58:12"}
+{"level":"info","message":"GET /table/list 6 2019-04-12 13:58:12","timestamp":"2019-04-12 13:58:12"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-12 13:59:16"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-12 13:59:31"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-12 13:59:31"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-12 13:59:46"}
+{"level":"info","message":"GET /article/family_list 2 2019-04-12 13:59:54","timestamp":"2019-04-12 13:59:54"}
+{"level":"info","message":"GET /article/article_list 16 2019-04-12 13:59:54","timestamp":"2019-04-12 13:59:54"}
+{"level":"info","message":"GET /area 3 2019-04-12 13:59:59","timestamp":"2019-04-12 13:59:59"}
+{"level":"info","message":"GET /table/list 5 2019-04-12 13:59:59","timestamp":"2019-04-12 13:59:59"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-12 14:00:01"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-12 14:00:01"}
+{"level":"info","message":"POST /bindTable 9 2019-04-12 14:00:03","timestamp":"2019-04-12 14:00:03"}
+{"level":"info","message":"GET /area 2 2019-04-12 14:00:06","timestamp":"2019-04-12 14:00:06"}
+{"level":"info","message":"GET /table/list 3 2019-04-12 14:00:06","timestamp":"2019-04-12 14:00:06"}
+{"level":"info","message":"GET /area 3 2019-04-12 14:00:09","timestamp":"2019-04-12 14:00:09"}
+{"level":"info","message":"GET /table/list 5 2019-04-12 14:00:09","timestamp":"2019-04-12 14:00:09"}
+{"level":"info","message":"GET /area 1 2019-04-12 14:00:10","timestamp":"2019-04-12 14:00:10"}
+{"level":"info","message":"GET /table/list 9 2019-04-12 14:00:10","timestamp":"2019-04-12 14:00:10"}
+{"level":"info","message":"GET /article/family_list 1 2019-04-12 14:00:11","timestamp":"2019-04-12 14:00:11"}
+{"level":"info","message":"GET /article/article_list 13 2019-04-12 14:00:11","timestamp":"2019-04-12 14:00:11"}
+{"level":"info","message":"GET /area 1 2019-04-12 14:00:17","timestamp":"2019-04-12 14:00:17"}
+{"level":"info","message":"GET /table/list 5 2019-04-12 14:00:17","timestamp":"2019-04-12 14:00:17"}
+{"level":"info","message":"GET /area 2 2019-04-12 14:00:19","timestamp":"2019-04-12 14:00:19"}
+{"level":"info","message":"GET /table/list 7 2019-04-12 14:00:19","timestamp":"2019-04-12 14:00:19"}
+{"level":"info","message":"POST /bindTable 277 2019-04-12 14:00:21","timestamp":"2019-04-12 14:00:21"}
+{"level":"info","message":"GET /article/family_list 2 2019-04-12 14:00:21","timestamp":"2019-04-12 14:00:21"}
+{"level":"info","message":"GET /article/article_list 21 2019-04-12 14:00:22","timestamp":"2019-04-12 14:00:22"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-12 14:03:24"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-12 14:03:39"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-12 14:03:39"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-12 14:04:55"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-12 14:05:10"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-12 14:05:10"}
+{"level":"info","message":"GET /article/article_list 10 2019-04-12 14:41:35","timestamp":"2019-04-12 14:41:35"}
+{"level":"info","message":"GET /system/info 6 2019-04-12 14:55:19","timestamp":"2019-04-12 14:55:19"}
+{"level":"info","message":"GET /article/family_list 3 2019-04-12 14:55:19","timestamp":"2019-04-12 14:55:19"}
+{"level":"info","message":"GET /article/article_list 15 2019-04-12 14:55:19","timestamp":"2019-04-12 14:55:19"}
+{"level":"info","message":"GET /user/normal/list 2 2019-04-12 14:55:22","timestamp":"2019-04-12 14:55:22"}
+{"level":"info","message":"POST /user/login 60 2019-04-12 14:55:30","timestamp":"2019-04-12 14:55:30"}
+{"level":"info","message":"GET /system/info 6 2019-04-12 14:55:30","timestamp":"2019-04-12 14:55:30"}
+{"level":"info","message":"GET /area 2 2019-04-12 14:55:30","timestamp":"2019-04-12 14:55:30"}
+{"level":"info","message":"GET /table/list 5 2019-04-12 14:55:30","timestamp":"2019-04-12 14:55:30"}
+{"level":"info","message":"GET /area 1 2019-04-12 14:55:30","timestamp":"2019-04-12 14:55:30"}
+{"level":"info","message":"GET /table/list 5 2019-04-12 14:55:30","timestamp":"2019-04-12 14:55:30"}
+{"level":"info","message":"GET /system/info 97 2019-04-12 14:57:45","timestamp":"2019-04-12 14:57:45"}
+{"level":"info","message":"GET /area 8 2019-04-12 14:57:45","timestamp":"2019-04-12 14:57:45"}
+{"level":"info","message":"GET /table/list 8 2019-04-12 14:57:45","timestamp":"2019-04-12 14:57:45"}
+{"level":"info","message":"GET /user/normal/list 2 2019-04-12 14:57:48","timestamp":"2019-04-12 14:57:48"}
+{"level":"info","message":"POST /user/login 5 2019-04-12 14:57:53","timestamp":"2019-04-12 14:57:53"}
+{"level":"info","message":"GET /system/shop_detail 18 2019-04-12 14:57:53","timestamp":"2019-04-12 14:57:53"}
+{"level":"info","message":"GET /system/info 14 2019-04-12 14:57:53","timestamp":"2019-04-12 14:57:53"}
+{"level":"info","message":"GET /area 1 2019-04-12 14:57:53","timestamp":"2019-04-12 14:57:53"}
+{"level":"info","message":"GET /table/list 4 2019-04-12 14:57:53","timestamp":"2019-04-12 14:57:53"}
+{"level":"info","message":"GET /area 1 2019-04-12 14:57:54","timestamp":"2019-04-12 14:57:54"}
+{"level":"info","message":"GET /table/list 5 2019-04-12 14:57:54","timestamp":"2019-04-12 14:57:54"}
+{"level":"info","message":"GET /system/info 13 2019-04-12 15:11:44","timestamp":"2019-04-12 15:11:44"}
+{"level":"info","message":"GET /area 5 2019-04-12 15:11:44","timestamp":"2019-04-12 15:11:44"}
+{"level":"info","message":"GET /table/list 6 2019-04-12 15:11:44","timestamp":"2019-04-12 15:11:44"}
+{"level":"info","message":"GET /system/info 3 2019-04-12 15:11:59","timestamp":"2019-04-12 15:11:59"}
+{"level":"info","message":"GET /area 1 2019-04-12 15:11:59","timestamp":"2019-04-12 15:11:59"}
+{"level":"info","message":"GET /table/list 4 2019-04-12 15:11:59","timestamp":"2019-04-12 15:11:59"}
+{"level":"info","message":"GET /user/normal/list 2 2019-04-12 15:12:15","timestamp":"2019-04-12 15:12:15"}
+{"level":"info","message":"POST /user/login 43 2019-04-12 15:12:19","timestamp":"2019-04-12 15:12:19"}
+{"level":"info","message":"GET /system/shop_detail 29 2019-04-12 15:12:19","timestamp":"2019-04-12 15:12:19"}
+{"level":"info","message":"GET /system/info 22 2019-04-12 15:12:19","timestamp":"2019-04-12 15:12:19"}
+{"level":"info","message":"GET /area 1 2019-04-12 15:12:19","timestamp":"2019-04-12 15:12:19"}
+{"level":"info","message":"GET /table/list 4 2019-04-12 15:12:19","timestamp":"2019-04-12 15:12:19"}
+{"level":"info","message":"GET /area 2 2019-04-12 15:12:19","timestamp":"2019-04-12 15:12:19"}
+{"level":"info","message":"GET /table/list 4 2019-04-12 15:12:19","timestamp":"2019-04-12 15:12:19"}
+{"level":"info","message":"GET /system/info 7 2019-04-12 15:15:23","timestamp":"2019-04-12 15:15:23"}
+{"level":"info","message":"GET /area 3 2019-04-12 15:15:23","timestamp":"2019-04-12 15:15:23"}
+{"level":"info","message":"GET /table/list 7 2019-04-12 15:15:23","timestamp":"2019-04-12 15:15:23"}
+{"level":"info","message":"GET /area 5 2019-04-12 15:19:15","timestamp":"2019-04-12 15:19:15"}
+{"level":"info","message":"GET /table/list 5 2019-04-12 15:19:15","timestamp":"2019-04-12 15:19:15"}
+{"level":"info","message":"GET /system/info 7 2019-04-12 15:19:20","timestamp":"2019-04-12 15:19:20"}
+{"level":"info","message":"GET /area 5 2019-04-12 15:19:20","timestamp":"2019-04-12 15:19:20"}
+{"level":"info","message":"GET /table/list 7 2019-04-12 15:19:20","timestamp":"2019-04-12 15:19:20"}
+{"level":"info","message":"GET /order/detail 9 2019-04-12 15:21:37","timestamp":"2019-04-12 15:21:37"}
+{"level":"info","message":"GET /area 5 2019-04-12 15:21:37","timestamp":"2019-04-12 15:21:37"}
+{"level":"info","message":"GET /table/list 9 2019-04-12 15:21:37","timestamp":"2019-04-12 15:21:37"}
+{"level":"info","message":"GET /article/family_list 2 2019-04-12 15:21:40","timestamp":"2019-04-12 15:21:40"}
+{"level":"info","message":"GET /article/article_list 19 2019-04-12 15:21:40","timestamp":"2019-04-12 15:21:40"}
+{"level":"info","message":"GET /article/article_list 9 2019-04-12 15:21:44","timestamp":"2019-04-12 15:21:44"}
+{"level":"info","message":"GET /order/detail 10 2019-04-12 15:22:47","timestamp":"2019-04-12 15:22:47"}
+{"level":"info","message":"GET /area 4 2019-04-12 15:22:47","timestamp":"2019-04-12 15:22:47"}
+{"level":"info","message":"GET /table/list 5 2019-04-12 15:22:47","timestamp":"2019-04-12 15:22:47"}
+{"level":"info","message":"GET /area 3 2019-04-12 15:22:50","timestamp":"2019-04-12 15:22:50"}
+{"level":"info","message":"GET /table/list 4 2019-04-12 15:22:50","timestamp":"2019-04-12 15:22:50"}
+{"level":"info","message":"GET /area 4 2019-04-12 15:22:51","timestamp":"2019-04-12 15:22:51"}
+{"level":"info","message":"GET /table/list 5 2019-04-12 15:22:51","timestamp":"2019-04-12 15:22:51"}
+{"level":"info","message":"GET /order/detail 15 2019-04-12 15:22:51","timestamp":"2019-04-12 15:22:51"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-12 15:28:21"}
+{"level":"error","message":"resource \"GET:/307bda23a430f96098a2.hot-update.json\" not found","timestamp":"2019-04-12 15:29:12"}
+{"level":"info","message":"GET /307bda23a430f96098a2.hot-update.json 4 2019-04-12 15:29:12","timestamp":"2019-04-12 15:29:12"}
+{"level":"info","message":"GET /area 121 2019-04-12 15:30:23","timestamp":"2019-04-12 15:30:23"}
+{"level":"info","message":"GET /table/list 138 2019-04-12 15:30:23","timestamp":"2019-04-12 15:30:23"}
+{"level":"info","message":"GET /system/info 514 2019-04-12 15:30:23","timestamp":"2019-04-12 15:30:23"}
+{"level":"info","message":"GET /order/detail 341 2019-04-12 15:30:23","timestamp":"2019-04-12 15:30:23"}
+{"level":"info","message":"GET /article/family_list 59 2019-04-12 15:33:43","timestamp":"2019-04-12 15:33:43"}
+{"level":"info","message":"GET /article/article_list 34 2019-04-12 15:33:43","timestamp":"2019-04-12 15:33:43"}
+{"level":"info","message":"GET /article/article_list 54 2019-04-12 15:33:46","timestamp":"2019-04-12 15:33:46"}
+{"level":"info","message":"GET /article/family_list 4 2019-04-12 15:38:11","timestamp":"2019-04-12 15:38:11"}
+{"level":"info","message":"GET /article/article_list 18 2019-04-12 15:38:11","timestamp":"2019-04-12 15:38:11"}
+{"level":"info","message":"GET /article/article_list 14 2019-04-12 15:38:14","timestamp":"2019-04-12 15:38:14"}
+{"level":"info","message":"GET /article/family_list 3 2019-04-12 15:39:01","timestamp":"2019-04-12 15:39:01"}
+{"level":"info","message":"GET /article/article_list 25 2019-04-12 15:39:01","timestamp":"2019-04-12 15:39:01"}
+{"level":"info","message":"GET /article/article_list 14 2019-04-12 15:39:05","timestamp":"2019-04-12 15:39:05"}
+{"level":"info","message":"GET /article/family_list 2 2019-04-12 15:39:54","timestamp":"2019-04-12 15:39:54"}
+{"level":"info","message":"GET /article/article_list 35 2019-04-12 15:39:54","timestamp":"2019-04-12 15:39:54"}
+{"level":"info","message":"GET /article/article_list 15 2019-04-12 15:40:01","timestamp":"2019-04-12 15:40:01"}
+{"level":"info","message":"GET /article/family_list 9 2019-04-12 18:27:17","timestamp":"2019-04-12 18:27:17"}
+{"level":"info","message":"GET /article/article_list 23 2019-04-12 18:27:18","timestamp":"2019-04-12 18:27:18"}
+{"level":"info","message":"GET /system/info 6 2019-04-12 18:27:19","timestamp":"2019-04-12 18:27:19"}
+{"level":"info","message":"GET /article/family_list 2 2019-04-12 18:27:19","timestamp":"2019-04-12 18:27:19"}
+{"level":"info","message":"GET /article/article_list 8 2019-04-12 18:27:19","timestamp":"2019-04-12 18:27:19"}
+{"level":"info","message":"GET /area 4 2019-04-12 18:49:48","timestamp":"2019-04-12 18:49:48"}
+{"level":"info","message":"GET /table/list 10 2019-04-12 18:49:48","timestamp":"2019-04-12 18:49:48"}
+{"level":"info","message":"GET /order/detail 25 2019-04-12 18:49:48","timestamp":"2019-04-12 18:49:48"}
+{"level":"info","message":"GET /area 2 2019-04-12 18:49:52","timestamp":"2019-04-12 18:49:52"}
+{"level":"info","message":"GET /table/list 4 2019-04-12 18:49:52","timestamp":"2019-04-12 18:49:52"}
+{"level":"info","message":"GET /area 1 2019-04-12 18:49:53","timestamp":"2019-04-12 18:49:53"}
+{"level":"info","message":"GET /table/list 3 2019-04-12 18:49:53","timestamp":"2019-04-12 18:49:53"}
+{"level":"info","message":"GET /area 3 2019-04-12 18:49:54","timestamp":"2019-04-12 18:49:54"}
+{"level":"info","message":"GET /table/list 3 2019-04-12 18:49:54","timestamp":"2019-04-12 18:49:54"}
+{"level":"info","message":"GET /area 2 2019-04-12 18:49:55","timestamp":"2019-04-12 18:49:55"}
+{"level":"info","message":"GET /table/list 6 2019-04-12 18:49:55","timestamp":"2019-04-12 18:49:55"}
+{"level":"info","message":"GET /area 4 2019-04-12 18:49:57","timestamp":"2019-04-12 18:49:57"}
+{"level":"info","message":"GET /table/list 9 2019-04-12 18:49:57","timestamp":"2019-04-12 18:49:57"}
+{"level":"info","message":"GET /order/detail 25 2019-04-12 18:49:57","timestamp":"2019-04-12 18:49:57"}
+{"level":"info","message":"GET /area 1 2019-04-12 18:50:00","timestamp":"2019-04-12 18:50:00"}
+{"level":"info","message":"GET /table/list 4 2019-04-12 18:50:00","timestamp":"2019-04-12 18:50:00"}

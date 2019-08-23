@@ -1,0 +1,29 @@
+[
+  {
+    "id" :"5b7fce1bca96274f8abe7ad1",
+    "username" :"test1",
+    "password" :"1",
+    "shopDetailId" :"1",
+    "brandId" :"1",
+    "superPwd" :"0",
+    "state" : 1
+  },
+  {
+    "id" :"5b7fce1bca96274f8abe7ad2",
+    "username" :"test2",
+    "password" :"1",
+    "shopDetailId" :"1",
+    "brandId" :"1",
+    "superPwd" :"0",
+    "state" : 1
+  },
+  {
+    "id" :"5b7fce1bca96274f8abe7ad3",
+    "username" :"test3",
+    "password" :"1",
+    "shopDetailId" :"1",
+    "brandId" :"1",
+    "superPwd" :"0",
+    "state" : 1
+  }
+]

@@ -1,0 +1,433 @@
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-07-05 09:53:18"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/63325014c50b4b16a81e50b3623f8d96/+/+/+","timestamp":"2019-07-05 09:53:18"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-07-05 09:53:18"}
+{"level":"error","message":"==mqtt==close==你已断开连接,异常退出","timestamp":"2019-07-05 09:53:53"}
+{"level":"error","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-07-05 09:54:09"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-07-05 09:54:11"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/63325014c50b4b16a81e50b3623f8d96/+/+/+","timestamp":"2019-07-05 09:54:11"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-07-05 09:54:11"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 09:56:03"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 09:56:03"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 09:56:03"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 09:57:03"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 09:59:03"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 09:59:03"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 09:59:03"}
+{"level":"info","message":"GET /system/info 395 2019-07-05 10:00:30","timestamp":"2019-07-05 10:00:30"}
+{"level":"info","message":"GET /on/line/state 1 2019-07-05 10:00:34","timestamp":"2019-07-05 10:00:34"}
+{"level":"info","message":"GET /order/discount_info 59 2019-07-05 10:00:34","timestamp":"2019-07-05 10:00:34"}
+{"level":"info","message":"GET /order/detail 156 2019-07-05 10:00:34","timestamp":"2019-07-05 10:00:34"}
+{"level":"info","message":"GET /order/detail 8 2019-07-05 10:00:34","timestamp":"2019-07-05 10:00:34"}
+{"level":"info","message":"GET /order/order_items 9 2019-07-05 10:00:34","timestamp":"2019-07-05 10:00:34"}
+{"level":"info","message":"GET /area 57 2019-07-05 10:00:39","timestamp":"2019-07-05 10:00:39"}
+{"level":"info","message":"GET /table/list 168 2019-07-05 10:00:39","timestamp":"2019-07-05 10:00:39"}
+{"level":"info","message":"GET /order/order_state_count 170 2019-07-05 10:00:39","timestamp":"2019-07-05 10:00:39"}
+{"level":"info","message":"GET /table/number 2 2019-07-05 10:00:39","timestamp":"2019-07-05 10:00:39"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 10:01:03"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 10:02:03"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 10:02:03"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 10:02:03"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-07-05 10:02:44"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/63325014c50b4b16a81e50b3623f8d96/+/+/+","timestamp":"2019-07-05 10:02:44"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-07-05 10:02:44"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 10:05:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 10:05:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 10:05:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 10:06:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 10:08:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 10:08:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 10:08:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 10:10:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 10:11:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 10:11:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 10:11:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 10:14:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 10:14:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 10:14:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 10:14:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 10:17:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 10:17:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 10:17:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 10:18:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 10:20:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 10:20:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 10:20:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 10:22:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 10:23:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 10:23:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 10:23:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 10:26:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 10:26:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 10:26:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 10:26:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 10:29:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 10:29:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 10:29:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 10:30:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 10:32:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 10:32:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 10:32:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 10:34:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 10:35:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 10:35:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 10:35:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 10:38:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 10:38:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 10:38:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 10:38:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 10:41:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 10:41:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 10:41:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 10:42:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 10:44:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 10:44:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 10:44:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 10:46:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 10:47:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 10:47:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 10:47:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 10:50:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 10:50:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 10:50:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 10:50:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 10:53:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 10:53:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 10:53:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 10:54:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 10:56:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 10:56:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 10:56:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 10:58:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 10:59:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 10:59:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 10:59:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 11:02:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 11:02:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 11:02:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 11:02:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 11:05:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 11:05:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 11:05:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 11:06:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 11:08:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 11:08:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 11:08:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 11:10:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 11:11:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 11:11:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 11:11:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 11:14:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 11:14:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 11:14:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 11:14:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 11:17:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 11:17:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 11:17:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 11:18:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 11:20:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 11:20:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 11:20:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 11:22:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 11:23:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 11:23:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 11:23:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 11:26:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 11:26:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 11:26:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 11:26:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 11:29:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 11:29:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 11:29:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 11:30:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 11:32:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 11:32:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 11:32:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 11:34:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 11:35:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 11:35:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 11:35:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 11:38:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 11:38:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 11:38:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 11:38:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 11:41:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 11:41:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 11:41:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 11:42:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 11:44:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 11:44:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 11:44:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 11:46:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 11:47:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 11:47:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 11:47:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 11:50:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 11:50:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 11:50:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 11:50:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 11:53:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 11:53:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 11:53:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 11:54:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 11:56:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 11:56:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 11:56:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 11:58:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 11:59:35"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 11:59:35"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 11:59:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 13:50:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 13:50:00"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 13:50:03"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 13:50:03"}
+{"level":"error","message":"==mqtt==close==你已断开连接,异常退出","timestamp":"2019-07-05 13:50:13"}
+{"level":"error","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-07-05 13:50:28"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-07-05 13:50:28"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/63325014c50b4b16a81e50b3623f8d96/+/+/+","timestamp":"2019-07-05 13:50:28"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-07-05 13:50:28"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 13:53:00"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 13:53:00"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 13:53:00"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 13:54:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 13:56:00"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 13:56:00"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 13:56:00"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 13:58:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 13:59:00"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 13:59:00"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 13:59:00"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 14:02:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 14:02:00"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 14:02:00"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 14:02:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 14:05:00"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 14:05:00"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 14:05:00"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 14:06:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 14:08:00"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 14:08:00"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 14:08:00"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 14:10:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 14:11:00"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 14:11:00"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 14:11:00"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 14:14:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 14:14:00"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 14:14:00"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 14:14:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 14:17:00"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 14:17:00"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 14:17:00"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 14:18:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 14:20:00"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 14:20:00"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 14:20:00"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 14:22:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 14:23:00"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 14:23:00"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 14:23:00"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 14:26:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 14:26:00"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 14:26:00"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 14:26:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 14:29:00"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 14:29:00"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 14:29:00"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 14:30:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 14:32:00"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 14:32:00"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 14:32:00"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 14:34:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 14:35:00"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 14:35:00"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 14:35:00"}
+{"level":"info","message":"GET /order/order_state_count 41 2019-07-05 14:35:33","timestamp":"2019-07-05 14:35:33"}
+{"level":"info","message":"GET /order/wait_order 32 2019-07-05 14:35:33","timestamp":"2019-07-05 14:35:33"}
+{"level":"info","message":"GET /order/get_order_test 16 2019-07-05 14:35:33","timestamp":"2019-07-05 14:35:33"}
+{"level":"info","message":"GET /order/detail 27 2019-07-05 14:35:33","timestamp":"2019-07-05 14:35:33"}
+{"level":"info","message":"GET /order/no_pay 15 2019-07-05 14:35:34","timestamp":"2019-07-05 14:35:34"}
+{"level":"info","message":"GET /order/order_state_count 18 2019-07-05 14:35:34","timestamp":"2019-07-05 14:35:34"}
+{"level":"info","message":"GET /order/get_order_test 46 2019-07-05 14:35:34","timestamp":"2019-07-05 14:35:34"}
+{"level":"info","message":"GET /order/detail 53 2019-07-05 14:35:34","timestamp":"2019-07-05 14:35:34"}
+{"level":"info","message":"GET /order/order_items 21 2019-07-05 14:35:35","timestamp":"2019-07-05 14:35:35"}
+{"level":"info","message":"GET /order/detail 21 2019-07-05 14:35:35","timestamp":"2019-07-05 14:35:35"}
+{"level":"info","message":"GET /order/discount_info 4 2019-07-05 14:35:35","timestamp":"2019-07-05 14:35:35"}
+{"level":"info","message":"GET /order/detail 30 2019-07-05 14:35:35","timestamp":"2019-07-05 14:35:35"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 14:38:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 14:38:00"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 14:38:00"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 14:38:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 14:41:00"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 14:41:00"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 14:41:00"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 14:42:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 14:44:00"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 14:44:00"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 14:44:00"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 14:46:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 14:47:00"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 14:47:00"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 14:47:00"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 14:50:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 14:50:00"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 14:50:00"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 14:50:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 14:53:00"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 14:53:00"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 14:53:00"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 14:54:00"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-07-05 17:48:54"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/63325014c50b4b16a81e50b3623f8d96/+/+/+","timestamp":"2019-07-05 17:48:54"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-07-05 17:48:54"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 17:51:46"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 17:51:47"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 17:51:47"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 17:52:46"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 17:54:46"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 17:54:46"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 17:54:46"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 17:56:46"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 17:57:46"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 17:57:46"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 17:57:46"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 18:00:46"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 18:00:46"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 18:00:47"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 18:00:47"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 18:03:46"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 18:03:46"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 18:03:46"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 18:04:46"}
+{"level":"info","message":"GET /system/info 60 2019-07-05 18:05:27","timestamp":"2019-07-05 18:05:27"}
+{"level":"info","message":"GET /on/line/state 1 2019-07-05 18:05:27","timestamp":"2019-07-05 18:05:27"}
+{"level":"info","message":"GET /order/discount_info 66 2019-07-05 18:05:27","timestamp":"2019-07-05 18:05:27"}
+{"level":"info","message":"GET /order/detail 110 2019-07-05 18:05:27","timestamp":"2019-07-05 18:05:27"}
+{"level":"info","message":"GET /order/detail 7 2019-07-05 18:05:27","timestamp":"2019-07-05 18:05:27"}
+{"level":"info","message":"GET /order/order_items 14 2019-07-05 18:05:27","timestamp":"2019-07-05 18:05:27"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 18:06:46"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 18:06:46"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 18:06:46"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 18:08:46"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 18:09:46"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 18:09:46"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 18:09:46"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 18:12:46"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 18:12:46"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 18:12:47"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 18:12:47"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 18:15:46"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 18:15:46"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 18:15:46"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 18:16:46"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 18:18:46"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 18:18:46"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 18:18:46"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 18:20:46"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 18:21:46"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 18:21:46"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 18:21:46"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 18:24:46"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 18:24:47"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 18:24:47"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 18:24:47"}
+{"level":"info","message":"DELETE /user/logout 1 2019-07-05 18:26:48","timestamp":"2019-07-05 18:26:48"}
+{"level":"info","message":"GET /on/line/state 1 2019-07-05 18:26:49","timestamp":"2019-07-05 18:26:49"}
+{"level":"info","message":"GET /user/normal/list 2 2019-07-05 18:26:49","timestamp":"2019-07-05 18:26:49"}
+{"level":"info","message":"开始同步库存数据","timestamp":"2019-07-05 18:26:52"}
+{"level":"info","message":"POST /user/login 109 2019-07-05 18:26:52","timestamp":"2019-07-05 18:26:52"}
+{"level":"error","message":"同步库存数据失败 Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","timestamp":"2019-07-05 18:26:52"}
+{"level":"info","message":"GET /on/line/state 0 2019-07-05 18:26:52","timestamp":"2019-07-05 18:26:52"}
+{"level":"info","message":"GET /order/order_state_count 21 2019-07-05 18:26:52","timestamp":"2019-07-05 18:26:52"}
+{"level":"info","message":"GET /area 31 2019-07-05 18:26:52","timestamp":"2019-07-05 18:26:52"}
+{"level":"info","message":"GET /table/list 60 2019-07-05 18:26:52","timestamp":"2019-07-05 18:26:52"}
+{"level":"info","message":"GET /table/number 3 2019-07-05 18:26:53","timestamp":"2019-07-05 18:26:53"}
+{"level":"info","message":"GET /order/no_pay 12 2019-07-05 18:27:10","timestamp":"2019-07-05 18:27:10"}
+{"level":"info","message":"GET /order/order_state_count 12 2019-07-05 18:27:10","timestamp":"2019-07-05 18:27:10"}
+{"level":"info","message":"GET /order/detail 16 2019-07-05 18:27:10","timestamp":"2019-07-05 18:27:10"}
+{"level":"info","message":"GET /order/get_order_test 66 2019-07-05 18:27:10","timestamp":"2019-07-05 18:27:10"}
+{"level":"info","message":"GET /order/discount_info 3 2019-07-05 18:27:12","timestamp":"2019-07-05 18:27:12"}
+{"level":"info","message":"GET /order/order_items 14 2019-07-05 18:27:12","timestamp":"2019-07-05 18:27:12"}
+{"level":"info","message":"GET /order/detail 14 2019-07-05 18:27:12","timestamp":"2019-07-05 18:27:12"}
+{"level":"info","message":"GET /order/detail 11 2019-07-05 18:27:12","timestamp":"2019-07-05 18:27:12"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 18:27:47"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 18:27:47"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 18:27:47"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 18:28:46"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 18:30:47"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 18:30:47"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 18:30:47"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 18:32:46"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 18:33:47"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 18:33:47"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 18:33:47"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 18:36:46"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 18:36:47"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 18:36:47"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 18:36:47"}
+{"level":"info","message":"GET /order/discount_info 3 2019-07-05 18:37:04","timestamp":"2019-07-05 18:37:04"}
+{"level":"info","message":"GET /order/order_items 34 2019-07-05 18:37:04","timestamp":"2019-07-05 18:37:04"}
+{"level":"info","message":"GET /order/detail 32 2019-07-05 18:37:04","timestamp":"2019-07-05 18:37:04"}
+{"level":"info","message":"GET /order/detail 15 2019-07-05 18:37:04","timestamp":"2019-07-05 18:37:04"}
+{"level":"info","message":"GET /system/info 6 2019-07-05 18:37:06","timestamp":"2019-07-05 18:37:06"}
+{"level":"info","message":"GET /order/detail 8 2019-07-05 18:37:07","timestamp":"2019-07-05 18:37:07"}
+{"level":"info","message":"GET /on/line/state 1 2019-07-05 18:37:07","timestamp":"2019-07-05 18:37:07"}
+{"level":"info","message":"GET /order/discount_info 5 2019-07-05 18:37:07","timestamp":"2019-07-05 18:37:07"}
+{"level":"info","message":"GET /order/detail 10 2019-07-05 18:37:07","timestamp":"2019-07-05 18:37:07"}
+{"level":"info","message":"GET /order/order_items 7 2019-07-05 18:37:07","timestamp":"2019-07-05 18:37:07"}
+{"level":"info","message":"GET /order/discount_info 9 2019-07-05 18:37:31","timestamp":"2019-07-05 18:37:31"}
+{"level":"info","message":"GET /order/order_items 35 2019-07-05 18:37:31","timestamp":"2019-07-05 18:37:31"}
+{"level":"info","message":"GET /order/detail 29 2019-07-05 18:37:31","timestamp":"2019-07-05 18:37:31"}
+{"level":"info","message":"GET /order/detail 5 2019-07-05 18:37:31","timestamp":"2019-07-05 18:37:31"}
+{"level":"info","message":"GET /order/discount_info 2 2019-07-05 18:37:36","timestamp":"2019-07-05 18:37:36"}
+{"level":"info","message":"GET /order/order_items 20 2019-07-05 18:37:36","timestamp":"2019-07-05 18:37:36"}
+{"level":"info","message":"GET /order/detail 22 2019-07-05 18:37:36","timestamp":"2019-07-05 18:37:36"}
+{"level":"info","message":"GET /order/detail 8 2019-07-05 18:37:36","timestamp":"2019-07-05 18:37:36"}
+{"level":"info","message":"GET /system/info 6 2019-07-05 18:37:39","timestamp":"2019-07-05 18:37:39"}
+{"level":"info","message":"GET /on/line/state 1 2019-07-05 18:37:39","timestamp":"2019-07-05 18:37:39"}
+{"level":"info","message":"GET /order/discount_info 4 2019-07-05 18:37:39","timestamp":"2019-07-05 18:37:39"}
+{"level":"info","message":"GET /order/detail 12 2019-07-05 18:37:39","timestamp":"2019-07-05 18:37:39"}
+{"level":"info","message":"GET /order/detail 7 2019-07-05 18:37:39","timestamp":"2019-07-05 18:37:39"}
+{"level":"info","message":"GET /order/order_items 7 2019-07-05 18:37:39","timestamp":"2019-07-05 18:37:39"}
+{"level":"info","message":"GET /order/order_state_count 7 2019-07-05 18:37:52","timestamp":"2019-07-05 18:37:52"}
+{"level":"info","message":"GET /area 9 2019-07-05 18:37:52","timestamp":"2019-07-05 18:37:52"}
+{"level":"info","message":"GET /table/list 8 2019-07-05 18:37:52","timestamp":"2019-07-05 18:37:52"}
+{"level":"info","message":"GET /table/number 2 2019-07-05 18:37:52","timestamp":"2019-07-05 18:37:52"}
+{"level":"info","message":"GET /order/wait_order 8 2019-07-05 18:37:52","timestamp":"2019-07-05 18:37:52"}
+{"level":"info","message":"GET /order/order_state_count 9 2019-07-05 18:37:52","timestamp":"2019-07-05 18:37:52"}
+{"level":"info","message":"GET /order/get_order_test 9 2019-07-05 18:37:53","timestamp":"2019-07-05 18:37:53"}
+{"level":"info","message":"GET /order/detail 14 2019-07-05 18:37:53","timestamp":"2019-07-05 18:37:53"}
+{"level":"info","message":"GET /order/no_pay 6 2019-07-05 18:37:53","timestamp":"2019-07-05 18:37:53"}
+{"level":"info","message":"GET /order/order_state_count 7 2019-07-05 18:37:53","timestamp":"2019-07-05 18:37:53"}
+{"level":"info","message":"GET /order/get_order_test 19 2019-07-05 18:37:53","timestamp":"2019-07-05 18:37:53"}
+{"level":"info","message":"GET /order/detail 28 2019-07-05 18:37:53","timestamp":"2019-07-05 18:37:53"}
+{"level":"info","message":"GET /order/discount_info 2 2019-07-05 18:37:55","timestamp":"2019-07-05 18:37:55"}
+{"level":"info","message":"GET /order/order_items 17 2019-07-05 18:37:55","timestamp":"2019-07-05 18:37:55"}
+{"level":"info","message":"GET /order/detail 20 2019-07-05 18:37:55","timestamp":"2019-07-05 18:37:55"}
+{"level":"info","message":"GET /order/detail 12 2019-07-05 18:37:55","timestamp":"2019-07-05 18:37:55"}
+{"level":"error","message":"ServiceUnavailableError: Response timeout\n    at IncomingMessage.<anonymous> (/Users/chintec/Documents/node/resto-newpos/node_modules/connect-timeout/index.js:84:8)\n    at emitOne (events.js:116:13)\n    at IncomingMessage.emit (events.js:211:7)\n    at Timeout._onTimeout (/Users/chintec/Documents/node/resto-newpos/node_modules/connect-timeout/index.js:49:11)\n    at ontimeout (timers.js:475:11)\n    at tryOnTimeout (timers.js:310:5)\n    at Timer.listOnTimeout (timers.js:270:5)","timestamp":"2019-07-05 18:38:20"}
+{"level":"info","message":"GET /order/cancel 30005 2019-07-05 18:38:20","timestamp":"2019-07-05 18:38:20"}
+{"level":"info","message":"GET /order/order_items 16 2019-07-05 18:38:24","timestamp":"2019-07-05 18:38:24"}
+{"level":"info","message":"GET /order/discount_info 4 2019-07-05 18:38:24","timestamp":"2019-07-05 18:38:24"}
+{"level":"info","message":"GET /order/detail 18 2019-07-05 18:38:24","timestamp":"2019-07-05 18:38:24"}
+{"level":"info","message":"GET /order/detail 7 2019-07-05 18:38:24","timestamp":"2019-07-05 18:38:24"}
+{"level":"info","message":"GET /system/info 8 2019-07-05 18:38:27","timestamp":"2019-07-05 18:38:27"}
+{"level":"info","message":"GET /order/detail 9 2019-07-05 18:38:28","timestamp":"2019-07-05 18:38:28"}
+{"level":"info","message":"GET /order/discount_info 5 2019-07-05 18:38:28","timestamp":"2019-07-05 18:38:28"}
+{"level":"info","message":"GET /on/line/state 0 2019-07-05 18:38:28","timestamp":"2019-07-05 18:38:28"}
+{"level":"info","message":"GET /order/detail 11 2019-07-05 18:38:28","timestamp":"2019-07-05 18:38:28"}
+{"level":"info","message":"GET /order/order_items 6 2019-07-05 18:38:28","timestamp":"2019-07-05 18:38:28"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 18:39:47"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 18:39:47"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 18:39:47"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 18:40:46"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 18:42:47"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 18:42:47"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 18:42:47"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 18:44:46"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 18:45:47"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 18:45:47"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 18:45:47"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-05 18:48:47"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-05 18:48:47"}
+{"level":"info","message":"检测到需要同步的订单=>d518b6884a374944b19339175c617e3c","timestamp":"2019-07-05 18:48:47"}
+{"message":"同步订单推送到restoApi失败=>","stack":"Error: connect ECONNREFUSED 127.0.0.1:8002\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)","code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":8002,"level":"error","timestamp":"2019-07-05 18:48:47"}

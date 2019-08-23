@@ -1,0 +1,21 @@
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-06-03 09:56:21"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/d2ff1bbb8c6f4fd8adb3949f76f8c1b6/+/+/+","timestamp":"2019-06-03 09:56:21"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-06-03 09:56:21"}
+{"level":"error","message":"==mqtt==close==你已断开连接,异常退出","timestamp":"2019-06-03 09:56:59"}
+{"level":"error","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-06-03 09:57:14"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-06-03 09:57:14"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/d2ff1bbb8c6f4fd8adb3949f76f8c1b6/+/+/+","timestamp":"2019-06-03 09:57:14"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-06-03 09:57:14"}
+{"level":"info","message":"GET /system/info 872 2019-06-03 10:01:42","timestamp":"2019-06-03 10:01:42"}
+{"level":"info","message":"GET /on/line/state 1 2019-06-03 10:01:44","timestamp":"2019-06-03 10:01:44"}
+{"level":"info","message":"GET /article/family_list 34 2019-06-03 10:01:44","timestamp":"2019-06-03 10:01:44"}
+{"level":"info","message":"GET /order/detail 144 2019-06-03 10:01:44","timestamp":"2019-06-03 10:01:44"}
+{"level":"info","message":"GET /article/article_list 65 2019-06-03 10:01:45","timestamp":"2019-06-03 10:01:45"}
+{"level":"info","message":"DELETE /user/logout 1 2019-06-03 10:44:54","timestamp":"2019-06-03 10:44:54"}
+{"level":"info","message":"GET /on/line/state 1 2019-06-03 10:44:54","timestamp":"2019-06-03 10:44:54"}
+{"level":"info","message":"GET /user/normal/list 3 2019-06-03 10:44:54","timestamp":"2019-06-03 10:44:54"}
+{"level":"error","message":"==mqtt==close==你已断开连接,异常退出","timestamp":"2019-06-03 13:58:32"}
+{"level":"error","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-06-03 13:58:47"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-06-03 13:58:47"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/d2ff1bbb8c6f4fd8adb3949f76f8c1b6/+/+/+","timestamp":"2019-06-03 13:58:47"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-06-03 13:58:47"}

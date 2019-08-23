@@ -1,0 +1,609 @@
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 10:01:04"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 10:01:04"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 10:02:04"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 10:04:04"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 10:04:04"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 10:06:04"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 10:07:04"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 10:07:04"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 10:10:04"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 10:10:04"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 10:10:04"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 10:13:04"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 10:13:04"}
+{"level":"info","message":"GET /system/info 61 2019-08-02 10:32:07","timestamp":"2019-08-02 10:32:07"}
+{"level":"info","message":"GET /on/line/state 3 2019-08-02 10:32:08","timestamp":"2019-08-02 10:32:08"}
+{"level":"info","message":"GET /order/discount_info 50 2019-08-02 10:32:08","timestamp":"2019-08-02 10:32:08"}
+{"level":"info","message":"GET /order/detail 78 2019-08-02 10:32:08","timestamp":"2019-08-02 10:32:08"}
+{"level":"info","message":"GET /order/detail 5 2019-08-02 10:32:08","timestamp":"2019-08-02 10:32:08"}
+{"level":"info","message":"GET /order/order_items 14 2019-08-02 10:32:08","timestamp":"2019-08-02 10:32:08"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 10:32:13"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 10:34:13"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 10:34:13"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 10:36:13"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 10:37:13"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 10:37:13"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 10:40:13"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 10:40:13"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 10:40:13"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 10:43:13"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 10:43:13"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 10:44:13"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 10:46:13"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 10:46:13"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 10:48:13"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 10:49:13"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 10:49:13"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 10:52:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 10:52:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 10:52:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 10:55:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 10:55:14"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 10:56:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 10:58:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 10:58:14"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 11:00:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 11:01:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 11:01:14"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 11:04:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 11:04:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 11:04:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 11:07:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 11:07:14"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 11:08:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 11:10:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 11:10:14"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 11:12:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 11:13:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 11:13:14"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 11:16:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 11:16:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 11:16:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 11:19:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 11:19:14"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 11:20:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 11:22:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 11:22:14"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 11:24:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 11:25:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 11:25:14"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 11:28:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 11:28:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 11:28:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 11:31:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 11:31:14"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 11:32:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 11:34:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 11:34:14"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 11:36:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 11:37:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 11:37:14"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 11:40:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 11:40:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 11:40:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 11:43:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 11:43:14"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 11:44:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 11:46:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 11:46:14"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 11:48:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 11:49:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 11:49:14"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 11:52:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 11:52:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 11:52:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 11:55:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 11:55:14"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 11:56:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 11:58:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 11:58:14"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 12:00:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 12:01:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 12:01:14"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 13:55:54"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 13:55:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 13:55:55"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 13:58:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 13:58:55"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 13:59:54"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 14:01:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 14:01:55"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 14:03:54"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 14:04:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 14:04:55"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 14:07:54"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 14:07:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 14:07:55"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 14:10:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 14:10:55"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 14:11:54"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 14:13:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 14:13:55"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 14:15:54"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 14:16:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 14:16:55"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 14:19:54"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 14:19:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 14:19:55"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 14:22:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 14:22:55"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 14:23:54"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 14:25:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 14:25:55"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 14:27:54"}
+{"level":"info","message":"GET /order/order_state_count 24 2019-08-02 14:28:46","timestamp":"2019-08-02 14:28:46"}
+{"level":"info","message":"GET /area 31 2019-08-02 14:28:46","timestamp":"2019-08-02 14:28:46"}
+{"level":"info","message":"GET /table/list 69 2019-08-02 14:28:46","timestamp":"2019-08-02 14:28:46"}
+{"level":"info","message":"GET /table/number 3 2019-08-02 14:28:46","timestamp":"2019-08-02 14:28:46"}
+{"level":"info","message":"GET /order/order_state_count 5 2019-08-02 14:28:47","timestamp":"2019-08-02 14:28:47"}
+{"level":"info","message":"GET /order/platform/list 22 2019-08-02 14:28:47","timestamp":"2019-08-02 14:28:47"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 14:28:49","timestamp":"2019-08-02 14:28:49"}
+{"level":"info","message":"GET /order/platform/list 1 2019-08-02 14:28:49","timestamp":"2019-08-02 14:28:49"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 14:28:49","timestamp":"2019-08-02 14:28:49"}
+{"level":"info","message":"GET /order/platform/list 1 2019-08-02 14:28:50","timestamp":"2019-08-02 14:28:50"}
+{"level":"info","message":"GET /order/platform/list 3 2019-08-02 14:28:50","timestamp":"2019-08-02 14:28:50"}
+{"level":"info","message":"GET /order/platform/list 1 2019-08-02 14:28:51","timestamp":"2019-08-02 14:28:51"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 14:28:51","timestamp":"2019-08-02 14:28:51"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 14:28:52","timestamp":"2019-08-02 14:28:52"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 14:28:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 14:28:55"}
+{"level":"info","message":"GET /order/order_state_count 8 2019-08-02 14:29:20","timestamp":"2019-08-02 14:29:20"}
+{"level":"info","message":"GET /area 8 2019-08-02 14:29:20","timestamp":"2019-08-02 14:29:20"}
+{"level":"info","message":"GET /table/list 11 2019-08-02 14:29:20","timestamp":"2019-08-02 14:29:20"}
+{"level":"info","message":"GET /table/number 2 2019-08-02 14:29:20","timestamp":"2019-08-02 14:29:20"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 14:31:54"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 14:31:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 14:31:55"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 14:34:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 14:34:55"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 14:35:54"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 14:37:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 14:37:55"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 14:39:54"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 14:40:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 14:40:55"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 14:43:54"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 14:43:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 14:43:55"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 14:46:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 14:46:55"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 14:47:54"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 14:49:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 14:49:55"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 14:51:54"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 14:52:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 14:52:55"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 14:55:54"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 14:55:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 14:55:55"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 14:58:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 14:58:55"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 14:59:54"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 15:01:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 15:01:55"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 15:03:54"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 15:04:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 15:04:55"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 15:07:54"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 15:07:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 15:07:55"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 15:10:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 15:10:55"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 15:11:54"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 15:13:55"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 15:13:55"}
+{"level":"error","message":"ServiceUnavailableError: Response timeout\n    at IncomingMessage.<anonymous> (/Users/chintec/Documents/node/resto-newpos/node_modules/connect-timeout/index.js:84:8)\n    at emitOne (events.js:116:13)\n    at IncomingMessage.emit (events.js:211:7)\n    at Timeout._onTimeout (/Users/chintec/Documents/node/resto-newpos/node_modules/connect-timeout/index.js:49:11)\n    at ontimeout (timers.js:475:11)\n    at tryOnTimeout (timers.js:310:5)\n    at Timer.listOnTimeout (timers.js:270:5)","timestamp":"2019-08-02 15:17:05"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 15:19:00"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 15:19:00"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 15:20:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 15:22:00"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 15:22:00"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 15:24:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 15:25:00"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 15:25:00"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 15:28:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 15:28:01"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 15:28:01"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 15:31:01"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 15:31:01"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 15:32:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 15:34:01"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 15:34:01"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 15:36:00"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 15:37:01"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 15:37:01"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 15:40:01"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 15:40:01"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 15:40:01"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 15:43:01"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 15:43:01"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 15:44:01"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 15:46:01"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 15:46:01"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 15:48:01"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 15:49:01"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 15:49:01"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 15:52:01"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 15:52:01"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 15:52:01"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 15:55:01"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 15:55:01"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 15:56:01"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 15:58:01"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 15:58:01"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 16:00:01"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 16:01:01"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 16:01:01"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 16:04:01"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 16:04:01"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 16:04:01"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 16:07:01"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 16:07:01"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 16:08:01"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 16:10:01"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 16:10:01"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 16:12:01"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 16:13:01"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 16:13:01"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 16:16:01"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 16:16:01"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 16:16:01"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 16:19:01"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 16:19:01"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 16:20:01"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 16:22:01"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 16:22:01"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 16:24:01"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 16:25:01"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 16:25:01"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 16:28:01"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 16:28:01"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 16:28:01"}
+{"level":"info","message":"GET /system/info 42 2019-08-02 16:29:39","timestamp":"2019-08-02 16:29:39"}
+{"level":"info","message":"GET /on/line/state 1 2019-08-02 16:29:40","timestamp":"2019-08-02 16:29:40"}
+{"level":"info","message":"GET /order/order_state_count 26 2019-08-02 16:29:40","timestamp":"2019-08-02 16:29:40"}
+{"level":"info","message":"GET /area 33 2019-08-02 16:29:40","timestamp":"2019-08-02 16:29:40"}
+{"level":"info","message":"GET /table/list 39 2019-08-02 16:29:40","timestamp":"2019-08-02 16:29:40"}
+{"level":"info","message":"GET /table/number 4 2019-08-02 16:29:40","timestamp":"2019-08-02 16:29:40"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:29:44"}
+{"level":"info","message":"GET /order/platform/list 26 2019-08-02 16:29:44","timestamp":"2019-08-02 16:29:44"}
+{"level":"info","message":"GET /order/order_state_count 34 2019-08-02 16:29:44","timestamp":"2019-08-02 16:29:44"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 16:31:01"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 16:31:01"}
+{"level":"error","message":"ServiceUnavailableError: Response timeout\n    at IncomingMessage.<anonymous> (/Users/chintec/Documents/node/resto-newpos/node_modules/connect-timeout/index.js:84:8)\n    at emitOne (events.js:116:13)\n    at IncomingMessage.emit (events.js:211:7)\n    at Timeout._onTimeout (/Users/chintec/Documents/node/resto-newpos/node_modules/connect-timeout/index.js:49:11)\n    at ontimeout (timers.js:475:11)\n    at tryOnTimeout (timers.js:310:5)\n    at Timer.listOnTimeout (timers.js:270:5)","timestamp":"2019-08-02 16:33:34"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:34:30"}
+{"level":"info","message":"GET /order/platform/list 19 2019-08-02 16:34:30","timestamp":"2019-08-02 16:34:30"}
+{"level":"info","message":"GET /order/order_state_count 61 2019-08-02 16:34:30","timestamp":"2019-08-02 16:34:30"}
+{"level":"info","message":"GET /system/info 27 2019-08-02 16:34:31","timestamp":"2019-08-02 16:34:31"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:34:31"}
+{"level":"info","message":"GET /order/platform/list 6 2019-08-02 16:34:31","timestamp":"2019-08-02 16:34:31"}
+{"level":"info","message":"GET /on/line/state 1 2019-08-02 16:34:31","timestamp":"2019-08-02 16:34:31"}
+{"level":"info","message":"GET /order/order_state_count 10 2019-08-02 16:34:31","timestamp":"2019-08-02 16:34:31"}
+{"level":"info","message":"GET /system/info 5 2019-08-02 16:34:38","timestamp":"2019-08-02 16:34:38"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:34:38"}
+{"level":"info","message":"GET /order/platform/list 5 2019-08-02 16:34:38","timestamp":"2019-08-02 16:34:38"}
+{"level":"info","message":"GET /on/line/state 1 2019-08-02 16:34:38","timestamp":"2019-08-02 16:34:38"}
+{"level":"info","message":"GET /order/order_state_count 9 2019-08-02 16:34:38","timestamp":"2019-08-02 16:34:38"}
+{"level":"info","message":"GET /system/info 2 2019-08-02 16:34:58","timestamp":"2019-08-02 16:34:58"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:34:58"}
+{"level":"info","message":"GET /order/platform/list 6 2019-08-02 16:34:58","timestamp":"2019-08-02 16:34:58"}
+{"level":"info","message":"GET /on/line/state 0 2019-08-02 16:34:58","timestamp":"2019-08-02 16:34:58"}
+{"level":"info","message":"GET /order/order_state_count 13 2019-08-02 16:34:58","timestamp":"2019-08-02 16:34:58"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 16:35:27"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 16:35:27"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:35:37"}
+{"level":"info","message":"GET /order/platform/list 62 2019-08-02 16:35:37","timestamp":"2019-08-02 16:35:37"}
+{"level":"info","message":"GET /order/order_state_count 63 2019-08-02 16:35:37","timestamp":"2019-08-02 16:35:37"}
+{"level":"info","message":"GET /system/info 5 2019-08-02 16:35:40","timestamp":"2019-08-02 16:35:40"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:35:41"}
+{"level":"info","message":"GET /order/platform/list 3 2019-08-02 16:35:41","timestamp":"2019-08-02 16:35:41"}
+{"level":"info","message":"GET /order/order_state_count 5 2019-08-02 16:35:41","timestamp":"2019-08-02 16:35:41"}
+{"level":"info","message":"GET /on/line/state 0 2019-08-02 16:35:41","timestamp":"2019-08-02 16:35:41"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:35:43"}
+{"level":"info","message":"GET /order/platform/list 3 2019-08-02 16:35:43","timestamp":"2019-08-02 16:35:43"}
+{"level":"info","message":"GET /order/order_state_count 4 2019-08-02 16:35:43","timestamp":"2019-08-02 16:35:43"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 16:36:27"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:36:36"}
+{"level":"info","message":"GET /order/platform/list 38 2019-08-02 16:36:36","timestamp":"2019-08-02 16:36:36"}
+{"level":"info","message":"GET /order/order_state_count 36 2019-08-02 16:36:36","timestamp":"2019-08-02 16:36:36"}
+{"level":"info","message":"GET /system/info 7 2019-08-02 16:36:36","timestamp":"2019-08-02 16:36:36"}
+{"level":"info","message":"GET /on/line/state 0 2019-08-02 16:36:37","timestamp":"2019-08-02 16:36:37"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:36:37"}
+{"level":"info","message":"GET /order/platform/list 10 2019-08-02 16:36:37","timestamp":"2019-08-02 16:36:37"}
+{"level":"info","message":"GET /order/order_state_count 15 2019-08-02 16:36:37","timestamp":"2019-08-02 16:36:37"}
+{"level":"info","message":"GET /system/info 3 2019-08-02 16:36:45","timestamp":"2019-08-02 16:36:45"}
+{"level":"info","message":"GET /on/line/state 1 2019-08-02 16:36:45","timestamp":"2019-08-02 16:36:45"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:36:45"}
+{"level":"info","message":"GET /order/platform/list 9 2019-08-02 16:36:45","timestamp":"2019-08-02 16:36:45"}
+{"level":"info","message":"GET /order/order_state_count 9 2019-08-02 16:36:45","timestamp":"2019-08-02 16:36:45"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:36:47"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:36:47","timestamp":"2019-08-02 16:36:47"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:36:47"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:36:47","timestamp":"2019-08-02 16:36:47"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:36:48"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:36:48","timestamp":"2019-08-02 16:36:48"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:36:48"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:36:48","timestamp":"2019-08-02 16:36:48"}
+{"level":"info","message":"GET /system/info 4 2019-08-02 16:37:17","timestamp":"2019-08-02 16:37:17"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:37:17"}
+{"level":"info","message":"GET /order/platform/list 5 2019-08-02 16:37:17","timestamp":"2019-08-02 16:37:17"}
+{"level":"info","message":"GET /on/line/state 0 2019-08-02 16:37:17","timestamp":"2019-08-02 16:37:17"}
+{"level":"info","message":"GET /order/order_state_count 8 2019-08-02 16:37:17","timestamp":"2019-08-02 16:37:17"}
+{"level":"info","message":"GET /system/info 2 2019-08-02 16:37:50","timestamp":"2019-08-02 16:37:50"}
+{"level":"info","message":"GET /on/line/state 1 2019-08-02 16:37:50","timestamp":"2019-08-02 16:37:50"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:37:50"}
+{"level":"info","message":"GET /order/platform/list 15 2019-08-02 16:37:50","timestamp":"2019-08-02 16:37:50"}
+{"level":"info","message":"GET /order/order_state_count 14 2019-08-02 16:37:50","timestamp":"2019-08-02 16:37:50"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:37:55"}
+{"level":"info","message":"GET /order/platform/list 3 2019-08-02 16:37:55","timestamp":"2019-08-02 16:37:55"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:37:56"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:37:56","timestamp":"2019-08-02 16:37:56"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:37:56"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:37:56","timestamp":"2019-08-02 16:37:56"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:37:57"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:37:57","timestamp":"2019-08-02 16:37:57"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:37:57"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:37:57","timestamp":"2019-08-02 16:37:57"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:37:58"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:37:58","timestamp":"2019-08-02 16:37:58"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:37:58"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:37:58","timestamp":"2019-08-02 16:37:58"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:37:58"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:37:58","timestamp":"2019-08-02 16:37:58"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:37:58"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:37:58","timestamp":"2019-08-02 16:37:58"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:37:59"}
+{"level":"info","message":"GET /order/platform/list 3 2019-08-02 16:37:59","timestamp":"2019-08-02 16:37:59"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:38:08"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:38:08","timestamp":"2019-08-02 16:38:08"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:38:09"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:38:09","timestamp":"2019-08-02 16:38:09"}
+{"level":"error","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: create_time\n    at Query.formatError (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:423:16)\n    at afterExecute (/Users/chintec/Documents/node/resto-newpos/node_modules/sequelize/lib/dialects/sqlite/query.js:119:32)\n    at replacement (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/trace.js:19:31)\n    at Statement.errBack (/Users/chintec/Documents/node/resto-newpos/node_modules/sqlite3/lib/sqlite3.js:16:21)","timestamp":"2019-08-02 16:38:09"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:38:09","timestamp":"2019-08-02 16:38:09"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 16:38:27"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 16:38:27"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-08-02 16:40:06"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/63325014c50b4b16a81e50b3623f8d96/+/+/+","timestamp":"2019-08-02 16:40:06"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-08-02 16:40:06"}
+{"level":"error","message":"==mqtt==close==你已断开连接,异常退出","timestamp":"2019-08-02 16:40:30"}
+{"level":"error","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-08-02 16:40:48"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-08-02 16:40:48"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/63325014c50b4b16a81e50b3623f8d96/+/+/+","timestamp":"2019-08-02 16:40:48"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-08-02 16:40:48"}
+{"level":"error","message":"resource \"GET:/0e72fc102e36270a6855.hot-update.json\" not found","timestamp":"2019-08-02 16:40:56"}
+{"level":"info","message":"GET /0e72fc102e36270a6855.hot-update.json 5 2019-08-02 16:40:56","timestamp":"2019-08-02 16:40:56"}
+{"level":"info","message":"GET /system/info 21 2019-08-02 16:40:59","timestamp":"2019-08-02 16:40:59"}
+{"level":"info","message":"GET /on/line/state 1 2019-08-02 16:40:59","timestamp":"2019-08-02 16:40:59"}
+{"level":"info","message":"GET /order/platform/list 11 2019-08-02 16:40:59","timestamp":"2019-08-02 16:40:59"}
+{"level":"info","message":"GET /order/order_state_count 13 2019-08-02 16:40:59","timestamp":"2019-08-02 16:40:59"}
+{"level":"info","message":"GET /on/line/state 0 2019-08-02 16:41:00","timestamp":"2019-08-02 16:41:00"}
+{"level":"info","message":"GET /user/normal/list 4 2019-08-02 16:41:00","timestamp":"2019-08-02 16:41:00"}
+{"level":"info","message":"GET /user/normal/list 2 2019-08-02 16:41:02","timestamp":"2019-08-02 16:41:02"}
+{"level":"info","message":"GET /on/line/state 0 2019-08-02 16:41:02","timestamp":"2019-08-02 16:41:02"}
+{"level":"info","message":"开始同步库存数据","timestamp":"2019-08-02 16:41:05"}
+{"level":"info","message":"POST /user/login 20 2019-08-02 16:41:05","timestamp":"2019-08-02 16:41:05"}
+{"level":"info","message":"同步库存数据开始!","timestamp":"2019-08-02 16:41:06"}
+{"level":"info","message":"GET /system/info 15 2019-08-02 16:41:06","timestamp":"2019-08-02 16:41:06"}
+{"level":"info","message":"GET /on/line/state 0 2019-08-02 16:41:06","timestamp":"2019-08-02 16:41:06"}
+{"level":"info","message":"GET /order/order_state_count 13 2019-08-02 16:41:06","timestamp":"2019-08-02 16:41:06"}
+{"level":"info","message":"GET /area 11 2019-08-02 16:41:06","timestamp":"2019-08-02 16:41:06"}
+{"level":"info","message":"GET /table/list 13 2019-08-02 16:41:06","timestamp":"2019-08-02 16:41:06"}
+{"level":"info","message":"同步库存数据完成!","timestamp":"2019-08-02 16:41:06"}
+{"level":"info","message":"GET /table/number 4 2019-08-02 16:41:06","timestamp":"2019-08-02 16:41:06"}
+{"level":"info","message":"GET /order/platform/list 1 2019-08-02 16:41:08","timestamp":"2019-08-02 16:41:08"}
+{"level":"info","message":"GET /order/order_state_count 6 2019-08-02 16:41:08","timestamp":"2019-08-02 16:41:08"}
+{"level":"info","message":"GET /print/all/info 2113 2019-08-02 16:41:18","timestamp":"2019-08-02 16:41:18"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:41:29","timestamp":"2019-08-02 16:41:29"}
+{"level":"info","message":"GET /order/platform/list 3 2019-08-02 16:41:30","timestamp":"2019-08-02 16:41:30"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:41:30","timestamp":"2019-08-02 16:41:30"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:41:31","timestamp":"2019-08-02 16:41:31"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:41:31","timestamp":"2019-08-02 16:41:31"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 16:42:51"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 16:42:51"}
+{"level":"info","message":"GET /order/platform/list 3 2019-08-02 16:43:45","timestamp":"2019-08-02 16:43:45"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:43:45","timestamp":"2019-08-02 16:43:45"}
+{"level":"info","message":"GET /order/platform/order 8 2019-08-02 16:43:49","timestamp":"2019-08-02 16:43:49"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 16:43:51"}
+{"level":"info","message":"GET /order/platform/order 5 2019-08-02 16:44:46","timestamp":"2019-08-02 16:44:46"}
+{"level":"info","message":"GET /order/platform/order 4 2019-08-02 16:44:52","timestamp":"2019-08-02 16:44:52"}
+{"level":"info","message":"外卖订单已存在：0ac2921deade4edf8dd7b1fda7d265b9,1210218950409752798","timestamp":"2019-08-02 16:45:33"}
+{"level":"info","message":"GET /system/info 6 2019-08-02 16:45:42","timestamp":"2019-08-02 16:45:42"}
+{"level":"info","message":"GET /on/line/state 0 2019-08-02 16:45:42","timestamp":"2019-08-02 16:45:42"}
+{"level":"info","message":"GET /order/platform/list 9 2019-08-02 16:45:42","timestamp":"2019-08-02 16:45:42"}
+{"level":"info","message":"GET /order/order_state_count 12 2019-08-02 16:45:42","timestamp":"2019-08-02 16:45:42"}
+{"level":"info","message":"GET /order/platform/order 7 2019-08-02 16:45:44","timestamp":"2019-08-02 16:45:44"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 16:45:51"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 16:45:51"}
+{"level":"error","message":"","timestamp":"2019-08-02 16:45:54"}
+{"level":"info","message":"GET /print/platform_kitchen 24 2019-08-02 16:45:54","timestamp":"2019-08-02 16:45:54"}
+{"level":"info","message":"GET /print/platform_total 66 2019-08-02 16:46:46","timestamp":"2019-08-02 16:46:46"}
+{"level":"info","message":"GET /print/all/info 2120 2019-08-02 16:46:53","timestamp":"2019-08-02 16:46:53"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:47:14","timestamp":"2019-08-02 16:47:14"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:47:14","timestamp":"2019-08-02 16:47:14"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:47:15","timestamp":"2019-08-02 16:47:15"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 16:47:51"}
+{"level":"info","message":"GET /order/platform/list 15 2019-08-02 16:48:30","timestamp":"2019-08-02 16:48:30"}
+{"level":"info","message":"GET /order/order_state_count 23 2019-08-02 16:48:30","timestamp":"2019-08-02 16:48:30"}
+{"level":"info","message":"GET /order/platform/order 6 2019-08-02 16:48:35","timestamp":"2019-08-02 16:48:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 16:48:51"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 16:48:51"}
+{"level":"info","message":"GET /order/platform/list 13 2019-08-02 16:49:08","timestamp":"2019-08-02 16:49:08"}
+{"level":"info","message":"GET /order/order_state_count 19 2019-08-02 16:49:08","timestamp":"2019-08-02 16:49:08"}
+{"level":"info","message":"GET /order/platform/order 6 2019-08-02 16:49:09","timestamp":"2019-08-02 16:49:09"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 16:51:51"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 16:51:51"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 16:51:51"}
+{"level":"info","message":"GET /order/platform/list 4 2019-08-02 16:54:42","timestamp":"2019-08-02 16:54:42"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:54:43","timestamp":"2019-08-02 16:54:43"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:54:44","timestamp":"2019-08-02 16:54:44"}
+{"level":"info","message":"GET /order/platform/list 3 2019-08-02 16:54:45","timestamp":"2019-08-02 16:54:45"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:54:46","timestamp":"2019-08-02 16:54:46"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:54:47","timestamp":"2019-08-02 16:54:47"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 16:54:51"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 16:54:51"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:54:54","timestamp":"2019-08-02 16:54:54"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:54:55","timestamp":"2019-08-02 16:54:55"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:54:56","timestamp":"2019-08-02 16:54:56"}
+{"level":"info","message":"GET /order/platform/list 2 2019-08-02 16:54:57","timestamp":"2019-08-02 16:54:57"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 16:55:51"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 16:57:51"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 16:57:51"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 16:59:51"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 17:00:51"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 17:00:51"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 17:03:51"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 17:03:51"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 17:03:51"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 17:06:51"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 17:06:51"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 17:07:51"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 17:09:51"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 17:09:51"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 17:11:51"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 17:12:51"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 17:12:51"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 17:15:51"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 17:15:51"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 17:15:51"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 17:18:51"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 17:18:51"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 17:19:51"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-08-02 17:20:03"}
+{"level":"error","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-08-02 17:20:18"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-08-02 17:20:18"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/63325014c50b4b16a81e50b3623f8d96/+/+/+","timestamp":"2019-08-02 17:20:18"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-08-02 17:20:18"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 17:21:51"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 17:21:51"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-08-02 17:22:37"}
+{"level":"error","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-08-02 17:22:52"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-08-02 17:22:52"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/63325014c50b4b16a81e50b3623f8d96/+/+/+","timestamp":"2019-08-02 17:22:52"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-08-02 17:22:52"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 17:23:51"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 17:24:51"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 17:24:51"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 17:27:51"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 17:27:51"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 17:27:51"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 17:30:51"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 17:30:51"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 17:31:51"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 17:33:51"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 17:33:51"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 17:35:51"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 17:36:51"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 17:36:51"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 17:39:51"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 17:39:51"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 17:39:51"}
+{"level":"info","message":"GET /order/order_state_count 8 2019-08-02 17:42:39","timestamp":"2019-08-02 17:42:39"}
+{"level":"info","message":"GET /area 3 2019-08-02 17:42:39","timestamp":"2019-08-02 17:42:39"}
+{"level":"info","message":"GET /table/list 10 2019-08-02 17:42:39","timestamp":"2019-08-02 17:42:39"}
+{"level":"info","message":"GET /table/number 4 2019-08-02 17:42:39","timestamp":"2019-08-02 17:42:39"}
+{"level":"info","message":"GET /order/platform/list 6 2019-08-02 17:42:40","timestamp":"2019-08-02 17:42:40"}
+{"level":"info","message":"GET /order/order_state_count 7 2019-08-02 17:42:40","timestamp":"2019-08-02 17:42:40"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 17:42:51"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 17:42:51"}
+{"level":"info","message":"GET /order/order_state_count 5 2019-08-02 17:43:04","timestamp":"2019-08-02 17:43:04"}
+{"level":"info","message":"GET /area 5 2019-08-02 17:43:04","timestamp":"2019-08-02 17:43:04"}
+{"level":"info","message":"GET /table/list 5 2019-08-02 17:43:04","timestamp":"2019-08-02 17:43:04"}
+{"level":"info","message":"GET /table/number 3 2019-08-02 17:43:04","timestamp":"2019-08-02 17:43:04"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 17:43:51"}
+{"level":"info","message":"GET /system/info 34 2019-08-02 17:44:36","timestamp":"2019-08-02 17:44:36"}
+{"level":"info","message":"GET /order/order_state_count 5 2019-08-02 17:44:37","timestamp":"2019-08-02 17:44:37"}
+{"level":"info","message":"GET /area 1 2019-08-02 17:44:37","timestamp":"2019-08-02 17:44:37"}
+{"level":"info","message":"GET /table/list 5 2019-08-02 17:44:37","timestamp":"2019-08-02 17:44:37"}
+{"level":"info","message":"GET /on/line/state 0 2019-08-02 17:44:37","timestamp":"2019-08-02 17:44:37"}
+{"level":"info","message":"GET /table/number 4 2019-08-02 17:44:37","timestamp":"2019-08-02 17:44:37"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-08-02 17:45:49"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/63325014c50b4b16a81e50b3623f8d96/+/+/+","timestamp":"2019-08-02 17:45:55"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-08-02 17:45:55"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-08-02 17:46:39"}
+{"level":"error","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-08-02 17:46:55"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-08-02 17:46:57"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/63325014c50b4b16a81e50b3623f8d96/+/+/+","timestamp":"2019-08-02 17:46:57"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-08-02 17:46:57"}
+{"level":"error","message":"resource \"GET:/19fc13b0f43aae5c1866.hot-update.json\" not found","timestamp":"2019-08-02 17:47:18"}
+{"level":"info","message":"GET /19fc13b0f43aae5c1866.hot-update.json 5 2019-08-02 17:47:18","timestamp":"2019-08-02 17:47:18"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-08-02 17:48:01"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/63325014c50b4b16a81e50b3623f8d96/+/+/+","timestamp":"2019-08-02 17:48:02"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-08-02 17:48:02"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 17:50:49"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 17:50:49"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 17:51:49"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 17:53:49"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 17:53:49"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 17:55:49"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 17:59:13"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 17:59:13"}
+{"level":"error","message":"==mqtt==close==你已断开连接,异常退出","timestamp":"2019-08-02 17:59:26"}
+{"level":"error","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-08-02 17:59:41"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-08-02 17:59:41"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/63325014c50b4b16a81e50b3623f8d96/+/+/+","timestamp":"2019-08-02 17:59:41"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-08-02 17:59:41"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 18:02:12"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 18:02:13"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 18:02:13"}
+{"level":"info","message":"GET /system/info 206 2019-08-02 18:03:32","timestamp":"2019-08-02 18:03:32"}
+{"level":"info","message":"GET /on/line/state 17 2019-08-02 18:03:32","timestamp":"2019-08-02 18:03:32"}
+{"level":"info","message":"GET /order/order_state_count 76 2019-08-02 18:03:32","timestamp":"2019-08-02 18:03:32"}
+{"level":"info","message":"GET /area 74 2019-08-02 18:03:32","timestamp":"2019-08-02 18:03:32"}
+{"level":"info","message":"GET /table/list 80 2019-08-02 18:03:32","timestamp":"2019-08-02 18:03:32"}
+{"level":"info","message":"GET /table/number 4 2019-08-02 18:03:32","timestamp":"2019-08-02 18:03:32"}
+{"level":"info","message":"GET /business/report 39 2019-08-02 18:03:33","timestamp":"2019-08-02 18:03:33"}
+{"level":"info","message":"GET /system/info 4 2019-08-02 18:03:57","timestamp":"2019-08-02 18:03:57"}
+{"level":"info","message":"GET /on/line/state 0 2019-08-02 18:03:57","timestamp":"2019-08-02 18:03:57"}
+{"level":"info","message":"GET /business/report 30 2019-08-02 18:03:57","timestamp":"2019-08-02 18:03:57"}
+{"level":"info","message":"GET /business/report 56 2019-08-02 18:04:51","timestamp":"2019-08-02 18:04:51"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 18:05:13"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 18:05:13"}
+{"level":"info","message":"GET /order/order_state_count 9 2019-08-02 18:05:40","timestamp":"2019-08-02 18:05:40"}
+{"level":"info","message":"GET /area 9 2019-08-02 18:05:40","timestamp":"2019-08-02 18:05:40"}
+{"level":"info","message":"GET /table/list 8 2019-08-02 18:05:40","timestamp":"2019-08-02 18:05:40"}
+{"level":"info","message":"GET /table/number 3 2019-08-02 18:05:40","timestamp":"2019-08-02 18:05:40"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 18:06:12"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 18:08:13"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 18:08:13"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 18:10:12"}
+{"level":"info","message":"GET /order/platform/list 10 2019-08-02 18:10:41","timestamp":"2019-08-02 18:10:41"}
+{"level":"info","message":"GET /order/order_state_count 10 2019-08-02 18:10:41","timestamp":"2019-08-02 18:10:41"}
+{"level":"info","message":"GET /order/order_state_count 6 2019-08-02 18:10:43","timestamp":"2019-08-02 18:10:43"}
+{"level":"info","message":"GET /area 4 2019-08-02 18:10:43","timestamp":"2019-08-02 18:10:43"}
+{"level":"info","message":"GET /table/list 5 2019-08-02 18:10:43","timestamp":"2019-08-02 18:10:43"}
+{"level":"info","message":"GET /table/number 3 2019-08-02 18:10:43","timestamp":"2019-08-02 18:10:43"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 18:11:13"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 18:11:13"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 18:14:12"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 18:14:13"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 18:14:13"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 18:17:13"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 18:17:13"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 18:18:12"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 18:20:13"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 18:20:13"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 18:22:12"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 18:23:13"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 18:23:13"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 18:26:12"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 18:26:13"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 18:26:13"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 18:29:13"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 18:29:13"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 18:30:12"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 18:32:13"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 18:32:13"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 18:34:12"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 18:35:13"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 18:35:13"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 18:38:13"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 18:38:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 18:38:14"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 18:41:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 18:41:14"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 18:42:13"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 18:44:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 18:44:14"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-02 18:46:13"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-02 18:47:14"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-02 18:47:14"}

@@ -1,0 +1,40 @@
+{"level":"info","message":"mqtt成功连接到：mqtt://test.emq.restoplus.cn:1883","timestamp":"2019-04-02 10:11:09"}
+{"level":"info","message":"../../../restoPlus.db,Connection has been established successfully.","timestamp":"2019-04-02 10:11:09"}
+{"level":"info","message":"GET /system/info 260 2019-04-02T02:14:19.046Z","timestamp":"2019-04-02 10:14:19"}
+{"level":"info","message":"GET /area 15 2019-04-02T02:14:19.454Z","timestamp":"2019-04-02 10:14:19"}
+{"level":"info","message":"GET /table/list 147 2019-04-02T02:14:19.592Z","timestamp":"2019-04-02 10:14:19"}
+{"level":"info","message":"GET /system/info 28 2019-04-02T03:38:56.523Z","timestamp":"2019-04-02 11:38:56"}
+{"level":"info","message":"GET /area 8 2019-04-02T03:38:56.719Z","timestamp":"2019-04-02 11:38:56"}
+{"level":"info","message":"GET /table/list 7 2019-04-02T03:38:56.724Z","timestamp":"2019-04-02 11:38:56"}
+{"level":"info","message":"GET /system/info 78 2019-04-02T03:42:17.388Z","timestamp":"2019-04-02 11:42:17"}
+{"level":"info","message":"GET /area 5 2019-04-02T03:42:17.699Z","timestamp":"2019-04-02 11:42:17"}
+{"level":"info","message":"GET /table/list 5 2019-04-02T03:42:17.702Z","timestamp":"2019-04-02 11:42:17"}
+{"level":"info","message":"GET /system/info 84 2019-04-02T03:42:33.104Z","timestamp":"2019-04-02 11:42:33"}
+{"level":"info","message":"GET /area 2 2019-04-02T03:42:33.502Z","timestamp":"2019-04-02 11:42:33"}
+{"level":"info","message":"GET /table/list 4 2019-04-02T03:42:33.508Z","timestamp":"2019-04-02 11:42:33"}
+{"level":"info","message":"GET /system/info 159 2019-04-02T03:42:39.019Z","timestamp":"2019-04-02 11:42:39"}
+{"level":"info","message":"GET /area 2 2019-04-02T03:42:39.200Z","timestamp":"2019-04-02 11:42:39"}
+{"level":"info","message":"GET /table/list 5 2019-04-02T03:42:39.207Z","timestamp":"2019-04-02 11:42:39"}
+{"level":"info","message":"GET /system/info 90 2019-04-02T03:42:52.558Z","timestamp":"2019-04-02 11:42:52"}
+{"level":"info","message":"GET /area 6 2019-04-02T03:42:52.740Z","timestamp":"2019-04-02 11:42:52"}
+{"level":"info","message":"GET /table/list 7 2019-04-02T03:42:52.745Z","timestamp":"2019-04-02 11:42:52"}
+{"level":"info","message":"GET /system/info 74 2019-04-02T03:43:04.170Z","timestamp":"2019-04-02 11:43:04"}
+{"level":"info","message":"GET /area 5 2019-04-02T03:43:04.461Z","timestamp":"2019-04-02 11:43:04"}
+{"level":"info","message":"GET /table/list 5 2019-04-02T03:43:04.464Z","timestamp":"2019-04-02 11:43:04"}
+{"level":"info","message":"GET /system/info 31 2019-04-02T03:43:11.119Z","timestamp":"2019-04-02 11:43:11"}
+{"level":"info","message":"GET /area 1 2019-04-02T03:43:11.469Z","timestamp":"2019-04-02 11:43:11"}
+{"level":"info","message":"GET /table/list 4 2019-04-02T03:43:11.477Z","timestamp":"2019-04-02 11:43:11"}
+{"level":"info","message":"GET /system/info 86 2019-04-02T03:53:58.188Z","timestamp":"2019-04-02 11:53:58"}
+{"level":"info","message":"GET /area 2 2019-04-02T03:53:58.285Z","timestamp":"2019-04-02 11:53:58"}
+{"level":"info","message":"GET /table/list 6 2019-04-02T03:53:58.293Z","timestamp":"2019-04-02 11:53:58"}
+{"level":"error","message":"==mqtt==close==你已断开连接,异常退出","timestamp":"2019-04-02 13:48:11"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-02 13:48:26"}
+{"level":"info","message":"mqtt成功连接到：mqtt://test.emq.restoplus.cn:1883","timestamp":"2019-04-02 13:48:26"}
+{"level":"error","message":"==mqtt==close==你已断开连接,异常退出","timestamp":"2019-04-02 14:18:41"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-02 14:18:56"}
+{"level":"error","message":"==mqtt==close==你已断开连接,异常退出","timestamp":"2019-04-02 14:19:26"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-02 14:19:41"}
+{"level":"info","message":"mqtt成功连接到：mqtt://test.emq.restoplus.cn:1883","timestamp":"2019-04-02 14:19:41"}
+{"level":"error","message":"==mqtt==close==你已断开连接,异常退出","timestamp":"2019-04-02 16:11:51"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-02 16:12:06"}
+{"level":"info","message":"mqtt成功连接到：mqtt://test.emq.restoplus.cn:1883","timestamp":"2019-04-02 16:12:06"}

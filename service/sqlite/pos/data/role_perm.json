@@ -1,0 +1,129 @@
+[
+
+  {
+    "id" : "5b98c18b7b2a932c2e95a72c",
+    "role_id" : "5b978ded439546188feb3fc0",
+    "perm_val" : "*",
+    "perm_type" : 0
+  },
+  {
+    "id" : "5b9f79bc63dc372800cade7f",
+    "role_id" : "5b979054ab821318e1b8235b",
+    "perm_type" : 1,
+    "perm_val" : "m:sys"
+  },
+  {
+    "id" : "5b9f79bc63dc372800cade80",
+    "role_id" : "5b979054ab821318e1b8235b",
+    "perm_type" : 1,
+    "perm_val" : "m:sys:user"
+  },
+  {
+    "id" : "5b9f79bc63dc372800cade81",
+    "role_id" : "5b979054ab821318e1b8235b",
+    "perm_type" : 1,
+    "perm_val" : "m:sys:role"
+  },
+  {
+    "id" : "5b9f79bc63dc372800cade82",
+    "role_id" : "5b979054ab821318e1b8235b",
+    "perm_type" : 1,
+    "perm_val" : "m:sys:perm"
+  },
+  {
+    "id" : "5b9f7a92ae0c70543a4cfe8a",
+    "role_id" : "5b979054ab821318e1b8235b",
+    "perm_type" : 2,
+    "perm_val" : "b:user:delete"
+  },
+  {
+    "id" : "5ba0b4912d15ea0a420c8f94",
+    "role_id" : "5b9f8cabb3db1038447e02ed",
+    "perm_type" : 1,
+    "perm_val" : "m:sys:user"
+  },
+  {
+    "id" : "5ba0b4912d15ea0a420c8f95",
+    "role_id" : "5b9f8cabb3db1038447e02ed",
+    "perm_type" : 1,
+    "perm_val" : "m:sys:role"
+  },
+  {
+    "id" : "5ba0b4912d15ea0a420c8f96",
+    "role_id" : "5b9f8cabb3db1038447e02ed",
+    "perm_type" : 1,
+    "perm_val" : "m:menu1"
+  },
+  {
+    "id" : "5ba0b4912d15ea0a420c8f97",
+    "role_id" : "5b9f8cabb3db1038447e02ed",
+    "perm_type" : 1,
+    "perm_val" : "m:menu3"
+  },
+  {
+    "id" : "5ba0b4912d15ea0a420c8f98",
+    "role_id" : "5b9f8cabb3db1038447e02ed",
+    "perm_type" : 1,
+    "perm_val" : "m:menu3:1"
+  },
+  {
+    "id" : "5ba0b4912d15ea0a420c8f99",
+    "role_id" : "5b9f8cabb3db1038447e02ed",
+    "perm_type" : 1,
+    "perm_val" : "m:menu3:2"
+  },
+  {
+    "id" : "5ba0b4912d15ea0a420c8f9a",
+    "role_id" : "5b9f8cabb3db1038447e02ed",
+    "perm_type" : 1,
+    "perm_val" : "m:menu3:3"
+  },
+  {
+    "id" : "5ba0b4912d15ea0a420c8f9b",
+    "role_id" : "5b9f8cabb3db1038447e02ed",
+    "perm_type" : 1,
+    "perm_val" : "m:menu4"
+  },
+  {
+    "id" : "5ba0b4912d15ea0a420c8f9c",
+    "role_id" : "5b9f8cabb3db1038447e02ed",
+    "perm_type" : 1,
+    "perm_val" : "m:menu4:1"
+  },
+  {
+    "id" : "5ba0b4912d15ea0a420c8f9d",
+    "role_id" : "5b9f8cabb3db1038447e02ed",
+    "perm_type" : 1,
+    "perm_val" : "m:menu4:1:a"
+  },
+  {
+    "id" : "5ba0b4912d15ea0a420c8f9e",
+    "role_id" : "5b9f8cabb3db1038447e02ed",
+    "perm_type" : 1,
+    "perm_val" : "m:menu4:1:b"
+  },
+  {
+    "id" : "5ba0b4912d15ea0a420c8f9f",
+    "role_id" : "5b9f8cabb3db1038447e02ed",
+    "perm_type" : 1,
+    "perm_val" : "m:menu4:1:c"
+  },
+  {
+    "id" : "5ba0b4912d15ea0a420c8fa0",
+    "role_id" : "5b9f8cabb3db1038447e02ed",
+    "perm_type" : 1,
+    "perm_val" : "m:menu4:2"
+  },
+  {
+    "id" : "5ba0b4912d15ea0a420c8fa1",
+    "role_id" : "5b9f8cabb3db1038447e02ed",
+    "perm_type" : 1,
+    "perm_val" : "m:sys"
+  },
+  {
+    "id" : "5ba0b4942d15ea0a420c8fa2",
+    "role_id" : "5b9f8cabb3db1038447e02ed",
+    "perm_type" : 2,
+    "perm_val" : "b:user:add"
+  }
+]

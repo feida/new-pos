@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report>
+    <Command>INIT</Command>
+    <Command>SMOOTH</Command>
+    <Command>IMAGE_NV</Command>
+    <line>
+        <Text font="FONT_A_HW">备注：</Text>
+        <Variable name="MEMO" datatype="STRING" font="FONT_A_HW"/>
+    </line>
+    <Line /><Line />
+    <Line align="CENTER" font="FONT_A">
+        <Qrcode>
+            <Variable name="QRCODE" datatype="OBJECT" />
+        </Qrcode>
+    </Line>
+    <Line /><Line />
+    <Command>CUT</Command>
+</Report>
+

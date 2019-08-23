@@ -1,0 +1,116 @@
+﻿[
+  {
+    "id": "5b978ded439546188feb3fc0",
+    "rname": "超级管理员",
+    "rdesc": "具有本系统中最高权限",
+    "rval": "root"
+  },
+  {
+    "id": "5b978ff5ab821318e1b82354",
+    "rname": "阿斯蒂芬",
+    "rdesc": "颂德歌功",
+    "rval": "asdgwergreh"
+  },
+  {
+    "id": "5b979002ab821318e1b82355",
+    "rname": "阿斯达",
+    "rdesc": "sdfwerty",
+    "rval": "sgsf"
+  },
+  {
+    "id": "5b97901aab821318e1b82357",
+    "rname": "文员",
+    "rdesc": "拥有文员相关的权限",
+    "rval": "stuff"
+  },
+  {
+    "id": "5b979029ab821318e1b82358",
+    "rname": "销售",
+    "rdesc": "拥有财务相关权限",
+    "rval": "sale"
+  },
+  {
+    "id": "5b97903fab821318e1b82359",
+    "rname": "仓管",
+    "rdesc": "拥有仓管相关权限",
+    "rval": "stock"
+  },
+  {
+    "id": "5b97904aab821318e1b8235a",
+    "rname": "财务",
+    "rdesc": "拥有财务相关权限",
+    "rval": "finance"
+  },
+  {
+    "id": "5b979054ab821318e1b8235b",
+    "rname": "普通用户",
+    "rdesc": "具有一般的权限，不具备系统菜单权限1",
+    "rval": "common"
+  },
+  {
+    "id": "5b97907bab821318e1b8235c",
+    "rname": "普通用户1",
+    "rdesc": "具有一般的权限，不具备系统菜单权限113444411",
+    "rval": "commonsss"
+  },
+  {
+    "id": "5b9f89a620f58d37c608177d",
+    "rname": "彩色电视1",
+    "rdesc": "12313",
+    "rval": "sasa"
+  },
+  {
+    "id": "5b9f8b52b3db1038447e02e5",
+    "rname": "测试123",
+    "rdesc": "阿斯达",
+    "rval": "jjjsf"
+  },
+  {
+    "id": "5b9f8b83b3db1038447e02e6",
+    "rname": "测试33333",
+    "rdesc": "的观点",
+    "rval": "uuu"
+  },
+  {
+    "id": "5b9f8b96b3db1038447e02e7",
+    "rname": "测试777",
+    "rdesc": "阿斯达1111",
+    "rval": "oioi"
+  },
+  {
+    "id": "5b9f8bb7b3db1038447e02e8",
+    "rname": "出发点444",
+    "rdesc": "水电费水电费",
+    "rval": "gggg"
+  },
+  {
+    "id": "5b9f8bf2b3db1038447e02e9",
+    "rname": "递四方速递11",
+    "rdesc": "阿斯达",
+    "rval": "rrrr"
+  },
+  {
+    "id": "5b9f8c01b3db1038447e02ea",
+    "rname": "阿斯达111通天塔",
+    "rdesc": "水电费",
+    "rval": "rrr"
+  },
+  {
+    "id": "5b9f8c10b3db1038447e02eb",
+    "rname": "水电费12312321",
+    "rdesc": "水电费",
+    "rval": "rrrrr"
+  },
+  {
+    "id": "5b9f8c7fb3db1038447e02ec",
+    "rname": "阿斯达5555",
+    "rdesc": "阿达11",
+    "rval": "ddddd"
+  },
+  {
+    "id": "5b9f8cabb3db1038447e02ed",
+    "rname": "水电费",
+    "rdesc": "阿斯达多333",
+    "rval": "ssss"
+  }
+]

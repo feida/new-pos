@@ -1,0 +1,4 @@
+[2019-06-18 11:14:28 415] --- 【厨房打印第一步】=> 【发起厨房打印】【手动打印 】 orderId：6bec6e73a21244f1ae9d3be016fd7389,refund:0, 
+[2019-06-18 11:14:28 780] --- 【小票打印机】=> 【消费清单打印未开启】==>192.168.1.224 
+[2019-06-18 11:14:38 727] --- 【厨房打印==>】=> 【小票打印厨打成功==>[Printer socket error] 响应超时】 订单ID：6bec6e73a21244f1ae9d3be016fd7389,流水号:201906181114251480,『{"RESTAURANT_TEL":"021-88886666","DISTRIBUTION_MODE":"堂吃","TABLE_NUMBER":"1","ORDER_NUMBER":"001","ORDER_ID":"201906181114251480","BARCODE":"1114251480","DATETIME":"2019-06-18 11:14:25","ORIGINAL_AMOUNT":1,"CUSTOMER_SATISFACTION":"☆☆☆☆☆","CUSTOMER_SATISFACTION_DEGREE":0,"CUSTOMER_PROPERTY":"-","MEMO":"-","PRINTERIP":"192.168.1.224","PRINTERPORT":"ETH","PRINTTEMPLATE":"/Users/chintec/Documents/node/resto-newpos/report/kitchen_ticket_not_user_info.xml"}』
+【打印数据】:[{"ARTICLE_COUNT":1,"ARTICLE_NAME":"鱼豆腐"}] 

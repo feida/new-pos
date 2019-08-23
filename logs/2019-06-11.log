@@ -1,0 +1,290 @@
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-06-11 09:46:56"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/d2ff1bbb8c6f4fd8adb3949f76f8c1b6/+/+/+","timestamp":"2019-06-11 09:46:56"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-06-11 09:46:56"}
+{"level":"error","message":"==mqtt==close==你已断开连接,异常退出","timestamp":"2019-06-11 09:47:24"}
+{"level":"error","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-06-11 09:47:39"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-06-11 09:47:39"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/d2ff1bbb8c6f4fd8adb3949f76f8c1b6/+/+/+","timestamp":"2019-06-11 09:47:39"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-06-11 09:47:39"}
+{"level":"info","message":"GET /system/info 483 2019-06-11 09:56:58","timestamp":"2019-06-11 09:56:58"}
+{"level":"info","message":"GET /on/line/state 1 2019-06-11 09:56:59","timestamp":"2019-06-11 09:56:59"}
+{"level":"info","message":"GET /order/order_state_count 89 2019-06-11 09:56:59","timestamp":"2019-06-11 09:56:59"}
+{"level":"info","message":"GET /area 78 2019-06-11 09:56:59","timestamp":"2019-06-11 09:56:59"}
+{"level":"info","message":"GET /table/list 144 2019-06-11 09:56:59","timestamp":"2019-06-11 09:56:59"}
+{"level":"info","message":"GET /order/detail 180 2019-06-11 09:56:59","timestamp":"2019-06-11 09:56:59"}
+{"level":"info","message":"GET /order/get_order_test 7 2019-06-11 09:56:59","timestamp":"2019-06-11 09:56:59"}
+{"level":"info","message":"GET /system/info 3 2019-06-11 10:22:03","timestamp":"2019-06-11 10:22:03"}
+{"level":"info","message":"GET /on/line/state 1 2019-06-11 10:22:03","timestamp":"2019-06-11 10:22:03"}
+{"level":"info","message":"GET /order/order_state_count 22 2019-06-11 10:22:03","timestamp":"2019-06-11 10:22:03"}
+{"level":"info","message":"GET /area 21 2019-06-11 10:22:03","timestamp":"2019-06-11 10:22:03"}
+{"level":"info","message":"GET /table/list 21 2019-06-11 10:22:03","timestamp":"2019-06-11 10:22:03"}
+{"level":"info","message":"GET /order/detail 34 2019-06-11 10:22:03","timestamp":"2019-06-11 10:22:03"}
+{"level":"info","message":"GET /order/get_order_test 3 2019-06-11 10:22:03","timestamp":"2019-06-11 10:22:03"}
+{"level":"info","message":"GET /order/detail 6 2019-06-11 10:22:06","timestamp":"2019-06-11 10:22:06"}
+{"level":"info","message":"GET /order/detail 5 2019-06-11 10:22:06","timestamp":"2019-06-11 10:22:06"}
+{"level":"info","message":"GET /order/discount_info 2 2019-06-11 10:22:06","timestamp":"2019-06-11 10:22:06"}
+{"level":"info","message":"GET /order/order_items 9 2019-06-11 10:22:06","timestamp":"2019-06-11 10:22:06"}
+{"level":"info","message":"GET /order/order_state_count 8 2019-06-11 10:22:08","timestamp":"2019-06-11 10:22:08"}
+{"level":"info","message":"GET /area 7 2019-06-11 10:22:08","timestamp":"2019-06-11 10:22:08"}
+{"level":"info","message":"GET /table/list 10 2019-06-11 10:22:08","timestamp":"2019-06-11 10:22:08"}
+{"level":"info","message":"GET /order/detail 23 2019-06-11 10:22:08","timestamp":"2019-06-11 10:22:08"}
+{"level":"info","message":"GET /order/get_order_test 3 2019-06-11 10:22:08","timestamp":"2019-06-11 10:22:08"}
+{"level":"info","message":"POST /bind/table 67 2019-06-11 10:22:10","timestamp":"2019-06-11 10:22:10"}
+{"level":"info","message":"GET /order/detail 11 2019-06-11 10:22:10","timestamp":"2019-06-11 10:22:10"}
+{"level":"info","message":"GET /article/family_list 3 2019-06-11 10:22:10","timestamp":"2019-06-11 10:22:10"}
+{"level":"info","message":"GET /article/article_list 45 2019-06-11 10:22:10","timestamp":"2019-06-11 10:22:10"}
+{"level":"info","message":"POST /push/order 120 2019-06-11 10:22:13","timestamp":"2019-06-11 10:22:13"}
+{"level":"info","message":"【/v1/newpos/order/push】==> 下单成功！","timestamp":"2019-06-11 10:22:13"}
+{"level":"info","message":"GET /order/discount_info 5 2019-06-11 10:22:13","timestamp":"2019-06-11 10:22:13"}
+{"level":"info","message":"GET /order/order_items 21 2019-06-11 10:22:13","timestamp":"2019-06-11 10:22:13"}
+{"level":"info","message":"GET /order/detail 21 2019-06-11 10:22:13","timestamp":"2019-06-11 10:22:13"}
+{"level":"info","message":"GET /order/detail 9 2019-06-11 10:22:13","timestamp":"2019-06-11 10:22:13"}
+{"level":"info","message":"GET /order/order_state_count 8 2019-06-11 10:22:19","timestamp":"2019-06-11 10:22:19"}
+{"level":"info","message":"GET /area 6 2019-06-11 10:22:19","timestamp":"2019-06-11 10:22:19"}
+{"level":"info","message":"GET /table/list 6 2019-06-11 10:22:19","timestamp":"2019-06-11 10:22:19"}
+{"level":"info","message":"GET /order/get_order_test 13 2019-06-11 10:22:20","timestamp":"2019-06-11 10:22:20"}
+{"level":"info","message":"GET /order/detail 22 2019-06-11 10:22:20","timestamp":"2019-06-11 10:22:20"}
+{"level":"info","message":"GET /order/get_order_test 3 2019-06-11 10:22:20","timestamp":"2019-06-11 10:22:20"}
+{"level":"info","message":"GET /order/get_order_test 9 2019-06-11 10:22:20","timestamp":"2019-06-11 10:22:20"}
+{"level":"info","message":"GET /order/detail 10 2019-06-11 10:22:20","timestamp":"2019-06-11 10:22:20"}
+{"level":"info","message":"开始更新数据","timestamp":"2019-06-11 10:22:22"}
+{"level":"info","message":"更新数据完成","timestamp":"2019-06-11 10:22:27"}
+{"level":"info","message":"GET /on/line/state 1 2019-06-11 10:22:27","timestamp":"2019-06-11 10:22:27"}
+{"level":"info","message":"GET /user/normal/list 2 2019-06-11 10:22:27","timestamp":"2019-06-11 10:22:27"}
+{"level":"info","message":"开始同步库存数据","timestamp":"2019-06-11 10:22:31"}
+{"level":"info","message":"POST /user/login 14 2019-06-11 10:22:31","timestamp":"2019-06-11 10:22:31"}
+{"level":"info","message":"GET /on/line/state 0 2019-06-11 10:22:31","timestamp":"2019-06-11 10:22:31"}
+{"level":"info","message":"GET /order/order_state_count 18 2019-06-11 10:22:31","timestamp":"2019-06-11 10:22:31"}
+{"level":"info","message":"GET /area 21 2019-06-11 10:22:31","timestamp":"2019-06-11 10:22:31"}
+{"level":"info","message":"GET /table/list 22 2019-06-11 10:22:31","timestamp":"2019-06-11 10:22:31"}
+{"level":"info","message":"同步库存数据开始!","timestamp":"2019-06-11 10:22:31"}
+{"level":"info","message":"GET /order/get_order_test 17 2019-06-11 10:22:31","timestamp":"2019-06-11 10:22:31"}
+{"level":"info","message":"GET /order/detail 28 2019-06-11 10:22:31","timestamp":"2019-06-11 10:22:31"}
+{"level":"info","message":"同步库存数据完成!","timestamp":"2019-06-11 10:22:32"}
+{"level":"info","message":"GET /order/get_order_test 5 2019-06-11 10:22:32","timestamp":"2019-06-11 10:22:32"}
+{"level":"info","message":"POST /bind/table 126 2019-06-11 10:22:35","timestamp":"2019-06-11 10:22:35"}
+{"level":"info","message":"GET /article/family_list 1 2019-06-11 10:22:35","timestamp":"2019-06-11 10:22:35"}
+{"level":"info","message":"GET /order/detail 7 2019-06-11 10:22:35","timestamp":"2019-06-11 10:22:35"}
+{"level":"info","message":"GET /article/article_list 11 2019-06-11 10:22:35","timestamp":"2019-06-11 10:22:35"}
+{"level":"info","message":"POST /push/order 34 2019-06-11 10:22:37","timestamp":"2019-06-11 10:22:37"}
+{"level":"info","message":"GET /order/order_state_count 7 2019-06-11 10:22:38","timestamp":"2019-06-11 10:22:38"}
+{"level":"info","message":"GET /area 6 2019-06-11 10:22:38","timestamp":"2019-06-11 10:22:38"}
+{"level":"info","message":"GET /table/list 8 2019-06-11 10:22:38","timestamp":"2019-06-11 10:22:38"}
+{"level":"info","message":"【/v1/newpos/order/push】==> 下单成功！","timestamp":"2019-06-11 10:22:38"}
+{"level":"info","message":"GET /order/detail 24 2019-06-11 10:22:38","timestamp":"2019-06-11 10:22:38"}
+{"level":"info","message":"GET /order/get_order_test 3 2019-06-11 10:22:38","timestamp":"2019-06-11 10:22:38"}
+{"level":"info","message":"POST /bind/table 23 2019-06-11 10:22:43","timestamp":"2019-06-11 10:22:43"}
+{"level":"info","message":"GET /article/family_list 2 2019-06-11 10:22:43","timestamp":"2019-06-11 10:22:43"}
+{"level":"info","message":"GET /order/detail 7 2019-06-11 10:22:43","timestamp":"2019-06-11 10:22:43"}
+{"level":"info","message":"GET /article/article_list 11 2019-06-11 10:22:43","timestamp":"2019-06-11 10:22:43"}
+{"level":"info","message":"GET /order/order_state_count 5 2019-06-11 10:22:46","timestamp":"2019-06-11 10:22:46"}
+{"level":"info","message":"GET /area 4 2019-06-11 10:22:46","timestamp":"2019-06-11 10:22:46"}
+{"level":"info","message":"GET /table/list 6 2019-06-11 10:22:46","timestamp":"2019-06-11 10:22:46"}
+{"level":"info","message":"GET /order/get_order_test 7 2019-06-11 10:22:46","timestamp":"2019-06-11 10:22:46"}
+{"level":"info","message":"GET /order/detail 18 2019-06-11 10:22:46","timestamp":"2019-06-11 10:22:46"}
+{"level":"info","message":"GET /order/get_order_test 3 2019-06-11 10:22:47","timestamp":"2019-06-11 10:22:47"}
+{"level":"info","message":"GET /article/family_list 2 2019-06-11 10:24:25","timestamp":"2019-06-11 10:24:25"}
+{"level":"info","message":"GET /order/detail 8 2019-06-11 10:24:25","timestamp":"2019-06-11 10:24:25"}
+{"level":"info","message":"GET /article/article_list 14 2019-06-11 10:24:25","timestamp":"2019-06-11 10:24:25"}
+{"level":"info","message":"GET /article/article_list 6 2019-06-11 10:24:32","timestamp":"2019-06-11 10:24:32"}
+{"level":"info","message":"GET /article/weight_package 3 2019-06-11 10:24:34","timestamp":"2019-06-11 10:24:34"}
+{"level":"info","message":"GET /article/article_list 8 2019-06-11 10:24:40","timestamp":"2019-06-11 10:24:40"}
+{"level":"info","message":"GET /article/article_list 10 2019-06-11 10:24:44","timestamp":"2019-06-11 10:24:44"}
+{"level":"info","message":"GET /article/article_list 6 2019-06-11 10:24:49","timestamp":"2019-06-11 10:24:49"}
+{"level":"info","message":"GET /article/article_list 6 2019-06-11 10:24:50","timestamp":"2019-06-11 10:24:50"}
+{"level":"info","message":"GET /article/article_list 14 2019-06-11 10:24:50","timestamp":"2019-06-11 10:24:50"}
+{"level":"info","message":"GET /article/article_list 7 2019-06-11 10:24:51","timestamp":"2019-06-11 10:24:51"}
+{"level":"info","message":"GET /article/article_list 9 2019-06-11 10:24:52","timestamp":"2019-06-11 10:24:52"}
+{"level":"info","message":"GET /article/article_list 9 2019-06-11 10:24:54","timestamp":"2019-06-11 10:24:54"}
+{"level":"info","message":"GET /article/article_list 7 2019-06-11 10:25:51","timestamp":"2019-06-11 10:25:51"}
+{"level":"info","message":"GET /article/article_list 7 2019-06-11 10:25:52","timestamp":"2019-06-11 10:25:52"}
+{"level":"info","message":"GET /article/article_list 6 2019-06-11 10:26:14","timestamp":"2019-06-11 10:26:14"}
+{"level":"info","message":"GET /article/article_list 10 2019-06-11 10:26:15","timestamp":"2019-06-11 10:26:15"}
+{"level":"info","message":"GET /system/info 5 2019-06-11 10:26:22","timestamp":"2019-06-11 10:26:22"}
+{"level":"info","message":"GET /on/line/state 1 2019-06-11 10:26:22","timestamp":"2019-06-11 10:26:22"}
+{"level":"info","message":"GET /article/family_list 15 2019-06-11 10:26:22","timestamp":"2019-06-11 10:26:22"}
+{"level":"info","message":"GET /order/detail 27 2019-06-11 10:26:22","timestamp":"2019-06-11 10:26:22"}
+{"level":"info","message":"GET /article/article_list 24 2019-06-11 10:26:22","timestamp":"2019-06-11 10:26:22"}
+{"level":"info","message":"GET /article/article_list 9 2019-06-11 10:26:25","timestamp":"2019-06-11 10:26:25"}
+{"level":"info","message":"GET /article/article_list 6 2019-06-11 10:26:26","timestamp":"2019-06-11 10:26:26"}
+{"level":"info","message":"GET /article/article_list 11 2019-06-11 10:26:27","timestamp":"2019-06-11 10:26:27"}
+{"level":"info","message":"GET /article/article_list 10 2019-06-11 10:26:29","timestamp":"2019-06-11 10:26:29"}
+{"level":"info","message":"GET /article/article_list 11 2019-06-11 10:26:30","timestamp":"2019-06-11 10:26:30"}
+{"level":"info","message":"GET /article/article_list 6 2019-06-11 10:26:31","timestamp":"2019-06-11 10:26:31"}
+{"level":"info","message":"GET /article/article_list 8 2019-06-11 10:26:32","timestamp":"2019-06-11 10:26:32"}
+{"level":"info","message":"GET /article/article_list 10 2019-06-11 10:26:34","timestamp":"2019-06-11 10:26:34"}
+{"level":"info","message":"GET /article/article_list 6 2019-06-11 10:26:36","timestamp":"2019-06-11 10:26:36"}
+{"level":"info","message":"GET /article/article_list 12 2019-06-11 10:26:37","timestamp":"2019-06-11 10:26:37"}
+{"level":"info","message":"GET /article/article_list 6 2019-06-11 10:26:38","timestamp":"2019-06-11 10:26:38"}
+{"level":"info","message":"GET /article/article_list 9 2019-06-11 10:26:39","timestamp":"2019-06-11 10:26:39"}
+{"level":"info","message":"GET /article/article_list 7 2019-06-11 10:26:42","timestamp":"2019-06-11 10:26:42"}
+{"level":"info","message":"GET /article/article_list 7 2019-06-11 10:26:43","timestamp":"2019-06-11 10:26:43"}
+{"level":"info","message":"GET /article/article_list 8 2019-06-11 10:26:45","timestamp":"2019-06-11 10:26:45"}
+{"level":"info","message":"开始更新数据","timestamp":"2019-06-11 10:28:36"}
+{"level":"info","message":"更新数据完成","timestamp":"2019-06-11 10:28:42"}
+{"level":"info","message":"GET /on/line/state 0 2019-06-11 10:28:42","timestamp":"2019-06-11 10:28:42"}
+{"level":"info","message":"GET /user/normal/list 5 2019-06-11 10:28:42","timestamp":"2019-06-11 10:28:42"}
+{"level":"info","message":"开始同步库存数据","timestamp":"2019-06-11 10:28:47"}
+{"level":"info","message":"POST /user/login 12 2019-06-11 10:28:47","timestamp":"2019-06-11 10:28:47"}
+{"level":"info","message":"同步库存数据开始!","timestamp":"2019-06-11 10:28:47"}
+{"level":"info","message":"GET /on/line/state 0 2019-06-11 10:28:47","timestamp":"2019-06-11 10:28:47"}
+{"level":"info","message":"GET /order/order_state_count 26 2019-06-11 10:28:47","timestamp":"2019-06-11 10:28:47"}
+{"level":"info","message":"GET /area 29 2019-06-11 10:28:47","timestamp":"2019-06-11 10:28:47"}
+{"level":"info","message":"GET /table/list 34 2019-06-11 10:28:47","timestamp":"2019-06-11 10:28:47"}
+{"level":"info","message":"GET /order/get_order_test 22 2019-06-11 10:28:48","timestamp":"2019-06-11 10:28:48"}
+{"level":"info","message":"GET /order/detail 45 2019-06-11 10:28:48","timestamp":"2019-06-11 10:28:48"}
+{"level":"info","message":"同步库存数据完成!","timestamp":"2019-06-11 10:28:48"}
+{"level":"info","message":"GET /order/get_order_test 4 2019-06-11 10:28:48","timestamp":"2019-06-11 10:28:48"}
+{"level":"info","message":"GET /article/family_list 2 2019-06-11 10:28:51","timestamp":"2019-06-11 10:28:51"}
+{"level":"info","message":"GET /order/detail 6 2019-06-11 10:28:51","timestamp":"2019-06-11 10:28:51"}
+{"level":"info","message":"GET /article/article_list 17 2019-06-11 10:28:51","timestamp":"2019-06-11 10:28:51"}
+{"level":"info","message":"GET /article/article_list 10 2019-06-11 10:28:54","timestamp":"2019-06-11 10:28:54"}
+{"level":"info","message":"GET /article/unit_list 41 2019-06-11 10:28:57","timestamp":"2019-06-11 10:28:57"}
+{"level":"info","message":"GET /article/article_list 9 2019-06-11 10:29:15","timestamp":"2019-06-11 10:29:15"}
+{"level":"info","message":"GET /article/article_list 9 2019-06-11 10:29:17","timestamp":"2019-06-11 10:29:17"}
+{"level":"info","message":"GET /order/order_state_count 12 2019-06-11 10:29:20","timestamp":"2019-06-11 10:29:20"}
+{"level":"info","message":"GET /area 10 2019-06-11 10:29:20","timestamp":"2019-06-11 10:29:20"}
+{"level":"info","message":"GET /table/list 11 2019-06-11 10:29:20","timestamp":"2019-06-11 10:29:20"}
+{"level":"info","message":"GET /order/detail 29 2019-06-11 10:29:20","timestamp":"2019-06-11 10:29:20"}
+{"level":"info","message":"GET /order/get_order_test 3 2019-06-11 10:29:21","timestamp":"2019-06-11 10:29:21"}
+{"level":"info","message":"GET /article/family_list 4 2019-06-11 10:29:22","timestamp":"2019-06-11 10:29:22"}
+{"level":"info","message":"GET /order/detail 12 2019-06-11 10:29:22","timestamp":"2019-06-11 10:29:22"}
+{"level":"info","message":"GET /article/article_list 24 2019-06-11 10:29:22","timestamp":"2019-06-11 10:29:22"}
+{"level":"info","message":"GET /article/price 1 2019-06-11 10:29:24","timestamp":"2019-06-11 10:29:24"}
+{"level":"info","message":"GET /order/order_state_count 9 2019-06-11 10:29:34","timestamp":"2019-06-11 10:29:34"}
+{"level":"info","message":"GET /area 10 2019-06-11 10:29:34","timestamp":"2019-06-11 10:29:34"}
+{"level":"info","message":"GET /table/list 11 2019-06-11 10:29:34","timestamp":"2019-06-11 10:29:34"}
+{"level":"info","message":"GET /order/detail 25 2019-06-11 10:29:34","timestamp":"2019-06-11 10:29:34"}
+{"level":"info","message":"GET /order/get_order_test 5 2019-06-11 10:29:35","timestamp":"2019-06-11 10:29:35"}
+{"level":"info","message":"GET /order/detail 7 2019-06-11 10:29:39","timestamp":"2019-06-11 10:29:39"}
+{"level":"info","message":"GET /order/get_order_test 5 2019-06-11 10:29:39","timestamp":"2019-06-11 10:29:39"}
+{"level":"info","message":"GET /article/family_list 4 2019-06-11 10:29:40","timestamp":"2019-06-11 10:29:40"}
+{"level":"info","message":"GET /order/detail 9 2019-06-11 10:29:40","timestamp":"2019-06-11 10:29:40"}
+{"level":"info","message":"GET /article/article_list 20 2019-06-11 10:29:40","timestamp":"2019-06-11 10:29:40"}
+{"level":"info","message":"GET /system/info 8 2019-06-11 10:30:51","timestamp":"2019-06-11 10:30:51"}
+{"level":"info","message":"GET /article/family_list 2 2019-06-11 10:30:51","timestamp":"2019-06-11 10:30:51"}
+{"level":"info","message":"GET /on/line/state 1 2019-06-11 10:30:51","timestamp":"2019-06-11 10:30:51"}
+{"level":"info","message":"GET /order/detail 9 2019-06-11 10:30:51","timestamp":"2019-06-11 10:30:51"}
+{"level":"info","message":"GET /article/article_list 24 2019-06-11 10:30:52","timestamp":"2019-06-11 10:30:52"}
+{"level":"info","message":"GET /system/info 8 2019-06-11 10:31:21","timestamp":"2019-06-11 10:31:21"}
+{"level":"info","message":"GET /article/family_list 3 2019-06-11 10:31:22","timestamp":"2019-06-11 10:31:22"}
+{"level":"info","message":"GET /order/detail 8 2019-06-11 10:31:22","timestamp":"2019-06-11 10:31:22"}
+{"level":"info","message":"GET /on/line/state 1 2019-06-11 10:31:22","timestamp":"2019-06-11 10:31:22"}
+{"level":"info","message":"GET /article/article_list 23 2019-06-11 10:31:22","timestamp":"2019-06-11 10:31:22"}
+{"level":"info","message":"GET /article/family_list 1 2019-06-11 10:31:28","timestamp":"2019-06-11 10:31:28"}
+{"level":"info","message":"GET /article/article_list 22 2019-06-11 10:31:28","timestamp":"2019-06-11 10:31:28"}
+{"level":"info","message":"GET /order/order_state_count 11 2019-06-11 10:31:34","timestamp":"2019-06-11 10:31:34"}
+{"level":"info","message":"GET /area 11 2019-06-11 10:31:34","timestamp":"2019-06-11 10:31:34"}
+{"level":"info","message":"GET /table/list 13 2019-06-11 10:31:34","timestamp":"2019-06-11 10:31:34"}
+{"level":"info","message":"GET /order/get_order_test 7 2019-06-11 10:31:34","timestamp":"2019-06-11 10:31:34"}
+{"level":"info","message":"GET /order/detail 19 2019-06-11 10:31:34","timestamp":"2019-06-11 10:31:34"}
+{"level":"info","message":"GET /order/get_order_test 5 2019-06-11 10:31:34","timestamp":"2019-06-11 10:31:34"}
+{"level":"info","message":"GET /order/get_order_test 8 2019-06-11 14:44:37","timestamp":"2019-06-11 14:44:37"}
+{"level":"info","message":"GET /order/detail 15 2019-06-11 14:44:37","timestamp":"2019-06-11 14:44:37"}
+{"level":"info","message":"GET /system/info 7 2019-06-11 14:44:40","timestamp":"2019-06-11 14:44:40"}
+{"level":"info","message":"GET /order/order_state_count 7 2019-06-11 14:44:41","timestamp":"2019-06-11 14:44:41"}
+{"level":"info","message":"GET /area 6 2019-06-11 14:44:41","timestamp":"2019-06-11 14:44:41"}
+{"level":"info","message":"GET /order/detail 20 2019-06-11 14:44:41","timestamp":"2019-06-11 14:44:41"}
+{"level":"info","message":"GET /table/list 5 2019-06-11 14:44:41","timestamp":"2019-06-11 14:44:41"}
+{"level":"info","message":"GET /on/line/state 1 2019-06-11 14:44:41","timestamp":"2019-06-11 14:44:41"}
+{"level":"info","message":"GET /order/get_order_test 3 2019-06-11 14:44:41","timestamp":"2019-06-11 14:44:41"}
+{"level":"info","message":"GET /order/get_order_test 8 2019-06-11 14:44:43","timestamp":"2019-06-11 14:44:43"}
+{"level":"info","message":"GET /order/detail 13 2019-06-11 14:44:43","timestamp":"2019-06-11 14:44:43"}
+{"level":"info","message":"GET /order/detail 12 2019-06-11 14:44:44","timestamp":"2019-06-11 14:44:44"}
+{"level":"info","message":"GET /order/get_order_test 11 2019-06-11 14:44:44","timestamp":"2019-06-11 14:44:44"}
+{"level":"info","message":"GET /order/get_order_test 8 2019-06-11 14:44:48","timestamp":"2019-06-11 14:44:48"}
+{"level":"info","message":"GET /order/detail 14 2019-06-11 14:44:48","timestamp":"2019-06-11 14:44:48"}
+{"level":"info","message":"GET /article/family_list 2 2019-06-11 14:44:49","timestamp":"2019-06-11 14:44:49"}
+{"level":"info","message":"GET /order/detail 6 2019-06-11 14:44:49","timestamp":"2019-06-11 14:44:49"}
+{"level":"info","message":"GET /article/article_list 17 2019-06-11 14:44:49","timestamp":"2019-06-11 14:44:49"}
+{"level":"info","message":"GET /article/article_list 9 2019-06-11 14:46:03","timestamp":"2019-06-11 14:46:03"}
+{"level":"info","message":"GET /article/unit_list 2 2019-06-11 14:46:05","timestamp":"2019-06-11 14:46:05"}
+{"level":"info","message":"POST /push/order 55 2019-06-11 14:46:12","timestamp":"2019-06-11 14:46:12"}
+{"level":"info","message":"GET /order/order_state_count 10 2019-06-11 14:46:12","timestamp":"2019-06-11 14:46:12"}
+{"level":"info","message":"GET /area 13 2019-06-11 14:46:12","timestamp":"2019-06-11 14:46:12"}
+{"level":"info","message":"GET /table/list 19 2019-06-11 14:46:12","timestamp":"2019-06-11 14:46:12"}
+{"level":"info","message":"【/v1/newpos/order/push】==> 下单成功！","timestamp":"2019-06-11 14:46:12"}
+{"level":"info","message":"GET /order/detail 42 2019-06-11 14:46:12","timestamp":"2019-06-11 14:46:12"}
+{"level":"info","message":"GET /order/get_order_test 3 2019-06-11 14:46:13","timestamp":"2019-06-11 14:46:13"}
+{"level":"info","message":"GET /article/family_list 2 2019-06-11 15:14:10","timestamp":"2019-06-11 15:14:10"}
+{"level":"info","message":"GET /order/detail 8 2019-06-11 15:14:10","timestamp":"2019-06-11 15:14:10"}
+{"level":"info","message":"GET /article/article_list 19 2019-06-11 15:14:10","timestamp":"2019-06-11 15:14:10"}
+{"level":"info","message":"GET /article/article_list 8 2019-06-11 15:14:12","timestamp":"2019-06-11 15:14:12"}
+{"level":"info","message":"GET /article/meal_item 51 2019-06-11 15:14:13","timestamp":"2019-06-11 15:14:13"}
+{"level":"info","message":"GET /order/detail 7 2019-06-11 15:14:18","timestamp":"2019-06-11 15:14:18"}
+{"level":"info","message":"POST /bind/table 81 2019-06-11 15:14:18","timestamp":"2019-06-11 15:14:18"}
+{"level":"info","message":"POST /push/order 6 2019-06-11 15:14:18","timestamp":"2019-06-11 15:14:18"}
+{"level":"info","message":"GET /article/meal_item 10 2019-06-11 15:14:59","timestamp":"2019-06-11 15:14:59"}
+{"level":"info","message":"GET /article/meal_item 5 2019-06-11 15:15:02","timestamp":"2019-06-11 15:15:02"}
+{"level":"info","message":"GET /article/meal_item 12 2019-06-11 15:15:08","timestamp":"2019-06-11 15:15:08"}
+{"level":"info","message":"GET /article/meal_item 13 2019-06-11 15:15:12","timestamp":"2019-06-11 15:15:12"}
+{"level":"info","message":"GET /article/meal_item 11 2019-06-11 15:15:16","timestamp":"2019-06-11 15:15:16"}
+{"level":"info","message":"GET /order/order_state_count 8 2019-06-11 15:16:02","timestamp":"2019-06-11 15:16:02"}
+{"level":"info","message":"GET /area 3 2019-06-11 15:16:02","timestamp":"2019-06-11 15:16:02"}
+{"level":"info","message":"GET /order/detail 14 2019-06-11 15:16:02","timestamp":"2019-06-11 15:16:02"}
+{"level":"info","message":"GET /table/list 7 2019-06-11 15:16:02","timestamp":"2019-06-11 15:16:02"}
+{"level":"info","message":"GET /order/detail 6 2019-06-11 15:16:02","timestamp":"2019-06-11 15:16:02"}
+{"level":"info","message":"GET /order/get_order_test 8 2019-06-11 15:16:02","timestamp":"2019-06-11 15:16:02"}
+{"level":"info","message":"GET /order/get_order_test 5 2019-06-11 15:16:02","timestamp":"2019-06-11 15:16:02"}
+{"level":"info","message":"GET /order/get_order_test 12 2019-06-11 15:16:05","timestamp":"2019-06-11 15:16:05"}
+{"level":"info","message":"GET /order/detail 17 2019-06-11 15:16:05","timestamp":"2019-06-11 15:16:05"}
+{"level":"info","message":"GET /remark/order/refund 21 2019-06-11 15:16:08","timestamp":"2019-06-11 15:16:08"}
+{"level":"info","message":"POST /order/refund 123 2019-06-11 15:16:13","timestamp":"2019-06-11 15:16:13"}
+{"level":"info","message":"【/v1/newpos/order/return/article】==> 改单成功！","timestamp":"2019-06-11 15:16:13"}
+{"level":"info","message":"POST /print/kitchen 73 2019-06-11 15:16:13","timestamp":"2019-06-11 15:16:13"}
+{"level":"info","message":"GET /order/detail 126 2019-06-11 15:16:13","timestamp":"2019-06-11 15:16:13"}
+{"level":"info","message":"POST /print/total 20157 2019-06-11 15:16:33","timestamp":"2019-06-11 15:16:33"}
+{"level":"info","message":"GET /order/get_order_test 8 2019-06-11 15:16:34","timestamp":"2019-06-11 15:16:34"}
+{"level":"info","message":"GET /order/detail 13 2019-06-11 15:16:34","timestamp":"2019-06-11 15:16:34"}
+{"level":"info","message":"GET /order/get_order_test 10 2019-06-11 15:53:36","timestamp":"2019-06-11 15:53:36"}
+{"level":"info","message":"GET /order/detail 15 2019-06-11 15:53:36","timestamp":"2019-06-11 15:53:36"}
+{"level":"info","message":"GET /article/family_list 5 2019-06-11 15:53:37","timestamp":"2019-06-11 15:53:37"}
+{"level":"info","message":"GET /order/detail 14 2019-06-11 15:53:37","timestamp":"2019-06-11 15:53:37"}
+{"level":"info","message":"GET /article/article_list 22 2019-06-11 15:53:37","timestamp":"2019-06-11 15:53:37"}
+{"level":"info","message":"GET /article/article_list 8 2019-06-11 15:53:40","timestamp":"2019-06-11 15:53:40"}
+{"level":"info","message":"GET /article/meal_item 10 2019-06-11 15:53:41","timestamp":"2019-06-11 15:53:41"}
+{"level":"info","message":"POST /push/order 12 2019-06-11 15:53:49","timestamp":"2019-06-11 15:53:49"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-06-11 15:56:32"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/d2ff1bbb8c6f4fd8adb3949f76f8c1b6/+/+/+","timestamp":"2019-06-11 15:56:32"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-06-11 15:56:32"}
+{"level":"error","message":"resource \"GET:/8cd3f45348d61e5f1aa7.hot-update.json\" not found","timestamp":"2019-06-11 15:57:27"}
+{"level":"info","message":"GET /8cd3f45348d61e5f1aa7.hot-update.json 5 2019-06-11 15:57:27","timestamp":"2019-06-11 15:57:27"}
+{"level":"info","message":"GET /system/info 50 2019-06-11 15:57:45","timestamp":"2019-06-11 15:57:45"}
+{"level":"info","message":"GET /on/line/state 0 2019-06-11 15:57:45","timestamp":"2019-06-11 15:57:45"}
+{"level":"info","message":"GET /article/family_list 12 2019-06-11 15:57:45","timestamp":"2019-06-11 15:57:45"}
+{"level":"info","message":"GET /order/detail 15 2019-06-11 15:57:45","timestamp":"2019-06-11 15:57:45"}
+{"level":"info","message":"GET /article/article_list 38 2019-06-11 15:57:45","timestamp":"2019-06-11 15:57:45"}
+{"level":"info","message":"GET /order/order_state_count 13 2019-06-11 15:57:50","timestamp":"2019-06-11 15:57:50"}
+{"level":"info","message":"GET /area 23 2019-06-11 15:57:50","timestamp":"2019-06-11 15:57:50"}
+{"level":"info","message":"GET /table/list 33 2019-06-11 15:57:50","timestamp":"2019-06-11 15:57:50"}
+{"level":"info","message":"GET /order/get_order_test 45 2019-06-11 15:57:51","timestamp":"2019-06-11 15:57:51"}
+{"level":"info","message":"GET /order/detail 51 2019-06-11 15:57:51","timestamp":"2019-06-11 15:57:51"}
+{"level":"info","message":"GET /order/get_order_test 4 2019-06-11 15:57:51","timestamp":"2019-06-11 15:57:51"}
+{"level":"info","message":"GET /order/get_order_test 6 2019-06-11 15:57:52","timestamp":"2019-06-11 15:57:52"}
+{"level":"info","message":"GET /order/detail 7 2019-06-11 15:57:52","timestamp":"2019-06-11 15:57:52"}
+{"level":"info","message":"GET /article/family_list 3 2019-06-11 15:57:53","timestamp":"2019-06-11 15:57:53"}
+{"level":"info","message":"GET /order/detail 8 2019-06-11 15:57:53","timestamp":"2019-06-11 15:57:53"}
+{"level":"info","message":"GET /article/article_list 15 2019-06-11 15:57:53","timestamp":"2019-06-11 15:57:53"}
+{"level":"info","message":"GET /article/article_list 10 2019-06-11 15:57:55","timestamp":"2019-06-11 15:57:55"}
+{"level":"info","message":"GET /article/meal_item 45 2019-06-11 15:57:55","timestamp":"2019-06-11 15:57:55"}
+{"level":"info","message":"POST /push/order 128 2019-06-11 15:58:02","timestamp":"2019-06-11 15:58:02"}
+{"level":"info","message":"GET /order/order_state_count 60 2019-06-11 15:58:03","timestamp":"2019-06-11 15:58:03"}
+{"level":"info","message":"GET /area 53 2019-06-11 15:58:03","timestamp":"2019-06-11 15:58:03"}
+{"level":"info","message":"GET /table/list 55 2019-06-11 15:58:03","timestamp":"2019-06-11 15:58:03"}
+{"level":"info","message":"【/v1/newpos/order/push】==> 下单成功！","timestamp":"2019-06-11 15:58:03"}
+{"level":"info","message":"GET /order/detail 245 2019-06-11 15:58:03","timestamp":"2019-06-11 15:58:03"}
+{"level":"info","message":"GET /order/get_order_test 3 2019-06-11 15:58:03","timestamp":"2019-06-11 15:58:03"}
+{"level":"info","message":"GET /article/family_list 4 2019-06-11 15:58:23","timestamp":"2019-06-11 15:58:23"}
+{"level":"info","message":"GET /order/detail 12 2019-06-11 15:58:23","timestamp":"2019-06-11 15:58:23"}
+{"level":"info","message":"GET /article/article_list 27 2019-06-11 15:58:23","timestamp":"2019-06-11 15:58:23"}
+{"level":"info","message":"GET /article/article_list 10 2019-06-11 15:58:24","timestamp":"2019-06-11 15:58:24"}
+{"level":"info","message":"GET /article/meal_item 18 2019-06-11 15:58:26","timestamp":"2019-06-11 15:58:26"}
+{"level":"info","message":"GET /order/detail 7 2019-06-11 15:58:34","timestamp":"2019-06-11 15:58:34"}
+{"level":"info","message":"POST /bind/table 202 2019-06-11 15:58:35","timestamp":"2019-06-11 15:58:35"}
+{"level":"info","message":"POST /push/order 417 2019-06-11 15:58:35","timestamp":"2019-06-11 15:58:35"}
+{"level":"info","message":"GET /order/order_state_count 18 2019-06-11 15:58:35","timestamp":"2019-06-11 15:58:35"}
+{"level":"info","message":"GET /area 17 2019-06-11 15:58:35","timestamp":"2019-06-11 15:58:35"}
+{"level":"info","message":"GET /table/list 23 2019-06-11 15:58:35","timestamp":"2019-06-11 15:58:35"}
+{"level":"info","message":"【/v1/newpos/order/push】==> 加菜成功！","timestamp":"2019-06-11 15:58:35"}
+{"level":"info","message":"GET /order/detail 51 2019-06-11 15:58:35","timestamp":"2019-06-11 15:58:35"}
+{"level":"info","message":"GET /order/get_order_test 4 2019-06-11 15:58:36","timestamp":"2019-06-11 15:58:36"}

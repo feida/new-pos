@@ -1,0 +1,1113 @@
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 09:54:00"}
+{"level":"error","message":"==mqtt==close==你已断开连接,异常退出","timestamp":"2019-04-11 09:54:25"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 09:54:41"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 09:54:41"}
+{"level":"info","message":"GET /system/info 210 2019-04-11 09:54:53","timestamp":"2019-04-11 09:54:53"}
+{"level":"info","message":"GET /area 38 2019-04-11 09:54:54","timestamp":"2019-04-11 09:54:54"}
+{"level":"info","message":"GET /table/list 65 2019-04-11 09:54:54","timestamp":"2019-04-11 09:54:54"}
+{"level":"info","message":"GET /area 42 2019-04-11 09:54:57","timestamp":"2019-04-11 09:54:57"}
+{"level":"info","message":"GET /table/list 43 2019-04-11 09:54:57","timestamp":"2019-04-11 09:54:57"}
+{"level":"info","message":"GET /order/detail 89 2019-04-11 09:54:57","timestamp":"2019-04-11 09:54:57"}
+{"level":"info","message":"GET /article/family_list 8 2019-04-11 09:54:58","timestamp":"2019-04-11 09:54:58"}
+{"level":"info","message":"GET /order/detail 4 2019-04-11 09:54:59","timestamp":"2019-04-11 09:54:59"}
+{"level":"info","message":"GET /area 5 2019-04-11 09:55:01","timestamp":"2019-04-11 09:55:01"}
+{"level":"info","message":"GET /table/list 9 2019-04-11 09:55:01","timestamp":"2019-04-11 09:55:01"}
+{"level":"info","message":"GET /order/detail 18 2019-04-11 09:55:01","timestamp":"2019-04-11 09:55:01"}
+{"level":"error","message":"==mqtt==close==你已断开连接,异常退出","timestamp":"2019-04-11 10:16:54"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 10:17:09"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 10:17:09"}
+{"level":"info","message":"GET /article/family_list 6 2019-04-11 10:17:58","timestamp":"2019-04-11 10:17:58"}
+{"level":"info","message":"GET /order/detail 2 2019-04-11 10:17:58","timestamp":"2019-04-11 10:17:58"}
+{"level":"info","message":"GET /order/detail 3 2019-04-11 10:18:17","timestamp":"2019-04-11 10:18:17"}
+{"level":"info","message":"GET /area 5 2019-04-11 10:19:13","timestamp":"2019-04-11 10:19:13"}
+{"level":"info","message":"GET /table/list 7 2019-04-11 10:19:13","timestamp":"2019-04-11 10:19:13"}
+{"level":"info","message":"GET /order/detail 20 2019-04-11 10:19:13","timestamp":"2019-04-11 10:19:13"}
+{"level":"info","message":"GET /area 4 2019-04-11 10:20:05","timestamp":"2019-04-11 10:20:05"}
+{"level":"info","message":"GET /table/list 11 2019-04-11 10:20:05","timestamp":"2019-04-11 10:20:05"}
+{"level":"info","message":"GET /order/detail 9 2019-04-11 10:20:05","timestamp":"2019-04-11 10:20:05"}
+{"level":"info","message":"GET /article/family_list 2 2019-04-11 10:20:06","timestamp":"2019-04-11 10:20:06"}
+{"level":"info","message":"GET /order/detail 3 2019-04-11 10:20:06","timestamp":"2019-04-11 10:20:06"}
+{"level":"info","message":"GET /order/detail 3 2019-04-11 10:20:11","timestamp":"2019-04-11 10:20:11"}
+{"level":"info","message":"GET /order/detail 1 2019-04-11 10:20:18","timestamp":"2019-04-11 10:20:18"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 10:22:02"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 10:22:36"}
+{"level":"error","message":"ServiceUnavailableError: Response timeout\n    at IncomingMessage.<anonymous> (/Users/chintec/Documents/node/resto-newpos/node_modules/connect-timeout/index.js:84:8)\n    at emitOne (events.js:116:13)\n    at IncomingMessage.emit (events.js:211:7)\n    at Timeout._onTimeout (/Users/chintec/Documents/node/resto-newpos/node_modules/connect-timeout/index.js:49:11)\n    at ontimeout (timers.js:475:11)\n    at tryOnTimeout (timers.js:310:5)\n    at Timer.listOnTimeout (timers.js:270:5)","timestamp":"2019-04-11 10:22:42"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 10:22:51"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 10:22:51"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 10:24:13"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 10:24:43"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 10:24:59"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 10:25:00"}
+{"level":"info","message":"GET /system/info 277 2019-04-11 10:25:11","timestamp":"2019-04-11 10:25:11"}
+{"level":"info","message":"GET /user/normal/list 5 2019-04-11 10:25:12","timestamp":"2019-04-11 10:25:12"}
+{"level":"info","message":"GET /area 25 2019-04-11 10:25:14","timestamp":"2019-04-11 10:25:14"}
+{"level":"info","message":"GET /table/list 29 2019-04-11 10:25:14","timestamp":"2019-04-11 10:25:14"}
+{"level":"info","message":"GET /area 2 2019-04-11 10:25:15","timestamp":"2019-04-11 10:25:15"}
+{"level":"info","message":"GET /table/list 5 2019-04-11 10:25:15","timestamp":"2019-04-11 10:25:15"}
+{"level":"info","message":"POST /bindTable 28 2019-04-11 10:25:17","timestamp":"2019-04-11 10:25:17"}
+{"level":"info","message":"GET /area 1 2019-04-11 10:25:20","timestamp":"2019-04-11 10:25:20"}
+{"level":"info","message":"GET /table/list 4 2019-04-11 10:25:20","timestamp":"2019-04-11 10:25:20"}
+{"level":"info","message":"GET /area 18 2019-04-11 10:25:23","timestamp":"2019-04-11 10:25:23"}
+{"level":"info","message":"GET /table/list 18 2019-04-11 10:25:23","timestamp":"2019-04-11 10:25:23"}
+{"level":"info","message":"GET /order/detail 47 2019-04-11 10:25:23","timestamp":"2019-04-11 10:25:23"}
+{"level":"info","message":"GET /article/family_list 25 2019-04-11 10:25:24","timestamp":"2019-04-11 10:25:24"}
+{"level":"info","message":"GET /order/detail 4 2019-04-11 10:25:24","timestamp":"2019-04-11 10:25:24"}
+{"level":"info","message":"GET /order/detail 2 2019-04-11 10:25:45","timestamp":"2019-04-11 10:25:45"}
+{"level":"info","message":"GET /article/article_list 64 2019-04-11 10:26:26","timestamp":"2019-04-11 10:26:26"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 10:27:22"}
+{"level":"error","message":"==mqtt==close==你已断开连接,异常退出","timestamp":"2019-04-11 10:27:50"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 10:28:06"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 10:28:06"}
+{"level":"info","message":"GET /user/normal/list 53 2019-04-11 10:28:19","timestamp":"2019-04-11 10:28:19"}
+{"level":"info","message":"GET /system/info 29 2019-04-11 10:28:19","timestamp":"2019-04-11 10:28:19"}
+{"level":"info","message":"GET /article/family_list 18 2019-04-11 10:28:20","timestamp":"2019-04-11 10:28:20"}
+{"level":"info","message":"GET /article/article_list 59 2019-04-11 10:28:20","timestamp":"2019-04-11 10:28:20"}
+{"level":"info","message":"GET /article/article_list 28 2019-04-11 10:28:25","timestamp":"2019-04-11 10:28:25"}
+{"level":"info","message":"GET /article/article_list 9 2019-04-11 10:28:27","timestamp":"2019-04-11 10:28:27"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 10:29:02"}
+{"level":"error","message":"==mqtt==close==你已断开连接,异常退出","timestamp":"2019-04-11 10:29:25"}
+{"level":"error","message":"ServiceUnavailableError: Response timeout\n    at IncomingMessage.<anonymous> (/Users/chintec/Documents/node/resto-newpos/node_modules/connect-timeout/index.js:84:8)\n    at emitOne (events.js:116:13)\n    at IncomingMessage.emit (events.js:211:7)\n    at Timeout._onTimeout (/Users/chintec/Documents/node/resto-newpos/node_modules/connect-timeout/index.js:49:11)\n    at ontimeout (timers.js:475:11)\n    at tryOnTimeout (timers.js:310:5)\n    at Timer.listOnTimeout (timers.js:270:5)","timestamp":"2019-04-11 10:29:40"}
+{"level":"error","message":"ServiceUnavailableError: Response timeout\n    at IncomingMessage.<anonymous> (/Users/chintec/Documents/node/resto-newpos/node_modules/connect-timeout/index.js:84:8)\n    at emitOne (events.js:116:13)\n    at IncomingMessage.emit (events.js:211:7)\n    at Timeout._onTimeout (/Users/chintec/Documents/node/resto-newpos/node_modules/connect-timeout/index.js:49:11)\n    at ontimeout (timers.js:475:11)\n    at tryOnTimeout (timers.js:310:5)\n    at Timer.listOnTimeout (timers.js:270:5)","timestamp":"2019-04-11 10:29:40"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 10:29:40"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 10:29:42"}
+{"level":"info","message":"GET /system/info 152 2019-04-11 10:29:47","timestamp":"2019-04-11 10:29:47"}
+{"level":"info","message":"GET /article/family_list 4 2019-04-11 10:29:47","timestamp":"2019-04-11 10:29:47"}
+{"level":"info","message":"GET /article/article_list 55 2019-04-11 10:29:47","timestamp":"2019-04-11 10:29:47"}
+{"level":"info","message":"GET /article/article_list 50 2019-04-11 10:29:56","timestamp":"2019-04-11 10:29:56"}
+{"level":"info","message":"GET /article/article_list 14 2019-04-11 10:29:58","timestamp":"2019-04-11 10:29:58"}
+{"level":"info","message":"GET /area 72 2019-04-11 10:30:00","timestamp":"2019-04-11 10:30:00"}
+{"level":"error","message":"resource \"GET:/9bbbd6887c22c495ea6f.hot-update.json\" not found","timestamp":"2019-04-11 10:30:00"}
+{"level":"info","message":"GET /9bbbd6887c22c495ea6f.hot-update.json 2 2019-04-11 10:30:00","timestamp":"2019-04-11 10:30:00"}
+{"level":"info","message":"GET /table/list 87 2019-04-11 10:30:00","timestamp":"2019-04-11 10:30:00"}
+{"level":"info","message":"GET /order/detail 105 2019-04-11 10:30:00","timestamp":"2019-04-11 10:30:00"}
+{"level":"info","message":"GET /area 2 2019-04-11 10:30:03","timestamp":"2019-04-11 10:30:03"}
+{"level":"info","message":"GET /table/list 4 2019-04-11 10:30:03","timestamp":"2019-04-11 10:30:03"}
+{"level":"info","message":"POST /bindTable 8 2019-04-11 10:30:07","timestamp":"2019-04-11 10:30:07"}
+{"level":"info","message":"GET /area 7 2019-04-11 10:32:21","timestamp":"2019-04-11 10:32:21"}
+{"level":"info","message":"GET /table/list 10 2019-04-11 10:32:21","timestamp":"2019-04-11 10:32:21"}
+{"level":"info","message":"GET /area 4 2019-04-11 10:32:42","timestamp":"2019-04-11 10:32:42"}
+{"level":"info","message":"GET /table/list 7 2019-04-11 10:32:42","timestamp":"2019-04-11 10:32:42"}
+{"level":"info","message":"GET /order/detail 17 2019-04-11 10:32:42","timestamp":"2019-04-11 10:32:42"}
+{"level":"info","message":"GET /article/family_list 1 2019-04-11 10:32:47","timestamp":"2019-04-11 10:32:47"}
+{"level":"info","message":"GET /article/article_list 14 2019-04-11 10:32:47","timestamp":"2019-04-11 10:32:47"}
+{"level":"info","message":"GET /article/article_list 12 2019-04-11 10:32:53","timestamp":"2019-04-11 10:32:53"}
+{"level":"info","message":"GET /article/article_list 10 2019-04-11 10:36:05","timestamp":"2019-04-11 10:36:05"}
+{"level":"info","message":"GET /article/article_list 10 2019-04-11 10:36:06","timestamp":"2019-04-11 10:36:06"}
+{"level":"info","message":"GET /article/article_list 9 2019-04-11 10:36:07","timestamp":"2019-04-11 10:36:07"}
+{"level":"info","message":"GET /article/article_list 6 2019-04-11 10:36:08","timestamp":"2019-04-11 10:36:08"}
+{"level":"info","message":"GET /article/article_list 9 2019-04-11 10:36:12","timestamp":"2019-04-11 10:36:12"}
+{"level":"info","message":"GET /article/article_list 7 2019-04-11 10:36:21","timestamp":"2019-04-11 10:36:21"}
+{"level":"info","message":"GET /article/article_list 10 2019-04-11 10:36:22","timestamp":"2019-04-11 10:36:22"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:34:14"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:34:29"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:34:29"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:42:13"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:42:28"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:42:28"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:42:43"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:42:58"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:42:58"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:43:13"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:43:28"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:43:28"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:43:43"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:43:58"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:43:58"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:44:13"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:44:28"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:44:28"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:44:43"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:44:58"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:44:58"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:45:13"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:45:28"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:45:28"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:45:43"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:45:58"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:45:58"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:46:13"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:46:28"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:46:28"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:46:43"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:46:58"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:46:58"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:47:13"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:47:28"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:47:28"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:47:44"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:47:59"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:47:59"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:48:14"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:48:29"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:48:29"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:48:44"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:48:59"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:48:59"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:49:14"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:49:29"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:49:29"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:49:44"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:49:59"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:49:59"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:50:14"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:50:29"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:50:29"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:50:44"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:50:59"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:50:59"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:51:14"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:51:29"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:51:29"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:51:44"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:51:59"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:51:59"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:52:14"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:52:29"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:52:29"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:52:44"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:52:59"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:52:59"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:53:14"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:53:29"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:53:29"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:53:44"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:53:59"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:53:59"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:54:15"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:54:30"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:54:30"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:54:45"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:55:00"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:55:00"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:55:15"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:55:30"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:55:30"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:55:45"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:56:00"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:56:00"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:56:15"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:56:30"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:56:30"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:56:45"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:57:00"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:57:00"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:57:15"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:57:30"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:57:30"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:57:45"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:58:00"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:58:00"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:58:15"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 11:58:30"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 11:58:30"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 11:58:45"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 13:51:11"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 13:51:18"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 13:51:33"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 13:51:48"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 13:51:48"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 13:52:03"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 13:52:18"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 13:52:18"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 13:52:34"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 13:52:49"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 13:52:49"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 13:53:04"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 13:53:19"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 13:53:19"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 13:53:34"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 13:53:49"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 13:53:49"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 13:54:04"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 13:54:19"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 13:54:19"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 13:54:34"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 13:54:49"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 13:54:49"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 13:55:04"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 13:55:19"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 13:55:19"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 13:55:34"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 13:55:49"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 13:55:49"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 13:56:04"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 13:56:19"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 13:56:19"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 13:56:34"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 13:56:49"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 13:56:49"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 13:57:04"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 13:57:19"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 13:57:19"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 13:57:34"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 13:57:49"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 13:57:49"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 13:58:05"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 13:58:20"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 13:58:20"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 13:58:35"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 13:58:50"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 13:58:50"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 13:59:05"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 13:59:20"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 13:59:20"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 13:59:35"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 13:59:50"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 13:59:50"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:00:05"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:00:20"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:00:20"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:00:35"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:00:50"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:00:50"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:01:05"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:01:20"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:01:21"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:01:36"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:01:51"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:01:51"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:02:06"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:02:21"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:02:21"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:02:36"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:02:51"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:02:51"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:03:06"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:03:21"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:03:21"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:03:36"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:03:51"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:03:51"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:04:06"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:04:21"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:04:21"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:04:36"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:04:51"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:04:51"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:05:06"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:05:21"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:05:21"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:05:36"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:05:51"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:05:51"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:06:06"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:06:21"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:06:21"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:06:36"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:06:51"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:06:51"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:07:06"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:07:21"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:07:22"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:07:37"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:07:52"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:07:52"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:08:07"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:08:22"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:08:22"}
+{"level":"info","message":"GET /system/info 5 2019-04-11 14:08:22","timestamp":"2019-04-11 14:08:22"}
+{"level":"info","message":"GET /article/family_list 2 2019-04-11 14:08:23","timestamp":"2019-04-11 14:08:23"}
+{"level":"info","message":"GET /article/article_list 8 2019-04-11 14:08:23","timestamp":"2019-04-11 14:08:23"}
+{"level":"info","message":"GET /article/article_list 10 2019-04-11 14:08:26","timestamp":"2019-04-11 14:08:26"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:08:37"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:08:52"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:08:52"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:09:07"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:09:22"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:09:22"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:09:37"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:09:52"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:09:52"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:10:07"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:10:22"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:10:22"}
+{"level":"info","message":"GET /article/family_list 4 2019-04-11 14:10:28","timestamp":"2019-04-11 14:10:28"}
+{"level":"info","message":"GET /article/article_list 18 2019-04-11 14:10:28","timestamp":"2019-04-11 14:10:28"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:10:37"}
+{"level":"info","message":"GET /article/article_list 79 2019-04-11 14:10:51","timestamp":"2019-04-11 14:10:51"}
+{"level":"info","message":"GET /article/family_list 2 2019-04-11 14:10:51","timestamp":"2019-04-11 14:10:51"}
+{"level":"info","message":"GET /article/article_list 12 2019-04-11 14:10:51","timestamp":"2019-04-11 14:10:51"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:10:52"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:10:52"}
+{"level":"info","message":"GET /article/article_list 11 2019-04-11 14:10:53","timestamp":"2019-04-11 14:10:53"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:11:07"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:11:22"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:11:22"}
+{"level":"info","message":"GET /article/family_list 2 2019-04-11 14:11:31","timestamp":"2019-04-11 14:11:31"}
+{"level":"info","message":"GET /article/article_list 10 2019-04-11 14:11:31","timestamp":"2019-04-11 14:11:31"}
+{"level":"info","message":"GET /article/article_list 14 2019-04-11 14:11:34","timestamp":"2019-04-11 14:11:34"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:11:37"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:11:52"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:11:52"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:12:07"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:12:22"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:12:22"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:12:37"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:12:52"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:12:52"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:13:07"}
+{"level":"info","message":"GET /article/family_list 7 2019-04-11 14:13:20","timestamp":"2019-04-11 14:13:20"}
+{"level":"info","message":"GET /article/article_list 16 2019-04-11 14:13:20","timestamp":"2019-04-11 14:13:20"}
+{"level":"info","message":"GET /article/article_list 12 2019-04-11 14:13:22","timestamp":"2019-04-11 14:13:22"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:13:22"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:13:22"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:13:38"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:13:53"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:13:53"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:14:08"}
+{"level":"info","message":"GET /article/family_list 3 2019-04-11 14:14:18","timestamp":"2019-04-11 14:14:18"}
+{"level":"info","message":"GET /article/article_list 10 2019-04-11 14:14:18","timestamp":"2019-04-11 14:14:18"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:14:23"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:14:23"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:14:38"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:14:53"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:14:53"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:15:08"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:15:23"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:15:23"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:15:38"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:15:53"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:15:53"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:16:08"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:16:23"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:16:23"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:16:38"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:16:53"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:16:53"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:17:08"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:17:23"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:17:23"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:17:38"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:17:53"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:17:53"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:18:08"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:18:23"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:18:23"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:18:38"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:18:53"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:18:53"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:19:08"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:19:23"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:19:23"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:19:38"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:19:53"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:19:53"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:20:08"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:20:23"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:20:23"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:20:39"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:20:54"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:20:54"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:21:09"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:21:24"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:21:24"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:21:39"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:21:54"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:21:54"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:22:09"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:22:24"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:22:24"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:22:39"}
+{"level":"info","message":"GET /system/info 6 2019-04-11 14:22:52","timestamp":"2019-04-11 14:22:52"}
+{"level":"info","message":"GET /article/family_list 3 2019-04-11 14:22:52","timestamp":"2019-04-11 14:22:52"}
+{"level":"info","message":"GET /article/article_list 10 2019-04-11 14:22:52","timestamp":"2019-04-11 14:22:52"}
+{"level":"info","message":"GET /article/article_list 12 2019-04-11 14:22:53","timestamp":"2019-04-11 14:22:53"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:22:54"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:22:54"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:23:09"}
+{"level":"info","message":"GET /user/normal/list 6 2019-04-11 14:23:11","timestamp":"2019-04-11 14:23:11"}
+{"level":"info","message":"GET /user/normal/list 1 2019-04-11 14:23:19","timestamp":"2019-04-11 14:23:19"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:23:24"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:23:24"}
+{"level":"info","message":"POST /user/login 126 2019-04-11 14:23:30","timestamp":"2019-04-11 14:23:30"}
+{"level":"info","message":"GET /system/info 22 2019-04-11 14:23:30","timestamp":"2019-04-11 14:23:30"}
+{"level":"info","message":"GET /area 1 2019-04-11 14:23:30","timestamp":"2019-04-11 14:23:30"}
+{"level":"info","message":"GET /table/list 6 2019-04-11 14:23:31","timestamp":"2019-04-11 14:23:31"}
+{"level":"info","message":"GET /area 1 2019-04-11 14:23:31","timestamp":"2019-04-11 14:23:31"}
+{"level":"info","message":"GET /table/list 3 2019-04-11 14:23:31","timestamp":"2019-04-11 14:23:31"}
+{"level":"info","message":"GET /area 5 2019-04-11 14:23:33","timestamp":"2019-04-11 14:23:33"}
+{"level":"info","message":"GET /table/list 7 2019-04-11 14:23:33","timestamp":"2019-04-11 14:23:33"}
+{"level":"info","message":"GET /order/detail 17 2019-04-11 14:23:33","timestamp":"2019-04-11 14:23:33"}
+{"level":"info","message":"GET /article/family_list 2 2019-04-11 14:23:34","timestamp":"2019-04-11 14:23:34"}
+{"level":"info","message":"GET /article/article_list 15 2019-04-11 14:23:34","timestamp":"2019-04-11 14:23:34"}
+{"level":"info","message":"GET /article/article_list 12 2019-04-11 14:23:37","timestamp":"2019-04-11 14:23:37"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:23:39"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:23:54"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:23:54"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:24:09"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:24:24"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:24:24"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:24:39"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:24:54"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:24:54"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:25:09"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:25:24"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:25:24"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:25:39"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:25:54"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:25:54"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:26:09"}
+{"level":"info","message":"GET /area 4 2019-04-11 14:26:19","timestamp":"2019-04-11 14:26:19"}
+{"level":"info","message":"GET /table/list 6 2019-04-11 14:26:19","timestamp":"2019-04-11 14:26:19"}
+{"level":"info","message":"GET /order/detail 23 2019-04-11 14:26:19","timestamp":"2019-04-11 14:26:19"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:26:24"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:26:24"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:26:39"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:26:54"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:26:54"}
+{"level":"info","message":"GET /article/family_list 2 2019-04-11 14:27:00","timestamp":"2019-04-11 14:27:00"}
+{"level":"info","message":"GET /article/article_list 18 2019-04-11 14:27:00","timestamp":"2019-04-11 14:27:00"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:27:09"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:27:24"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:27:24"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:27:40"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:27:55"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:27:55"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:28:10"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:28:25"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:28:25"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:28:40"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:28:55"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:28:55"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:29:10"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:29:25"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:29:25"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:29:40"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:29:55"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:29:55"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:30:10"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:30:25"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:30:25"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:30:40"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:30:55"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:30:55"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:31:11"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:31:26"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:31:26"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:31:41"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:31:56"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:31:56"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:32:11"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:32:26"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:32:26"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:32:41"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:32:56"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:32:56"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:33:13"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:33:28"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:33:28"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:33:44"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:33:59"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:33:59"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:34:15"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:34:30"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:34:30"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:34:45"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:35:00"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:35:00"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:35:15"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:35:30"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:35:30"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:35:46"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:36:01"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:36:01"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:36:16"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:36:31"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:36:31"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:36:46"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:37:01"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:37:01"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:37:17"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:37:32"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:37:32"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:37:47"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:38:02"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:38:02"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:38:17"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:38:32"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:38:32"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:38:48"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:39:03"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:39:03"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:39:18"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:39:33"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:39:33"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:39:48"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:40:03"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:40:03"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:40:18"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:40:33"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:40:33"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:40:48"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:41:03"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:41:03"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:41:18"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:41:33"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:41:33"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:41:48"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:42:03"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:42:03"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:42:18"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:42:33"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:42:33"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:42:48"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:43:03"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:43:03"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:43:18"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:43:33"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:43:33"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:43:48"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:44:03"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:44:03"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:44:19"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:44:34"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:44:34"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:44:49"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:45:04"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:45:04"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:45:19"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:45:34"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:45:34"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:45:49"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:46:04"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:46:04"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:46:19"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:46:34"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:46:34"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:46:49"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:47:04"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:47:04"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:47:19"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:47:34"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:47:34"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:47:49"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:48:04"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:48:04"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:48:19"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:48:34"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:48:35"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:48:50"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:49:05"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:49:05"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:49:20"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:49:35"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:49:35"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:49:50"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:50:05"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:50:05"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:50:20"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:50:35"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:50:35"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:50:50"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:51:05"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:51:05"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:51:20"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:51:35"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:51:35"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:51:50"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:52:05"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:52:05"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:52:20"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:52:35"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:52:35"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:52:50"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:53:05"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:53:05"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:53:20"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:53:35"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:53:35"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:53:50"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:54:05"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:54:05"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:54:20"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:54:35"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:54:35"}
+{"level":"info","message":"GET /article/article_list 20 2019-04-11 14:54:41","timestamp":"2019-04-11 14:54:41"}
+{"level":"info","message":"GET /article/article_list 11 2019-04-11 14:54:42","timestamp":"2019-04-11 14:54:42"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:54:51"}
+{"level":"info","message":"GET /area 6 2019-04-11 14:54:53","timestamp":"2019-04-11 14:54:53"}
+{"level":"info","message":"GET /table/list 9 2019-04-11 14:54:53","timestamp":"2019-04-11 14:54:53"}
+{"level":"info","message":"GET /order/detail 21 2019-04-11 14:54:53","timestamp":"2019-04-11 14:54:53"}
+{"level":"info","message":"GET /article/family_list 2 2019-04-11 14:54:55","timestamp":"2019-04-11 14:54:55"}
+{"level":"info","message":"GET /article/article_list 13 2019-04-11 14:54:55","timestamp":"2019-04-11 14:54:55"}
+{"level":"info","message":"GET /article/article_list 10 2019-04-11 14:54:56","timestamp":"2019-04-11 14:54:56"}
+{"level":"info","message":"GET /system/info 8 2019-04-11 14:55:04","timestamp":"2019-04-11 14:55:04"}
+{"level":"info","message":"GET /article/family_list 2 2019-04-11 14:55:04","timestamp":"2019-04-11 14:55:04"}
+{"level":"info","message":"GET /article/article_list 8 2019-04-11 14:55:04","timestamp":"2019-04-11 14:55:04"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:55:06"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:55:06"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:55:21"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:55:36"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:55:36"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:55:51"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:56:06"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:56:06"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:56:21"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:56:36"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:56:36"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:56:49"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:57:04"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:57:04"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:57:19"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:57:34"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:57:34"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:57:37"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:57:52"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:57:52"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:58:07"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:58:22"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:58:22"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:58:37"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:58:52"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:58:52"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:59:08"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:59:23"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:59:23"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 14:59:38"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 14:59:53"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 14:59:53"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:00:08"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:00:23"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:00:23"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:00:38"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:00:53"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:00:53"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:01:08"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:01:23"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:01:23"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:01:38"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:01:53"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:01:53"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:02:08"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:02:23"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:02:23"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:02:38"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:02:53"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:02:53"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:03:08"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:03:23"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:03:23"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:03:38"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:03:53"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:03:53"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:04:08"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:04:23"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:04:23"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:04:39"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:04:54"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:04:54"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:05:09"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:05:24"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:05:24"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:05:34"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:05:49"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:05:49"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:06:05"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:06:20"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:06:20"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:06:35"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:06:50"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:06:50"}
+{"level":"info","message":"GET /system/info 3 2019-04-11 15:06:55","timestamp":"2019-04-11 15:06:55"}
+{"level":"info","message":"GET /article/family_list 1 2019-04-11 15:06:55","timestamp":"2019-04-11 15:06:55"}
+{"level":"info","message":"GET /article/article_list 23 2019-04-11 15:06:56","timestamp":"2019-04-11 15:06:56"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:07:05"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:07:20"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:07:20"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:07:35"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:07:50"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:07:50"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:08:05"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:08:20"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:08:20"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:08:35"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:08:50"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:08:50"}
+{"level":"info","message":"GET /article/article_list 12 2019-04-11 15:09:00","timestamp":"2019-04-11 15:09:00"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:09:05"}
+{"level":"info","message":"GET /article/article_list 6 2019-04-11 15:09:07","timestamp":"2019-04-11 15:09:07"}
+{"level":"info","message":"GET /article/article_list 10 2019-04-11 15:09:08","timestamp":"2019-04-11 15:09:08"}
+{"level":"info","message":"GET /article/article_list 8 2019-04-11 15:09:09","timestamp":"2019-04-11 15:09:09"}
+{"level":"info","message":"GET /article/article_list 11 2019-04-11 15:09:10","timestamp":"2019-04-11 15:09:10"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:09:20"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:09:20"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:09:35"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:09:50"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:09:50"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:10:06"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:10:21"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:10:21"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:10:36"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:10:51"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:10:51"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:11:06"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:11:21"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:11:21"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:11:36"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:11:51"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:11:51"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:12:06"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:12:21"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:12:21"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:12:36"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:12:51"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:12:51"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:13:06"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:13:22"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:13:24"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:13:39"}
+{"level":"info","message":"GET /system/info 12 2019-04-11 15:13:44","timestamp":"2019-04-11 15:13:44"}
+{"level":"info","message":"GET /article/family_list 2 2019-04-11 15:13:44","timestamp":"2019-04-11 15:13:44"}
+{"level":"info","message":"GET /article/article_list 16 2019-04-11 15:13:44","timestamp":"2019-04-11 15:13:44"}
+{"level":"info","message":"GET /area 2 2019-04-11 15:13:46","timestamp":"2019-04-11 15:13:46"}
+{"level":"info","message":"GET /order/detail 9 2019-04-11 15:13:46","timestamp":"2019-04-11 15:13:46"}
+{"level":"info","message":"GET /table/list 4 2019-04-11 15:13:46","timestamp":"2019-04-11 15:13:46"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:13:54"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:13:54"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:14:09"}
+{"level":"info","message":"GET /article/family_list 2 2019-04-11 15:14:18","timestamp":"2019-04-11 15:14:18"}
+{"level":"info","message":"GET /article/article_list 10 2019-04-11 15:14:18","timestamp":"2019-04-11 15:14:18"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:14:25"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:14:25"}
+{"level":"info","message":"GET /area 2 2019-04-11 15:14:30","timestamp":"2019-04-11 15:14:30"}
+{"level":"info","message":"GET /table/list 6 2019-04-11 15:14:30","timestamp":"2019-04-11 15:14:30"}
+{"level":"info","message":"GET /order/detail 18 2019-04-11 15:14:30","timestamp":"2019-04-11 15:14:30"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:14:40"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:14:55"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:14:55"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:15:11"}
+{"level":"info","message":"GET /area 2 2019-04-11 15:15:15","timestamp":"2019-04-11 15:15:15"}
+{"level":"info","message":"GET /table/list 4 2019-04-11 15:15:15","timestamp":"2019-04-11 15:15:15"}
+{"level":"info","message":"GET /area 2 2019-04-11 15:15:15","timestamp":"2019-04-11 15:15:15"}
+{"level":"info","message":"GET /table/list 5 2019-04-11 15:15:15","timestamp":"2019-04-11 15:15:15"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:15:26"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:15:26"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:15:41"}
+{"level":"info","message":"GET /system/info 15 2019-04-11 15:15:52","timestamp":"2019-04-11 15:15:52"}
+{"level":"info","message":"GET /area 2 2019-04-11 15:15:52","timestamp":"2019-04-11 15:15:52"}
+{"level":"info","message":"GET /table/list 4 2019-04-11 15:15:52","timestamp":"2019-04-11 15:15:52"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:15:56"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:15:56"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:16:11"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:16:26"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:16:26"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:16:41"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:16:56"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:16:56"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:17:11"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:17:26"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:17:26"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:17:41"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:17:56"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:17:56"}
+{"level":"info","message":"GET /system/info 8 2019-04-11 15:18:03","timestamp":"2019-04-11 15:18:03"}
+{"level":"info","message":"GET /area 2 2019-04-11 15:18:03","timestamp":"2019-04-11 15:18:03"}
+{"level":"info","message":"GET /table/list 5 2019-04-11 15:18:03","timestamp":"2019-04-11 15:18:03"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:18:11"}
+{"level":"info","message":"GET /area 6 2019-04-11 15:18:14","timestamp":"2019-04-11 15:18:14"}
+{"level":"info","message":"GET /table/list 9 2019-04-11 15:18:14","timestamp":"2019-04-11 15:18:14"}
+{"level":"info","message":"GET /order/detail 22 2019-04-11 15:18:14","timestamp":"2019-04-11 15:18:14"}
+{"level":"info","message":"GET /article/family_list 2 2019-04-11 15:18:15","timestamp":"2019-04-11 15:18:15"}
+{"level":"info","message":"GET /article/article_list 13 2019-04-11 15:18:15","timestamp":"2019-04-11 15:18:15"}
+{"level":"info","message":"GET /article/article_list 9 2019-04-11 15:18:19","timestamp":"2019-04-11 15:18:19"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:18:26"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:18:26"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:18:41"}
+{"level":"info","message":"GET /article/article_list 15 2019-04-11 15:18:49","timestamp":"2019-04-11 15:18:49"}
+{"level":"info","message":"GET /article/article_list 15 2019-04-11 15:18:50","timestamp":"2019-04-11 15:18:50"}
+{"level":"info","message":"GET /article/article_list 7 2019-04-11 15:18:51","timestamp":"2019-04-11 15:18:51"}
+{"level":"info","message":"GET /article/article_list 18 2019-04-11 15:18:52","timestamp":"2019-04-11 15:18:52"}
+{"level":"info","message":"GET /article/article_list 8 2019-04-11 15:18:52","timestamp":"2019-04-11 15:18:52"}
+{"level":"info","message":"GET /article/article_list 11 2019-04-11 15:18:53","timestamp":"2019-04-11 15:18:53"}
+{"level":"info","message":"GET /article/article_list 8 2019-04-11 15:18:54","timestamp":"2019-04-11 15:18:54"}
+{"level":"info","message":"GET /article/article_list 8 2019-04-11 15:18:55","timestamp":"2019-04-11 15:18:55"}
+{"level":"info","message":"GET /article/article_list 9 2019-04-11 15:18:55","timestamp":"2019-04-11 15:18:55"}
+{"level":"info","message":"GET /article/article_list 10 2019-04-11 15:18:56","timestamp":"2019-04-11 15:18:56"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:18:56"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:18:56"}
+{"level":"info","message":"GET /article/article_list 8 2019-04-11 15:18:56","timestamp":"2019-04-11 15:18:56"}
+{"level":"info","message":"GET /article/article_list 10 2019-04-11 15:18:57","timestamp":"2019-04-11 15:18:57"}
+{"level":"info","message":"GET /article/article_list 6 2019-04-11 15:18:58","timestamp":"2019-04-11 15:18:58"}
+{"level":"info","message":"GET /article/article_list 8 2019-04-11 15:18:58","timestamp":"2019-04-11 15:18:58"}
+{"level":"info","message":"GET /article/article_list 8 2019-04-11 15:18:59","timestamp":"2019-04-11 15:18:59"}
+{"level":"info","message":"GET /article/article_list 6 2019-04-11 15:19:00","timestamp":"2019-04-11 15:19:00"}
+{"level":"info","message":"GET /article/article_list 9 2019-04-11 15:19:01","timestamp":"2019-04-11 15:19:01"}
+{"level":"info","message":"GET /article/article_list 6 2019-04-11 15:19:02","timestamp":"2019-04-11 15:19:02"}
+{"level":"info","message":"GET /article/article_list 10 2019-04-11 15:19:02","timestamp":"2019-04-11 15:19:02"}
+{"level":"info","message":"GET /article/article_list 7 2019-04-11 15:19:03","timestamp":"2019-04-11 15:19:03"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:19:11"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:19:26"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:19:26"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:19:41"}
+{"level":"info","message":"GET /article/article_list 12 2019-04-11 15:19:48","timestamp":"2019-04-11 15:19:48"}
+{"level":"info","message":"GET /article/article_list 6 2019-04-11 15:19:49","timestamp":"2019-04-11 15:19:49"}
+{"level":"info","message":"GET /article/article_list 8 2019-04-11 15:19:50","timestamp":"2019-04-11 15:19:50"}
+{"level":"info","message":"GET /article/article_list 11 2019-04-11 15:19:51","timestamp":"2019-04-11 15:19:51"}
+{"level":"info","message":"GET /article/article_list 7 2019-04-11 15:19:52","timestamp":"2019-04-11 15:19:52"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:19:56"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:19:56"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:20:11"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:20:26"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:20:26"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:20:42"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:20:57"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:20:57"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:21:12"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:21:27"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:21:27"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:21:42"}
+{"level":"info","message":"GET /area 2 2019-04-11 15:21:49","timestamp":"2019-04-11 15:21:49"}
+{"level":"info","message":"GET /table/list 6 2019-04-11 15:21:49","timestamp":"2019-04-11 15:21:49"}
+{"level":"info","message":"GET /order/detail 21 2019-04-11 15:21:49","timestamp":"2019-04-11 15:21:49"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:21:57"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:21:57"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:22:12"}
+{"level":"info","message":"GET /article/family_list 1 2019-04-11 15:22:12","timestamp":"2019-04-11 15:22:12"}
+{"level":"info","message":"GET /article/article_list 19 2019-04-11 15:22:12","timestamp":"2019-04-11 15:22:12"}
+{"level":"info","message":"GET /area 2 2019-04-11 15:22:17","timestamp":"2019-04-11 15:22:17"}
+{"level":"info","message":"GET /table/list 12 2019-04-11 15:22:17","timestamp":"2019-04-11 15:22:17"}
+{"level":"info","message":"GET /order/detail 23 2019-04-11 15:22:17","timestamp":"2019-04-11 15:22:17"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:22:27"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:22:27"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:22:42"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:22:57"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:22:57"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:23:12"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:23:27"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:23:27"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:23:42"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:23:57"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:23:57"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:24:12"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:24:27"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:24:27"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:24:42"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:24:57"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:24:57"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:25:13"}
+{"level":"info","message":"GET /article/family_list 3 2019-04-11 15:25:27","timestamp":"2019-04-11 15:25:27"}
+{"level":"info","message":"GET /article/article_list 11 2019-04-11 15:25:27","timestamp":"2019-04-11 15:25:27"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:25:28"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:25:28"}
+{"level":"info","message":"GET /area 2 2019-04-11 15:25:30","timestamp":"2019-04-11 15:25:30"}
+{"level":"info","message":"GET /table/list 8 2019-04-11 15:25:30","timestamp":"2019-04-11 15:25:30"}
+{"level":"info","message":"GET /order/detail 18 2019-04-11 15:25:30","timestamp":"2019-04-11 15:25:30"}
+{"level":"info","message":"GET /article/family_list 1 2019-04-11 15:25:35","timestamp":"2019-04-11 15:25:35"}
+{"level":"info","message":"GET /article/article_list 9 2019-04-11 15:25:36","timestamp":"2019-04-11 15:25:36"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:25:43"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:25:58"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:25:58"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:26:13"}
+{"level":"info","message":"GET /system/info 7 2019-04-11 15:26:20","timestamp":"2019-04-11 15:26:20"}
+{"level":"info","message":"GET /article/family_list 2 2019-04-11 15:26:20","timestamp":"2019-04-11 15:26:20"}
+{"level":"info","message":"GET /article/article_list 10 2019-04-11 15:26:20","timestamp":"2019-04-11 15:26:20"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:26:28"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:26:28"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:26:43"}
+{"level":"info","message":"GET /article/article_list 14 2019-04-11 15:26:55","timestamp":"2019-04-11 15:26:55"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:26:58"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:26:58"}
+{"level":"info","message":"GET /area 2 2019-04-11 15:27:07","timestamp":"2019-04-11 15:27:07"}
+{"level":"info","message":"GET /table/list 4 2019-04-11 15:27:07","timestamp":"2019-04-11 15:27:07"}
+{"level":"info","message":"GET /area 1 2019-04-11 15:27:07","timestamp":"2019-04-11 15:27:07"}
+{"level":"info","message":"GET /table/list 6 2019-04-11 15:27:07","timestamp":"2019-04-11 15:27:07"}
+{"level":"info","message":"GET /area 1 2019-04-11 15:27:13","timestamp":"2019-04-11 15:27:13"}
+{"level":"info","message":"GET /table/list 5 2019-04-11 15:27:13","timestamp":"2019-04-11 15:27:13"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:27:13"}
+{"level":"info","message":"GET /area 3 2019-04-11 15:27:14","timestamp":"2019-04-11 15:27:14"}
+{"level":"info","message":"GET /table/list 7 2019-04-11 15:27:14","timestamp":"2019-04-11 15:27:14"}
+{"level":"info","message":"GET /order/detail 19 2019-04-11 15:27:14","timestamp":"2019-04-11 15:27:14"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:27:28"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:27:28"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:27:43"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:27:58"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:27:58"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:28:13"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:28:28"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:28:28"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:28:43"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:28:58"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:28:58"}
+{"level":"info","message":"GET /article/family_list 2 2019-04-11 15:29:12","timestamp":"2019-04-11 15:29:12"}
+{"level":"info","message":"GET /article/article_list 9 2019-04-11 15:29:12","timestamp":"2019-04-11 15:29:12"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:29:13"}
+{"level":"info","message":"GET /article/article_list 8 2019-04-11 15:29:21","timestamp":"2019-04-11 15:29:21"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:29:28"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:29:28"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:29:43"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:29:58"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:29:58"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:30:13"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:30:28"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:30:29"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:30:44"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:30:59"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:30:59"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:31:14"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:31:29"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:31:29"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:31:44"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:31:59"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:31:59"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:32:17"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:32:32"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:32:32"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:32:47"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:33:02"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:33:02"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:33:17"}
+{"level":"info","message":"GET /area 4 2019-04-11 15:33:28","timestamp":"2019-04-11 15:33:28"}
+{"level":"info","message":"GET /table/list 4 2019-04-11 15:33:28","timestamp":"2019-04-11 15:33:28"}
+{"level":"info","message":"GET /order/detail 16 2019-04-11 15:33:28","timestamp":"2019-04-11 15:33:28"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:33:32"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:33:32"}
+{"level":"info","message":"GET /article/family_list 1 2019-04-11 15:33:45","timestamp":"2019-04-11 15:33:45"}
+{"level":"info","message":"GET /article/article_list 9 2019-04-11 15:33:45","timestamp":"2019-04-11 15:33:45"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:33:47"}
+{"level":"info","message":"GET /article/article_list 8 2019-04-11 15:33:53","timestamp":"2019-04-11 15:33:53"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:34:02"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:34:02"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:34:17"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:34:32"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:34:32"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:34:47"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:35:02"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:35:02"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:35:17"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:35:32"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:35:32"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:35:48"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:36:03"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:36:03"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:36:18"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:36:33"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:36:33"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:36:48"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:37:03"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:37:03"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:37:18"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:37:33"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:37:33"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:37:48"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:38:03"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:38:03"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:38:18"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:38:33"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:38:33"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:38:49"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:39:04"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:39:04"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:39:19"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:39:34"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:39:34"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:39:49"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:40:04"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:40:04"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:40:19"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:40:34"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:40:34"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:40:49"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:41:04"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:41:04"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:41:19"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:41:34"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:41:34"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:41:49"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:42:04"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:42:04"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:42:19"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:42:34"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:42:34"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:42:49"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:43:04"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:43:04"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:43:19"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:43:34"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:43:34"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:43:50"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:44:05"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:44:05"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:44:20"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:44:35"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:44:35"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:44:50"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:45:05"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:45:05"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:45:20"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:45:35"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:45:35"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:45:50"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:46:05"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:46:05"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:46:20"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:46:35"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:46:35"}
+{"level":"info","message":"GET /system/info 77 2019-04-11 15:46:50","timestamp":"2019-04-11 15:46:50"}
+{"level":"info","message":"GET /article/family_list 1 2019-04-11 15:46:50","timestamp":"2019-04-11 15:46:50"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:46:50"}
+{"level":"info","message":"GET /article/article_list 31 2019-04-11 15:46:50","timestamp":"2019-04-11 15:46:50"}
+{"level":"info","message":"GET /area 2 2019-04-11 15:46:59","timestamp":"2019-04-11 15:46:59"}
+{"level":"info","message":"GET /table/list 6 2019-04-11 15:46:59","timestamp":"2019-04-11 15:46:59"}
+{"level":"info","message":"GET /order/detail 20 2019-04-11 15:46:59","timestamp":"2019-04-11 15:46:59"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:47:05"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:47:05"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:47:21"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:47:36"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:47:36"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:47:51"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:48:06"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:48:06"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:48:21"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:48:36"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:48:36"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:48:51"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:49:06"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:49:06"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:49:21"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:49:36"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:49:36"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:49:51"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:50:06"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:50:06"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:50:21"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:50:36"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:50:36"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:50:51"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:51:06"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:51:06"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:51:21"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:51:36"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:51:36"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:51:51"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:52:06"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:52:07"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:52:22"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:52:37"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:52:37"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:52:52"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:53:07"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:53:07"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:53:22"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:53:37"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:53:37"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:53:52"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:54:07"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:54:07"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:54:22"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:54:37"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:54:37"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:54:52"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:55:07"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:55:07"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:55:22"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:55:37"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:55:37"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:55:52"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:56:07"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:56:07"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:56:22"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:56:37"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:56:37"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-04-11 15:56:52"}
+{"level":"info","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-04-11 15:57:07"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-04-11 15:57:07"}

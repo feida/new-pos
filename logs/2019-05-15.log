@@ -1,0 +1,174 @@
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-05-15 11:22:47"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/63325014c50b4b16a81e50b3623f8d96/+/+/+","timestamp":"2019-05-15 11:22:47"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-05-15 11:22:47"}
+{"level":"error","message":"==mqtt==close==你已断开连接,异常退出","timestamp":"2019-05-15 11:23:13"}
+{"level":"error","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-05-15 11:23:29"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-05-15 11:23:29"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/63325014c50b4b16a81e50b3623f8d96/+/+/+","timestamp":"2019-05-15 11:23:29"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-05-15 11:23:29"}
+{"level":"error","message":"==mqtt==close==你已断开连接,异常退出","timestamp":"2019-05-15 13:52:06"}
+{"level":"error","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-05-15 13:52:21"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-05-15 13:52:21"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/63325014c50b4b16a81e50b3623f8d96/+/+/+","timestamp":"2019-05-15 13:52:21"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-05-15 13:52:21"}
+{"level":"info","message":"GET /system/info 125 2019-05-15 14:25:54","timestamp":"2019-05-15 14:25:54"}
+{"level":"info","message":"GET /order/order_state_count 100 2019-05-15 14:25:55","timestamp":"2019-05-15 14:25:55"}
+{"level":"info","message":"GET /area 96 2019-05-15 14:25:55","timestamp":"2019-05-15 14:25:55"}
+{"level":"info","message":"GET /table/list 131 2019-05-15 14:25:55","timestamp":"2019-05-15 14:25:55"}
+{"level":"info","message":"GET /order/detail 161 2019-05-15 14:25:55","timestamp":"2019-05-15 14:25:55"}
+{"level":"info","message":"GET /order/order_state_count 5 2019-05-15 14:25:59","timestamp":"2019-05-15 14:25:59"}
+{"level":"info","message":"GET /order/wait_order 5 2019-05-15 14:25:59","timestamp":"2019-05-15 14:25:59"}
+{"level":"info","message":"GET /order/detail 9 2019-05-15 14:26:00","timestamp":"2019-05-15 14:26:00"}
+{"level":"info","message":"GET /order/get_order_test 60 2019-05-15 14:26:00","timestamp":"2019-05-15 14:26:00"}
+{"level":"info","message":"GET /order/detail 9 2019-05-15 14:26:01","timestamp":"2019-05-15 14:26:01"}
+{"level":"info","message":"GET /order/get_order_test 3 2019-05-15 14:26:02","timestamp":"2019-05-15 14:26:02"}
+{"level":"info","message":"GET /order/order_state_count 4 2019-05-15 14:26:02","timestamp":"2019-05-15 14:26:02"}
+{"level":"info","message":"GET /order/no_pay 5 2019-05-15 14:26:02","timestamp":"2019-05-15 14:26:02"}
+{"level":"info","message":"GET /order/detail 25 2019-05-15 14:26:02","timestamp":"2019-05-15 14:26:02"}
+{"level":"info","message":"GET /order/get_order_test 57 2019-05-15 14:26:03","timestamp":"2019-05-15 14:26:03"}
+{"level":"info","message":"GET /order/detail 6 2019-05-15 14:26:03","timestamp":"2019-05-15 14:26:03"}
+{"level":"info","message":"GET /order/get_order_test 3 2019-05-15 14:26:04","timestamp":"2019-05-15 14:26:04"}
+{"level":"info","message":"GET /order/detail 6 2019-05-15 14:26:04","timestamp":"2019-05-15 14:26:04"}
+{"level":"info","message":"GET /order/get_order_test 3 2019-05-15 14:26:05","timestamp":"2019-05-15 14:26:05"}
+{"level":"info","message":"GET /order/detail 27 2019-05-15 14:26:06","timestamp":"2019-05-15 14:26:06"}
+{"level":"info","message":"GET /order/get_order_test 21 2019-05-15 14:26:06","timestamp":"2019-05-15 14:26:06"}
+{"level":"info","message":"GET /system/info 6 2019-05-15 14:26:17","timestamp":"2019-05-15 14:26:17"}
+{"level":"info","message":"GET /order/order_state_count 11 2019-05-15 14:26:18","timestamp":"2019-05-15 14:26:18"}
+{"level":"info","message":"GET /area 8 2019-05-15 14:26:18","timestamp":"2019-05-15 14:26:18"}
+{"level":"info","message":"GET /table/list 6 2019-05-15 14:26:18","timestamp":"2019-05-15 14:26:18"}
+{"level":"info","message":"GET /order/detail 19 2019-05-15 14:26:18","timestamp":"2019-05-15 14:26:18"}
+{"level":"info","message":"GET /order/no_pay 9 2019-05-15 14:26:20","timestamp":"2019-05-15 14:26:20"}
+{"level":"info","message":"GET /order/order_state_count 9 2019-05-15 14:26:20","timestamp":"2019-05-15 14:26:20"}
+{"level":"info","message":"GET /order/detail 7 2019-05-15 14:26:20","timestamp":"2019-05-15 14:26:20"}
+{"level":"info","message":"GET /order/get_order_test 5 2019-05-15 14:26:21","timestamp":"2019-05-15 14:26:21"}
+{"level":"info","message":"GET /order/detail 11 2019-05-15 14:26:23","timestamp":"2019-05-15 14:26:23"}
+{"level":"info","message":"GET /order/get_order_test 4 2019-05-15 14:26:23","timestamp":"2019-05-15 14:26:23"}
+{"level":"info","message":"GET /table/list 10 2019-05-15 14:26:33","timestamp":"2019-05-15 14:26:33"}
+{"level":"info","message":"GET /order/order_state_count 9 2019-05-15 14:26:33","timestamp":"2019-05-15 14:26:33"}
+{"level":"info","message":"POST /bindTable 106 2019-05-15 14:26:37","timestamp":"2019-05-15 14:26:37"}
+{"level":"info","message":"GET /article/family_list 17 2019-05-15 14:26:37","timestamp":"2019-05-15 14:26:37"}
+{"level":"info","message":"GET /order/detail 29 2019-05-15 14:26:37","timestamp":"2019-05-15 14:26:37"}
+{"level":"info","message":"GET /article/article_list 59 2019-05-15 14:26:37","timestamp":"2019-05-15 14:26:37"}
+{"level":"info","message":"GET /article/article_list 12 2019-05-15 14:26:40","timestamp":"2019-05-15 14:26:40"}
+{"level":"info","message":"GET /article/article_list 12 2019-05-15 14:26:47","timestamp":"2019-05-15 14:26:47"}
+{"level":"info","message":"POST /pushOrder 207 2019-05-15 14:26:49","timestamp":"2019-05-15 14:26:49"}
+{"level":"info","message":"GET /order/order_state_count 39 2019-05-15 14:26:49","timestamp":"2019-05-15 14:26:49"}
+{"level":"info","message":"GET /area 38 2019-05-15 14:26:49","timestamp":"2019-05-15 14:26:49"}
+{"level":"info","message":"GET /table/list 41 2019-05-15 14:26:49","timestamp":"2019-05-15 14:26:49"}
+{"level":"info","message":"推送EMQ:resto-dev/2f83afee7a0e4822a6729145dd53af33/63325014c50b4b16a81e50b3623f8d96/order/creator/7f35c9c7aec0449ba7c7b750114e21ee \n {\"master_order_id\":\"7f35c9c7aec0449ba7c7b750114e21ee\",\"order_arr\":[{\"id\":\"7f35c9c7aec0449ba7c7b750114e21ee\",\"table_number\":\"3\",\"customer_count\":2,\"accounting_time\":\"2019-05-15\",\"order_state\":1,\"production_status\":2,\"original_amount\":14.02,\"order_money\":12.02,\"origin_money\":null,\"article_count\":7,\"serial_number\":\"201905151426371410\",\"allow_cancel\":0,\"closed\":0,\"create_time\":\"1557901597142\",\"push_order_time\":null,\"print_order_time\":\"1557901609620\",\"remark\":\"\",\"distribution_mode_id\":1,\"amount_with_children\":0,\"parent_order_id\":null,\"service_price\":0,\"is_pos_pay\":0,\"pay_type\":1,\"count_with_child\":0,\"allow_continue_order\":0,\"payment_amount\":12.02,\"customer_id\":\"0\",\"customer_address_id\":null,\"ver_code\":\"91486\",\"pay_mode\":0,\"meal_fee_price\":0,\"meal_all_number\":0,\"order_mode\":6,\"allow_appraise\":0,\"confirm_time\":null,\"order_number\":1,\"call_number_time\":null,\"call_times\":0,\"shop_detail_id\":\"d2ff1bbb8c6f4fd8adb3949f76f8c1b6\",\"data_origin\":\"0\",\"sync_state\":1,\"last_sync_time\":\"1557901609583\",\"order_pos_discount_money\":\"0\",\"member_discount_money\":\"0\",\"erase_money\":\"0\",\"reduce_money\":\"0\",\"real_erase_money\":\"0\",\"pos_discount\":\"100\",\"no_discount_money\":\"0\",\"exemption_money\":\"0\",\"need_confirm_order_item\":0,\"sauce_fee_count\":\"2\",\"sauce_fee_price\":null,\"towel_fee_count\":\"2\",\"towel_fee_price\":0,\"tableware_fee_count\":\"2\",\"tableware_fee_price\":0,\"is_use_new_service\":0,\"grant_money\":0}],\"order_item\":[{\"id\":\"89dd083a3c6349bb930924c498941cb6\",\"order_id\":\"7f35c9c7aec0449ba7c7b750114e21ee\",\"article_id\":\"22d09d78c4ef4244b375de91acfa587a\",\"article_name\":\"蜜糖鸡翅(2件)\",\"count\":1,\"original_price\":1,\"no_discount_price\":null,\"unit_price\":1,\"final_price\":1,\"remark\":\"100%\",\"sort\":0,\"status\":1,\"type\":1,\"parent_id\":null,\"create_time\":\"1557901609672\",\"meal_item_id\":\"0\",\"kitchen_id\":\"\",\"recommend_id\":\"\",\"orgin_count\":1,\"refund_count\":0,\"grant_count\":0,\"meal_fee_number\":0,\"change_count\":0,\"print_fail_flag\":0,\"pos_discount\":100,\"weight\":0,\"need_remind\":0},{\"id\":\"a649b875acbc40aaa788c11552807372\",\"order_id\":\"7f35c9c7aec0449ba7c7b750114e21ee\",\"article_id\":\"22ec4f4ec9034e018747809015dea060\",\"article_name\":\"不想吃\",\"count\":1,\"original_price\":1,\"no_discount_price\":null,\"unit_price\":1,\"final_price\":1,\"remark\":\"100%\",\"sort\":0,\"status\":1,\"type\":1,\"parent_id\":null,\"create_time\":\"1557901609729\",\"meal_item_id\":\"0\",\"kitchen_id\":\"\",\"recommend_id\":\"\",\"orgin_count\":1,\"refund_count\":0,\"grant_count\":0,\"meal_fee_number\":0,\"change_count\":0,\"print_fail_flag\":0,\"pos_discount\":100,\"weight\":0,\"need_remind\":0},{\"id\":\"620c26cacf5645f2bc850425c05f741e\",\"order_id\":\"7f35c9c7aec0449ba7c7b750114e21ee\",\"article_id\":\"26bde271b22a4570bd5885f47667c2de\",\"article_name\":\"SO PHO越式火车头\",\"count\":1,\"original_price\":1,\"no_discount_price\":null,\"unit_price\":1,\"final_price\":1,\"remark\":\"100%\",\"sort\":0,\"status\":1,\"type\":1,\"parent_id\":null,\"create_time\":\"1557901609737\",\"meal_item_id\":\"0\",\"kitchen_id\":\"\",\"recommend_id\":\"\",\"orgin_count\":1,\"refund_count\":0,\"grant_count\":0,\"meal_fee_number\":0,\"change_count\":0,\"print_fail_flag\":0,\"pos_discount\":100,\"weight\":0,\"need_remind\":0},{\"id\":\"b3d8a9851c964f87904c2be4661bda90\",\"order_id\":\"7f35c9c7aec0449ba7c7b750114e21ee\",\"article_id\":\"3c833fd97e874045ac6966f720226ad0\",\"article_name\":\"凉拌黄瓜\",\"count\":1,\"original_price\":0.01,\"no_discount_price\":null,\"unit_price\":0.01,\"final_price\":0.01,\"remark\":\"100%\",\"sort\":0,\"status\":1,\"type\":1,\"parent_id\":null,\"create_time\":\"1557901609743\",\"meal_item_id\":\"0\",\"kitchen_id\":\"\",\"recommend_id\":\"\",\"orgin_count\":1,\"refund_count\":0,\"grant_count\":0,\"meal_fee_number\":0,\"change_count\":0,\"print_fail_flag\":0,\"pos_discount\":100,\"weight\":0,\"need_remind\":0},{\"id\":\"e2936a8ca5524ad2a5c5f0285045e66d\",\"order_id\":\"7f35c9c7aec0449ba7c7b750114e21ee\",\"article_id\":\"322a7084821043abbf47a135bfcc1404\",\"article_name\":\"陕西凉皮\",\"count\":1,\"original_price\":0.01,\"no_discount_price\":null,\"unit_price\":0.01,\"final_price\":0.01,\"remark\":\"100%\",\"sort\":0,\"status\":1,\"type\":1,\"parent_id\":null,\"create_time\":\"1557901609748\",\"meal_item_id\":\"0\",\"kitchen_id\":\"\",\"recommend_id\":\"\",\"orgin_count\":1,\"refund_count\":0,\"grant_count\":0,\"meal_fee_number\":0,\"change_count\":0,\"print_fail_flag\":0,\"pos_discount\":100,\"weight\":0,\"need_remind\":0},{\"id\":\"ef85886e64354806a9cbba5a2c5197ba\",\"order_id\":\"7f35c9c7aec0449ba7c7b750114e21ee\",\"article_id\":\"b0d357b62adf4543a88d4d19beb44856\",\"article_name\":\"片鸭1\",\"count\":1,\"original_price\":10,\"no_discount_price\":null,\"unit_price\":8,\"final_price\":8,\"remark\":\"100%\",\"sort\":0,\"status\":1,\"type\":1,\"parent_id\":null,\"create_time\":\"1557901609756\",\"meal_item_id\":\"0\",\"kitchen_id\":\"\",\"recommend_id\":\"\",\"orgin_count\":1,\"refund_count\":0,\"grant_count\":0,\"meal_fee_number\":0,\"change_count\":0,\"print_fail_flag\":0,\"pos_discount\":100,\"weight\":0,\"need_remind\":0},{\"id\":\"656ccce080bf49f9b4674c492e457866\",\"order_id\":\"7f35c9c7aec0449ba7c7b750114e21ee\",\"article_id\":\"d847210855824eef901d17e6ff2fc41a\",\"article_name\":\"越式火车头\",\"count\":1,\"original_price\":1,\"no_discount_price\":null,\"unit_price\":1,\"final_price\":1,\"remark\":\"100%\",\"sort\":0,\"status\":1,\"type\":1,\"parent_id\":null,\"create_time\":\"1557901609761\",\"meal_item_id\":\"0\",\"kitchen_id\":\"\",\"recommend_id\":\"\",\"orgin_count\":1,\"refund_count\":0,\"grant_count\":0,\"meal_fee_number\":0,\"change_count\":0,\"print_fail_flag\":0,\"pos_discount\":100,\"weight\":0,\"need_remind\":0}]}","timestamp":"2019-05-15 14:26:49"}
+{"level":"info","message":"GET /order/detail 311 2019-05-15 14:26:50","timestamp":"2019-05-15 14:26:50"}
+{"level":"info","message":"GET /order/get_order_test 4 2019-05-15 14:26:50","timestamp":"2019-05-15 14:26:50"}
+{"level":"info","message":"GET /article/family_list 3 2019-05-15 14:27:02","timestamp":"2019-05-15 14:27:02"}
+{"level":"info","message":"GET /order/detail 8 2019-05-15 14:27:02","timestamp":"2019-05-15 14:27:02"}
+{"level":"info","message":"GET /article/article_list 12 2019-05-15 14:27:02","timestamp":"2019-05-15 14:27:02"}
+{"level":"info","message":"GET /article/family_list 4 2019-05-15 14:46:47","timestamp":"2019-05-15 14:46:47"}
+{"level":"info","message":"GET /order/detail 9 2019-05-15 14:46:47","timestamp":"2019-05-15 14:46:47"}
+{"level":"info","message":"GET /article/article_list 13 2019-05-15 14:46:47","timestamp":"2019-05-15 14:46:47"}
+{"level":"info","message":"GET /system/info 5 2019-05-15 14:46:52","timestamp":"2019-05-15 14:46:52"}
+{"level":"info","message":"GET /article/family_list 3 2019-05-15 14:46:52","timestamp":"2019-05-15 14:46:52"}
+{"level":"info","message":"GET /order/detail 13 2019-05-15 14:46:52","timestamp":"2019-05-15 14:46:52"}
+{"level":"info","message":"GET /article/article_list 16 2019-05-15 14:46:52","timestamp":"2019-05-15 14:46:52"}
+{"level":"info","message":"GET /system/info 7 2019-05-15 14:47:48","timestamp":"2019-05-15 14:47:48"}
+{"level":"info","message":"GET /article/family_list 2 2019-05-15 14:47:49","timestamp":"2019-05-15 14:47:49"}
+{"level":"info","message":"GET /order/detail 13 2019-05-15 14:47:49","timestamp":"2019-05-15 14:47:49"}
+{"level":"info","message":"GET /article/article_list 13 2019-05-15 14:47:49","timestamp":"2019-05-15 14:47:49"}
+{"level":"info","message":"GET /system/info 6 2019-05-15 14:48:37","timestamp":"2019-05-15 14:48:37"}
+{"level":"info","message":"GET /article/family_list 3 2019-05-15 14:48:38","timestamp":"2019-05-15 14:48:38"}
+{"level":"info","message":"GET /order/detail 7 2019-05-15 14:48:38","timestamp":"2019-05-15 14:48:38"}
+{"level":"info","message":"GET /article/article_list 17 2019-05-15 14:48:38","timestamp":"2019-05-15 14:48:38"}
+{"level":"info","message":"GET /system/info 4 2019-05-15 14:49:18","timestamp":"2019-05-15 14:49:18"}
+{"level":"info","message":"GET /article/family_list 2 2019-05-15 14:49:19","timestamp":"2019-05-15 14:49:19"}
+{"level":"info","message":"GET /order/detail 8 2019-05-15 14:49:19","timestamp":"2019-05-15 14:49:19"}
+{"level":"info","message":"GET /article/article_list 25 2019-05-15 14:49:19","timestamp":"2019-05-15 14:49:19"}
+{"level":"info","message":"GET /system/info 5 2019-05-15 14:49:35","timestamp":"2019-05-15 14:49:35"}
+{"level":"info","message":"GET /article/family_list 2 2019-05-15 14:49:35","timestamp":"2019-05-15 14:49:35"}
+{"level":"info","message":"GET /order/detail 7 2019-05-15 14:49:35","timestamp":"2019-05-15 14:49:35"}
+{"level":"info","message":"GET /article/article_list 13 2019-05-15 14:49:36","timestamp":"2019-05-15 14:49:36"}
+{"level":"info","message":"GET /system/info 6 2019-05-15 14:49:46","timestamp":"2019-05-15 14:49:46"}
+{"level":"info","message":"GET /article/family_list 3 2019-05-15 14:49:47","timestamp":"2019-05-15 14:49:47"}
+{"level":"info","message":"GET /order/detail 13 2019-05-15 14:49:47","timestamp":"2019-05-15 14:49:47"}
+{"level":"info","message":"GET /article/article_list 13 2019-05-15 14:49:47","timestamp":"2019-05-15 14:49:47"}
+{"level":"info","message":"GET /system/info 4 2019-05-15 14:50:07","timestamp":"2019-05-15 14:50:07"}
+{"level":"info","message":"GET /article/family_list 2 2019-05-15 14:50:07","timestamp":"2019-05-15 14:50:07"}
+{"level":"info","message":"GET /order/detail 8 2019-05-15 14:50:07","timestamp":"2019-05-15 14:50:07"}
+{"level":"info","message":"GET /article/article_list 12 2019-05-15 14:50:08","timestamp":"2019-05-15 14:50:08"}
+{"level":"info","message":"GET /order/order_state_count 5 2019-05-15 14:51:17","timestamp":"2019-05-15 14:51:17"}
+{"level":"info","message":"GET /area 2 2019-05-15 14:51:17","timestamp":"2019-05-15 14:51:17"}
+{"level":"info","message":"GET /table/list 6 2019-05-15 14:51:17","timestamp":"2019-05-15 14:51:17"}
+{"level":"info","message":"GET /order/detail 18 2019-05-15 14:51:17","timestamp":"2019-05-15 14:51:17"}
+{"level":"info","message":"GET /order/get_order_test 3 2019-05-15 14:51:17","timestamp":"2019-05-15 14:51:17"}
+{"level":"info","message":"GET /article/family_list 2 2019-05-15 14:51:20","timestamp":"2019-05-15 14:51:20"}
+{"level":"info","message":"GET /order/detail 7 2019-05-15 14:51:20","timestamp":"2019-05-15 14:51:20"}
+{"level":"info","message":"GET /article/article_list 10 2019-05-15 14:51:20","timestamp":"2019-05-15 14:51:20"}
+{"level":"info","message":"GET /order/order_state_count 14 2019-05-15 14:52:30","timestamp":"2019-05-15 14:52:30"}
+{"level":"info","message":"GET /area 11 2019-05-15 14:52:30","timestamp":"2019-05-15 14:52:30"}
+{"level":"info","message":"GET /table/list 13 2019-05-15 14:52:30","timestamp":"2019-05-15 14:52:30"}
+{"level":"info","message":"GET /order/detail 25 2019-05-15 14:52:30","timestamp":"2019-05-15 14:52:30"}
+{"level":"info","message":"GET /order/get_order_test 4 2019-05-15 14:52:31","timestamp":"2019-05-15 14:52:31"}
+{"level":"info","message":"GET /article/family_list 3 2019-05-15 14:52:59","timestamp":"2019-05-15 14:52:59"}
+{"level":"info","message":"GET /order/detail 7 2019-05-15 14:52:59","timestamp":"2019-05-15 14:52:59"}
+{"level":"info","message":"GET /article/article_list 10 2019-05-15 14:52:59","timestamp":"2019-05-15 14:52:59"}
+{"level":"info","message":"GET /order/order_state_count 7 2019-05-15 14:53:04","timestamp":"2019-05-15 14:53:04"}
+{"level":"info","message":"GET /area 6 2019-05-15 14:53:04","timestamp":"2019-05-15 14:53:04"}
+{"level":"info","message":"GET /table/list 8 2019-05-15 14:53:04","timestamp":"2019-05-15 14:53:04"}
+{"level":"info","message":"GET /order/detail 8 2019-05-15 14:53:05","timestamp":"2019-05-15 14:53:05"}
+{"level":"info","message":"GET /order/get_order_test 3 2019-05-15 14:53:06","timestamp":"2019-05-15 14:53:06"}
+{"level":"info","message":"GET /article/family_list 4 2019-05-15 14:53:57","timestamp":"2019-05-15 14:53:57"}
+{"level":"info","message":"GET /order/detail 13 2019-05-15 14:53:57","timestamp":"2019-05-15 14:53:57"}
+{"level":"info","message":"GET /article/article_list 15 2019-05-15 14:53:57","timestamp":"2019-05-15 14:53:57"}
+{"level":"info","message":"GET /order/order_state_count 6 2019-05-15 14:54:01","timestamp":"2019-05-15 14:54:01"}
+{"level":"info","message":"GET /area 5 2019-05-15 14:54:01","timestamp":"2019-05-15 14:54:01"}
+{"level":"info","message":"GET /table/list 9 2019-05-15 14:54:01","timestamp":"2019-05-15 14:54:01"}
+{"level":"info","message":"GET /order/detail 24 2019-05-15 14:54:01","timestamp":"2019-05-15 14:54:01"}
+{"level":"info","message":"GET /order/get_order_test 6 2019-05-15 14:54:02","timestamp":"2019-05-15 14:54:02"}
+{"level":"info","message":"GET /article/family_list 3 2019-05-15 14:54:03","timestamp":"2019-05-15 14:54:03"}
+{"level":"info","message":"GET /order/detail 6 2019-05-15 14:54:03","timestamp":"2019-05-15 14:54:03"}
+{"level":"info","message":"GET /article/article_list 12 2019-05-15 14:54:04","timestamp":"2019-05-15 14:54:04"}
+{"level":"info","message":"GET /order/order_state_count 5 2019-05-15 14:54:21","timestamp":"2019-05-15 14:54:21"}
+{"level":"info","message":"GET /area 3 2019-05-15 14:54:21","timestamp":"2019-05-15 14:54:21"}
+{"level":"info","message":"GET /order/detail 12 2019-05-15 14:54:21","timestamp":"2019-05-15 14:54:21"}
+{"level":"info","message":"GET /table/list 4 2019-05-15 14:54:21","timestamp":"2019-05-15 14:54:21"}
+{"level":"info","message":"GET /order/get_order_test 4 2019-05-15 14:54:21","timestamp":"2019-05-15 14:54:21"}
+{"level":"info","message":"GET /article/family_list 3 2019-05-15 14:54:32","timestamp":"2019-05-15 14:54:32"}
+{"level":"info","message":"GET /order/detail 8 2019-05-15 14:54:32","timestamp":"2019-05-15 14:54:32"}
+{"level":"info","message":"GET /article/article_list 14 2019-05-15 14:54:32","timestamp":"2019-05-15 14:54:32"}
+{"level":"info","message":"GET /order/order_state_count 7 2019-05-15 14:54:41","timestamp":"2019-05-15 14:54:41"}
+{"level":"info","message":"GET /area 5 2019-05-15 14:54:41","timestamp":"2019-05-15 14:54:41"}
+{"level":"info","message":"GET /table/list 8 2019-05-15 14:54:41","timestamp":"2019-05-15 14:54:41"}
+{"level":"info","message":"GET /order/detail 22 2019-05-15 14:54:41","timestamp":"2019-05-15 14:54:41"}
+{"level":"info","message":"GET /order/get_order_test 6 2019-05-15 14:54:42","timestamp":"2019-05-15 14:54:42"}
+{"level":"info","message":"GET /article/family_list 3 2019-05-15 14:55:42","timestamp":"2019-05-15 14:55:42"}
+{"level":"info","message":"GET /order/detail 8 2019-05-15 14:55:42","timestamp":"2019-05-15 14:55:42"}
+{"level":"info","message":"GET /article/article_list 15 2019-05-15 14:55:42","timestamp":"2019-05-15 14:55:42"}
+{"level":"info","message":"GET /business/report 22 2019-05-15 15:48:40","timestamp":"2019-05-15 15:48:40"}
+{"level":"info","message":"GET /system/info 4 2019-05-15 15:49:00","timestamp":"2019-05-15 15:49:00"}
+{"level":"info","message":"GET /business/report 13 2019-05-15 15:49:00","timestamp":"2019-05-15 15:49:00"}
+{"level":"info","message":"GET /system/info 8 2019-05-15 15:49:51","timestamp":"2019-05-15 15:49:51"}
+{"level":"info","message":"GET /business/report 9 2019-05-15 15:49:52","timestamp":"2019-05-15 15:49:52"}
+{"level":"info","message":"GET /system/info 7 2019-05-15 15:51:30","timestamp":"2019-05-15 15:51:30"}
+{"level":"info","message":"GET /business/report 8 2019-05-15 15:51:30","timestamp":"2019-05-15 15:51:30"}
+{"level":"info","message":"GET /system/info 6 2019-05-15 15:52:57","timestamp":"2019-05-15 15:52:57"}
+{"level":"info","message":"GET /business/report 11 2019-05-15 15:52:58","timestamp":"2019-05-15 15:52:58"}
+{"level":"info","message":"GET /business/report 9 2019-05-15 15:53:14","timestamp":"2019-05-15 15:53:14"}
+{"level":"info","message":"GET /system/info 5 2019-05-15 15:53:24","timestamp":"2019-05-15 15:53:24"}
+{"level":"info","message":"GET /business/report 11 2019-05-15 15:53:25","timestamp":"2019-05-15 15:53:25"}
+{"level":"info","message":"GET /article/family_list 5 2019-05-15 16:35:27","timestamp":"2019-05-15 16:35:27"}
+{"level":"info","message":"GET /article/article_list 15 2019-05-15 16:35:27","timestamp":"2019-05-15 16:35:27"}
+{"level":"info","message":"GET /order/order_state_count 6 2019-05-15 16:35:28","timestamp":"2019-05-15 16:35:28"}
+{"level":"info","message":"GET /area 9 2019-05-15 16:35:28","timestamp":"2019-05-15 16:35:28"}
+{"level":"info","message":"GET /table/list 8 2019-05-15 16:35:28","timestamp":"2019-05-15 16:35:28"}
+{"level":"info","message":"GET /order/detail 9 2019-05-15 17:09:33","timestamp":"2019-05-15 17:09:33"}
+{"level":"info","message":"GET /order/get_order_test 5 2019-05-15 17:09:33","timestamp":"2019-05-15 17:09:33"}
+{"level":"info","message":"GET /system/info 10 2019-05-15 17:10:48","timestamp":"2019-05-15 17:10:48"}
+{"level":"info","message":"GET /order/order_state_count 7 2019-05-15 17:10:49","timestamp":"2019-05-15 17:10:49"}
+{"level":"info","message":"GET /area 6 2019-05-15 17:10:49","timestamp":"2019-05-15 17:10:49"}
+{"level":"info","message":"GET /table/list 8 2019-05-15 17:10:49","timestamp":"2019-05-15 17:10:49"}
+{"level":"error","message":"==mqtt==close==你已断开连接,异常退出","timestamp":"2019-05-15 17:57:15"}
+{"level":"error","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-05-15 17:57:30"}
+{"level":"error","message":"==mqtt==close==你已断开连接,异常退出","timestamp":"2019-05-15 17:57:30"}
+{"level":"error","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-05-15 17:57:45"}
+{"level":"error","message":"==mqtt==close==你已断开连接,异常退出","timestamp":"2019-05-15 17:57:45"}
+{"level":"error","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-05-15 17:58:00"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-05-15 17:58:00"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/63325014c50b4b16a81e50b3623f8d96/+/+/+","timestamp":"2019-05-15 17:58:00"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-05-15 17:58:00"}

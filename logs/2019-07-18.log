@@ -1,0 +1,576 @@
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-07-18 09:49:51"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/d2ff1bbb8c6f4fd8adb3949f76f8c1b6/+/+/+","timestamp":"2019-07-18 09:49:51"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-07-18 09:49:51"}
+{"level":"error","message":"==mqtt==close==你已断开连接,异常退出","timestamp":"2019-07-18 09:50:21"}
+{"level":"error","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-07-18 09:50:39"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-07-18 09:50:39"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/d2ff1bbb8c6f4fd8adb3949f76f8c1b6/+/+/+","timestamp":"2019-07-18 09:50:39"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-07-18 09:50:39"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 09:52:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 09:52:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 09:53:42"}
+{"level":"info","message":"GET /system/info 95 2019-07-18 09:54:54","timestamp":"2019-07-18 09:54:54"}
+{"level":"info","message":"GET /on/line/state 2 2019-07-18 09:54:56","timestamp":"2019-07-18 09:54:56"}
+{"level":"info","message":"GET /order/discount_info 66 2019-07-18 09:54:56","timestamp":"2019-07-18 09:54:56"}
+{"level":"info","message":"GET /order/detail 139 2019-07-18 09:54:57","timestamp":"2019-07-18 09:54:57"}
+{"level":"info","message":"GET /order/detail 10 2019-07-18 09:54:57","timestamp":"2019-07-18 09:54:57"}
+{"level":"info","message":"GET /order/order_items 17 2019-07-18 09:54:57","timestamp":"2019-07-18 09:54:57"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 09:55:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 09:55:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 09:57:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 09:58:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 09:58:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 10:01:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 10:01:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 10:01:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 10:04:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 10:04:42"}
+{"level":"error","message":"==mqtt==close==你已断开连接,异常退出","timestamp":"2019-07-18 10:22:20"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 10:22:22"}
+{"level":"error","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-07-18 10:22:35"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-07-18 10:22:35"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/d2ff1bbb8c6f4fd8adb3949f76f8c1b6/+/+/+","timestamp":"2019-07-18 10:22:35"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-07-18 10:22:35"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 10:24:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 10:24:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 10:26:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 10:27:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 10:27:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 10:30:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 10:30:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 10:30:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 10:33:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 10:33:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 10:34:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 10:36:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 10:36:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 10:38:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 10:39:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 10:39:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 10:42:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 10:42:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 10:42:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 10:45:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 10:45:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 10:46:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 10:48:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 10:48:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 10:50:22"}
+{"level":"info","message":"GET /order/order_state_count 12 2019-07-18 10:50:22","timestamp":"2019-07-18 10:50:22"}
+{"level":"info","message":"GET /table/list 49 2019-07-18 10:50:23","timestamp":"2019-07-18 10:50:23"}
+{"level":"info","message":"GET /area 19 2019-07-18 10:50:23","timestamp":"2019-07-18 10:50:23"}
+{"level":"info","message":"GET /table/number 2 2019-07-18 10:50:23","timestamp":"2019-07-18 10:50:23"}
+{"level":"info","message":"GET /on/line/state 0 2019-07-18 10:50:47","timestamp":"2019-07-18 10:50:47"}
+{"level":"info","message":"GET /user/normal/list 24 2019-07-18 10:50:47","timestamp":"2019-07-18 10:50:47"}
+{"level":"info","message":"POST /user/login 61 2019-07-18 10:50:52","timestamp":"2019-07-18 10:50:52"}
+{"level":"info","message":"GET /system/info 6 2019-07-18 10:50:52","timestamp":"2019-07-18 10:50:52"}
+{"level":"info","message":"GET /on/line/state 0 2019-07-18 10:50:52","timestamp":"2019-07-18 10:50:52"}
+{"level":"info","message":"GET /order/order_state_count 14 2019-07-18 10:50:52","timestamp":"2019-07-18 10:50:52"}
+{"level":"info","message":"GET /area 15 2019-07-18 10:50:52","timestamp":"2019-07-18 10:50:52"}
+{"level":"info","message":"GET /table/list 15 2019-07-18 10:50:52","timestamp":"2019-07-18 10:50:52"}
+{"level":"info","message":"GET /table/number 2 2019-07-18 10:50:52","timestamp":"2019-07-18 10:50:52"}
+{"level":"info","message":"GET /table/number 2 2019-07-18 10:50:53","timestamp":"2019-07-18 10:50:53"}
+{"level":"info","message":"POST /bind/table 107 2019-07-18 10:50:55","timestamp":"2019-07-18 10:50:55"}
+{"level":"info","message":"GET /table/number 9 2019-07-18 10:50:55","timestamp":"2019-07-18 10:50:55"}
+{"level":"info","message":"GET /article/family_list 16 2019-07-18 10:50:56","timestamp":"2019-07-18 10:50:56"}
+{"level":"info","message":"GET /order/detail 51 2019-07-18 10:50:56","timestamp":"2019-07-18 10:50:56"}
+{"level":"info","message":"GET /article/article_list 21 2019-07-18 10:50:56","timestamp":"2019-07-18 10:50:56"}
+{"level":"info","message":"GET /order/get_order_test 39 2019-07-18 10:50:59","timestamp":"2019-07-18 10:50:59"}
+{"level":"info","message":"GET /order/detail 48 2019-07-18 10:50:59","timestamp":"2019-07-18 10:50:59"}
+{"level":"info","message":"GET /article/family_list 4 2019-07-18 10:51:00","timestamp":"2019-07-18 10:51:00"}
+{"level":"info","message":"GET /order/detail 9 2019-07-18 10:51:00","timestamp":"2019-07-18 10:51:00"}
+{"level":"info","message":"GET /article/article_list 22 2019-07-18 10:51:00","timestamp":"2019-07-18 10:51:00"}
+{"level":"info","message":"POST /push/order 132 2019-07-18 10:51:12","timestamp":"2019-07-18 10:51:12"}
+{"level":"info","message":"GET /table/list 20 2019-07-18 10:51:12","timestamp":"2019-07-18 10:51:12"}
+{"level":"info","message":"GET /order/order_state_count 26 2019-07-18 10:51:12","timestamp":"2019-07-18 10:51:12"}
+{"level":"info","message":"GET /area 22 2019-07-18 10:51:12","timestamp":"2019-07-18 10:51:12"}
+{"level":"info","message":"【/v1/newpos/order/push】==> 下单成功！","timestamp":"2019-07-18 10:51:12"}
+{"level":"info","message":"GET /order/detail 58 2019-07-18 10:51:12","timestamp":"2019-07-18 10:51:12"}
+{"level":"info","message":"GET /order/get_order_test 3 2019-07-18 10:51:12","timestamp":"2019-07-18 10:51:12"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 10:51:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 10:51:22"}
+{"level":"info","message":"GET /system/info 4 2019-07-18 10:52:13","timestamp":"2019-07-18 10:52:13"}
+{"level":"info","message":"GET /on/line/state 1 2019-07-18 10:52:14","timestamp":"2019-07-18 10:52:14"}
+{"level":"info","message":"GET /article/family_list 7 2019-07-18 10:52:14","timestamp":"2019-07-18 10:52:14"}
+{"level":"info","message":"GET /order/detail 11 2019-07-18 10:52:14","timestamp":"2019-07-18 10:52:14"}
+{"level":"info","message":"GET /article/article_list 15 2019-07-18 10:52:14","timestamp":"2019-07-18 10:52:14"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 10:54:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 10:54:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 10:54:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 10:57:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 10:57:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 10:58:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 11:00:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 11:00:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 11:02:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 11:03:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 11:03:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 11:06:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 11:06:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 11:06:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 11:09:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 11:09:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 11:10:22"}
+{"level":"info","message":"GET /system/info 37 2019-07-18 11:10:33","timestamp":"2019-07-18 11:10:33"}
+{"level":"info","message":"GET /system/info 23 2019-07-18 11:10:33","timestamp":"2019-07-18 11:10:33"}
+{"level":"info","message":"GET /article/family_list 3 2019-07-18 11:10:33","timestamp":"2019-07-18 11:10:33"}
+{"level":"info","message":"GET /on/line/state 1 2019-07-18 11:10:33","timestamp":"2019-07-18 11:10:33"}
+{"level":"info","message":"GET /order/detail 17 2019-07-18 11:10:33","timestamp":"2019-07-18 11:10:33"}
+{"level":"info","message":"GET /order/order_state_count 16 2019-07-18 11:10:33","timestamp":"2019-07-18 11:10:33"}
+{"level":"info","message":"GET /area 13 2019-07-18 11:10:33","timestamp":"2019-07-18 11:10:33"}
+{"level":"info","message":"GET /on/line/state 0 2019-07-18 11:10:33","timestamp":"2019-07-18 11:10:33"}
+{"level":"info","message":"GET /table/list 25 2019-07-18 11:10:33","timestamp":"2019-07-18 11:10:33"}
+{"level":"info","message":"GET /order/detail 51 2019-07-18 11:10:33","timestamp":"2019-07-18 11:10:33"}
+{"level":"info","message":"GET /article/article_list 36 2019-07-18 11:10:33","timestamp":"2019-07-18 11:10:33"}
+{"level":"info","message":"GET /order/get_order_test 4 2019-07-18 11:10:34","timestamp":"2019-07-18 11:10:34"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 11:12:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 11:12:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 11:14:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 11:15:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 11:15:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 11:18:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 11:18:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 11:18:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 11:21:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 11:21:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 11:22:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 11:24:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 11:24:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 11:26:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 11:27:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 11:27:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 11:30:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 11:30:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 11:30:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 11:33:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 11:33:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 11:34:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 11:36:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 11:36:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 11:38:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 11:39:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 11:39:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 11:42:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 11:42:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 11:42:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 11:45:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 11:45:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 11:46:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 11:48:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 11:48:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 11:50:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 11:51:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 11:51:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 11:54:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 11:54:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 11:54:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 11:57:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 11:57:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 11:58:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 12:00:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 12:00:22"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 12:02:22"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 12:03:22"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 12:03:22"}
+{"level":"error","message":"==mqtt==close==你已断开连接,异常退出","timestamp":"2019-07-18 13:41:57"}
+{"level":"error","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-07-18 13:42:12"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-07-18 13:42:12"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/d2ff1bbb8c6f4fd8adb3949f76f8c1b6/+/+/+","timestamp":"2019-07-18 13:42:12"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-07-18 13:42:12"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 13:42:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 13:42:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 13:42:42"}
+{"level":"info","message":"GET /order/order_state_count 9 2019-07-18 13:45:39","timestamp":"2019-07-18 13:45:39"}
+{"level":"info","message":"GET /area 7 2019-07-18 13:45:39","timestamp":"2019-07-18 13:45:39"}
+{"level":"info","message":"GET /table/list 10 2019-07-18 13:45:39","timestamp":"2019-07-18 13:45:39"}
+{"level":"info","message":"GET /table/number 3 2019-07-18 13:45:39","timestamp":"2019-07-18 13:45:39"}
+{"level":"info","message":"GET /table/number 2 2019-07-18 13:45:41","timestamp":"2019-07-18 13:45:41"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 13:45:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 13:45:42"}
+{"level":"info","message":"GET /table/number 1 2019-07-18 13:45:42","timestamp":"2019-07-18 13:45:42"}
+{"level":"info","message":"POST /bind/table 72 2019-07-18 13:45:45","timestamp":"2019-07-18 13:45:45"}
+{"level":"info","message":"GET /order/get_order_test 14 2019-07-18 13:45:45","timestamp":"2019-07-18 13:45:45"}
+{"level":"info","message":"GET /order/detail 22 2019-07-18 13:45:45","timestamp":"2019-07-18 13:45:45"}
+{"level":"info","message":"GET /article/family_list 3 2019-07-18 13:45:45","timestamp":"2019-07-18 13:45:45"}
+{"level":"info","message":"GET /order/detail 14 2019-07-18 13:45:45","timestamp":"2019-07-18 13:45:45"}
+{"level":"info","message":"GET /article/article_list 34 2019-07-18 13:45:45","timestamp":"2019-07-18 13:45:45"}
+{"level":"info","message":"GET /article/family_list 2 2019-07-18 13:45:48","timestamp":"2019-07-18 13:45:48"}
+{"level":"info","message":"GET /order/detail 8 2019-07-18 13:45:48","timestamp":"2019-07-18 13:45:48"}
+{"level":"info","message":"GET /article/article_list 19 2019-07-18 13:45:48","timestamp":"2019-07-18 13:45:48"}
+{"level":"info","message":"GET /article/unit_list 42 2019-07-18 13:46:05","timestamp":"2019-07-18 13:46:05"}
+{"level":"info","message":"POST /push/order 64 2019-07-18 13:46:12","timestamp":"2019-07-18 13:46:12"}
+{"level":"info","message":"GET /article/family_list 63 2019-07-18 13:46:12","timestamp":"2019-07-18 13:46:12"}
+{"level":"info","message":"GET /order/detail 110 2019-07-18 13:46:12","timestamp":"2019-07-18 13:46:12"}
+{"level":"info","message":"【/v1/newpos/order/push】==> 下单成功！","timestamp":"2019-07-18 13:46:12"}
+{"level":"info","message":"GET /order/order_state_count 15 2019-07-18 13:46:12","timestamp":"2019-07-18 13:46:12"}
+{"level":"info","message":"GET /area 10 2019-07-18 13:46:12","timestamp":"2019-07-18 13:46:12"}
+{"level":"info","message":"GET /table/list 17 2019-07-18 13:46:12","timestamp":"2019-07-18 13:46:12"}
+{"level":"info","message":"GET /order/detail 39 2019-07-18 13:46:12","timestamp":"2019-07-18 13:46:12"}
+{"level":"info","message":"GET /article/article_list 33 2019-07-18 13:46:13","timestamp":"2019-07-18 13:46:13"}
+{"level":"info","message":"GET /order/get_order_test 3 2019-07-18 13:46:13","timestamp":"2019-07-18 13:46:13"}
+{"level":"info","message":"GET /order/detail 8 2019-07-18 13:46:22","timestamp":"2019-07-18 13:46:22"}
+{"level":"info","message":"POST /bind/table 312 2019-07-18 13:46:22","timestamp":"2019-07-18 13:46:22"}
+{"level":"info","message":"POST /push/order 526 2019-07-18 13:46:23","timestamp":"2019-07-18 13:46:23"}
+{"level":"info","message":"【/v1/newpos/order/push】==> 加菜成功！","timestamp":"2019-07-18 13:46:23"}
+{"level":"info","message":"GET /order/order_state_count 110 2019-07-18 13:46:23","timestamp":"2019-07-18 13:46:23"}
+{"level":"info","message":"GET /area 96 2019-07-18 13:46:23","timestamp":"2019-07-18 13:46:23"}
+{"level":"info","message":"GET /table/list 97 2019-07-18 13:46:23","timestamp":"2019-07-18 13:46:23"}
+{"level":"info","message":"GET /order/detail 128 2019-07-18 13:46:23","timestamp":"2019-07-18 13:46:23"}
+{"level":"info","message":"GET /order/get_order_test 3 2019-07-18 13:46:23","timestamp":"2019-07-18 13:46:23"}
+{"level":"info","message":"GET /table/number 3 2019-07-18 13:46:32","timestamp":"2019-07-18 13:46:32"}
+{"level":"info","message":"GET /order/get_order_test 8 2019-07-18 13:46:33","timestamp":"2019-07-18 13:46:33"}
+{"level":"info","message":"GET /order/detail 19 2019-07-18 13:46:33","timestamp":"2019-07-18 13:46:33"}
+{"level":"info","message":"GET /order/detail 9 2019-07-18 13:46:34","timestamp":"2019-07-18 13:46:34"}
+{"level":"info","message":"GET /order/discount_info 4 2019-07-18 13:46:34","timestamp":"2019-07-18 13:46:34"}
+{"level":"info","message":"GET /order/detail 15 2019-07-18 13:46:34","timestamp":"2019-07-18 13:46:34"}
+{"level":"info","message":"GET /order/order_items 8 2019-07-18 13:46:34","timestamp":"2019-07-18 13:46:34"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 13:46:42"}
+{"level":"info","message":"GET /order/discount_info 2 2019-07-18 13:47:23","timestamp":"2019-07-18 13:47:23"}
+{"level":"info","message":"GET /order/discount_info 2 2019-07-18 13:47:26","timestamp":"2019-07-18 13:47:26"}
+{"level":"info","message":"GET /remark/order/refund 17 2019-07-18 13:47:26","timestamp":"2019-07-18 13:47:26"}
+{"level":"info","message":"GET /table/number 2 2019-07-18 13:47:36","timestamp":"2019-07-18 13:47:36"}
+{"level":"info","message":"GET /order/get_order_test 8 2019-07-18 13:47:37","timestamp":"2019-07-18 13:47:37"}
+{"level":"info","message":"GET /order/detail 13 2019-07-18 13:47:37","timestamp":"2019-07-18 13:47:37"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 13:48:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 13:48:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 13:50:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 13:51:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 13:51:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 13:54:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 13:54:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 13:54:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 13:57:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 13:57:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 13:58:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 14:00:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 14:00:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 14:02:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 14:03:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 14:03:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 14:06:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 14:06:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 14:06:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 14:09:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 14:09:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 14:10:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 14:12:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 14:12:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 14:14:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 14:15:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 14:15:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 14:18:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 14:18:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 14:18:42"}
+{"level":"info","message":"GET /order/detail 13 2019-07-18 14:20:03","timestamp":"2019-07-18 14:20:03"}
+{"level":"info","message":"GET /order/get_order_test 12 2019-07-18 14:20:03","timestamp":"2019-07-18 14:20:03"}
+{"level":"info","message":"PUT /order/change_order 74 2019-07-18 14:20:08","timestamp":"2019-07-18 14:20:08"}
+{"level":"info","message":"【/v1/newpos/order/change/table】==> 换桌成功！","timestamp":"2019-07-18 14:20:08"}
+{"level":"info","message":"GET /table/list 12 2019-07-18 14:20:08","timestamp":"2019-07-18 14:20:08"}
+{"level":"info","message":"GET /order/order_state_count 12 2019-07-18 14:20:08","timestamp":"2019-07-18 14:20:08"}
+{"level":"info","message":"GET /table/number 3 2019-07-18 14:20:08","timestamp":"2019-07-18 14:20:08"}
+{"level":"info","message":"GET /order/get_order_test 11 2019-07-18 14:20:12","timestamp":"2019-07-18 14:20:12"}
+{"level":"info","message":"GET /order/detail 22 2019-07-18 14:20:12","timestamp":"2019-07-18 14:20:12"}
+{"level":"info","message":"GET /order/customer 8 2019-07-18 14:20:16","timestamp":"2019-07-18 14:20:16"}
+{"level":"info","message":"GET /order/customer 1 2019-07-18 14:20:17","timestamp":"2019-07-18 14:20:17"}
+{"level":"info","message":"POST /order/pay 101 2019-07-18 14:20:20","timestamp":"2019-07-18 14:20:20"}
+{"level":"info","message":"GET /table/number 31 2019-07-18 14:20:20","timestamp":"2019-07-18 14:20:20"}
+{"level":"info","message":"GET /table/number 12 2019-07-18 14:20:20","timestamp":"2019-07-18 14:20:20"}
+{"level":"info","message":"【/v1/newpos/order/payment】==> 买单成功！","timestamp":"2019-07-18 14:20:20"}
+{"level":"info","message":"GET /order/order_state_count 16 2019-07-18 14:20:20","timestamp":"2019-07-18 14:20:20"}
+{"level":"info","message":"GET /area 12 2019-07-18 14:20:20","timestamp":"2019-07-18 14:20:20"}
+{"level":"info","message":"GET /table/list 14 2019-07-18 14:20:20","timestamp":"2019-07-18 14:20:20"}
+{"level":"info","message":"GET /table/number 3 2019-07-18 14:20:20","timestamp":"2019-07-18 14:20:20"}
+{"level":"info","message":"GET /order/order_state_count 3 2019-07-18 14:20:23","timestamp":"2019-07-18 14:20:23"}
+{"level":"info","message":"GET /order/pay 3 2019-07-18 14:20:23","timestamp":"2019-07-18 14:20:23"}
+{"level":"info","message":"GET /order/get_order_test 11 2019-07-18 14:20:23","timestamp":"2019-07-18 14:20:23"}
+{"level":"info","message":"GET /order/detail 17 2019-07-18 14:20:23","timestamp":"2019-07-18 14:20:23"}
+{"level":"info","message":"GET /table/list 9 2019-07-18 14:20:31","timestamp":"2019-07-18 14:20:31"}
+{"level":"info","message":"GET /order/order_state_count 7 2019-07-18 14:20:31","timestamp":"2019-07-18 14:20:31"}
+{"level":"info","message":"GET /table/number 3 2019-07-18 14:20:31","timestamp":"2019-07-18 14:20:31"}
+{"level":"info","message":"GET /table/number 1 2019-07-18 14:20:32","timestamp":"2019-07-18 14:20:32"}
+{"level":"info","message":"GET /table/number 3 2019-07-18 14:20:35","timestamp":"2019-07-18 14:20:35"}
+{"level":"info","message":"POST /bind/table 32 2019-07-18 14:20:36","timestamp":"2019-07-18 14:20:36"}
+{"level":"info","message":"GET /table/number 11 2019-07-18 14:20:37","timestamp":"2019-07-18 14:20:37"}
+{"level":"info","message":"GET /article/family_list 3 2019-07-18 14:20:37","timestamp":"2019-07-18 14:20:37"}
+{"level":"info","message":"GET /order/detail 15 2019-07-18 14:20:37","timestamp":"2019-07-18 14:20:37"}
+{"level":"info","message":"GET /article/article_list 27 2019-07-18 14:20:37","timestamp":"2019-07-18 14:20:37"}
+{"level":"info","message":"GET /order/get_order_test 7 2019-07-18 14:20:41","timestamp":"2019-07-18 14:20:41"}
+{"level":"info","message":"GET /order/detail 13 2019-07-18 14:20:41","timestamp":"2019-07-18 14:20:41"}
+{"level":"info","message":"PUT /order/change_order 35 2019-07-18 14:20:49","timestamp":"2019-07-18 14:20:49"}
+{"level":"info","message":"【/v1/newpos/order/change/table】==> 换桌成功！","timestamp":"2019-07-18 14:20:49"}
+{"level":"info","message":"GET /table/list 8 2019-07-18 14:20:50","timestamp":"2019-07-18 14:20:50"}
+{"level":"info","message":"GET /order/order_state_count 12 2019-07-18 14:20:50","timestamp":"2019-07-18 14:20:50"}
+{"level":"info","message":"GET /table/number 3 2019-07-18 14:20:50","timestamp":"2019-07-18 14:20:50"}
+{"level":"info","message":"POST /push/order 53 2019-07-18 14:20:53","timestamp":"2019-07-18 14:20:53"}
+{"level":"info","message":"GET /table/number 42 2019-07-18 14:20:53","timestamp":"2019-07-18 14:20:53"}
+{"level":"info","message":"【/v1/newpos/order/push】==> 下单成功！","timestamp":"2019-07-18 14:20:53"}
+{"level":"info","message":"GET /order/order_state_count 32 2019-07-18 14:20:53","timestamp":"2019-07-18 14:20:53"}
+{"level":"info","message":"GET /area 34 2019-07-18 14:20:53","timestamp":"2019-07-18 14:20:53"}
+{"level":"info","message":"GET /table/list 38 2019-07-18 14:20:53","timestamp":"2019-07-18 14:20:53"}
+{"level":"info","message":"GET /order/detail 65 2019-07-18 14:20:53","timestamp":"2019-07-18 14:20:53"}
+{"level":"info","message":"GET /table/number 2 2019-07-18 14:20:53","timestamp":"2019-07-18 14:20:53"}
+{"level":"info","message":"GET /order/pay 8 2019-07-18 14:20:59","timestamp":"2019-07-18 14:20:59"}
+{"level":"info","message":"GET /order/order_state_count 9 2019-07-18 14:20:59","timestamp":"2019-07-18 14:20:59"}
+{"level":"info","message":"GET /order/get_order_test 7 2019-07-18 14:20:59","timestamp":"2019-07-18 14:20:59"}
+{"level":"info","message":"GET /order/detail 15 2019-07-18 14:20:59","timestamp":"2019-07-18 14:20:59"}
+{"level":"info","message":"GET /order/order_state_count 5 2019-07-18 14:21:00","timestamp":"2019-07-18 14:21:00"}
+{"level":"info","message":"GET /order/no_pay 7 2019-07-18 14:21:00","timestamp":"2019-07-18 14:21:00"}
+{"level":"info","message":"GET /order/get_order_test 12 2019-07-18 14:21:00","timestamp":"2019-07-18 14:21:00"}
+{"level":"info","message":"GET /order/detail 18 2019-07-18 14:21:00","timestamp":"2019-07-18 14:21:00"}
+{"level":"info","message":"GET /order/get_order_test 10 2019-07-18 14:21:02","timestamp":"2019-07-18 14:21:02"}
+{"level":"info","message":"GET /order/detail 15 2019-07-18 14:21:02","timestamp":"2019-07-18 14:21:02"}
+{"level":"info","message":"GET /order/no_pay 6 2019-07-18 14:21:04","timestamp":"2019-07-18 14:21:04"}
+{"level":"info","message":"GET /order/order_state_count 10 2019-07-18 14:21:04","timestamp":"2019-07-18 14:21:04"}
+{"level":"info","message":"GET /order/get_order_test 13 2019-07-18 14:21:04","timestamp":"2019-07-18 14:21:04"}
+{"level":"info","message":"GET /order/detail 19 2019-07-18 14:21:04","timestamp":"2019-07-18 14:21:04"}
+{"level":"info","message":"GET /table/list 11 2019-07-18 14:21:29","timestamp":"2019-07-18 14:21:29"}
+{"level":"info","message":"GET /order/order_state_count 10 2019-07-18 14:21:29","timestamp":"2019-07-18 14:21:29"}
+{"level":"info","message":"GET /table/number 3 2019-07-18 14:21:29","timestamp":"2019-07-18 14:21:29"}
+{"level":"info","message":"GET /order/get_order_test 7 2019-07-18 14:21:31","timestamp":"2019-07-18 14:21:31"}
+{"level":"info","message":"GET /order/detail 12 2019-07-18 14:21:31","timestamp":"2019-07-18 14:21:31"}
+{"level":"info","message":"GET /table/number 2 2019-07-18 14:21:33","timestamp":"2019-07-18 14:21:33"}
+{"level":"info","message":"POST /bind/table 29 2019-07-18 14:21:35","timestamp":"2019-07-18 14:21:35"}
+{"level":"info","message":"GET /article/family_list 2 2019-07-18 14:21:35","timestamp":"2019-07-18 14:21:35"}
+{"level":"info","message":"GET /order/detail 8 2019-07-18 14:21:35","timestamp":"2019-07-18 14:21:35"}
+{"level":"info","message":"GET /article/article_list 24 2019-07-18 14:21:35","timestamp":"2019-07-18 14:21:35"}
+{"level":"info","message":"PUT /order/change_order 8 2019-07-18 14:21:41","timestamp":"2019-07-18 14:21:41"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 14:21:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 14:21:42"}
+{"level":"info","message":"GET /order/customer 1 2019-07-18 14:22:08","timestamp":"2019-07-18 14:22:08"}
+{"level":"info","message":"GET /order/customer 1 2019-07-18 14:22:14","timestamp":"2019-07-18 14:22:14"}
+{"level":"info","message":"GET /order/customer 1 2019-07-18 14:22:14","timestamp":"2019-07-18 14:22:14"}
+{"level":"info","message":"GET /order/customer 2 2019-07-18 14:22:15","timestamp":"2019-07-18 14:22:15"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 14:22:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 14:24:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 14:24:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 14:26:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 14:27:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 14:27:42"}
+{"level":"info","message":"GET /system/info 8 2019-07-18 14:27:53","timestamp":"2019-07-18 14:27:53"}
+{"level":"info","message":"GET /system/info 5 2019-07-18 14:27:53","timestamp":"2019-07-18 14:27:53"}
+{"level":"info","message":"GET /article/family_list 3 2019-07-18 14:27:53","timestamp":"2019-07-18 14:27:53"}
+{"level":"info","message":"GET /on/line/state 0 2019-07-18 14:27:53","timestamp":"2019-07-18 14:27:53"}
+{"level":"info","message":"GET /order/detail 18 2019-07-18 14:27:53","timestamp":"2019-07-18 14:27:53"}
+{"level":"info","message":"GET /order/order_state_count 11 2019-07-18 14:27:53","timestamp":"2019-07-18 14:27:53"}
+{"level":"info","message":"GET /order/detail 23 2019-07-18 14:27:53","timestamp":"2019-07-18 14:27:53"}
+{"level":"info","message":"GET /on/line/state 1 2019-07-18 14:27:53","timestamp":"2019-07-18 14:27:53"}
+{"level":"info","message":"GET /area 25 2019-07-18 14:27:53","timestamp":"2019-07-18 14:27:53"}
+{"level":"info","message":"GET /table/list 17 2019-07-18 14:27:53","timestamp":"2019-07-18 14:27:53"}
+{"level":"info","message":"GET /article/article_list 25 2019-07-18 14:27:54","timestamp":"2019-07-18 14:27:54"}
+{"level":"info","message":"GET /order/get_order_test 4 2019-07-18 14:27:54","timestamp":"2019-07-18 14:27:54"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 14:30:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 14:30:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 14:30:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 14:33:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 14:33:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 14:34:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 14:36:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 14:36:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 14:38:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 14:39:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 14:39:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 14:42:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 14:42:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 14:42:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 14:45:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 14:45:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 14:46:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 14:48:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 14:48:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 14:50:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 14:51:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 14:51:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 14:54:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 14:54:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 14:54:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 14:57:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 14:57:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 14:58:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 15:00:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 15:00:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 15:02:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 15:03:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 15:03:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 15:06:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 15:06:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 15:06:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 15:09:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 15:09:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 15:10:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 15:12:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 15:12:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 15:14:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 15:15:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 15:15:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 15:18:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 15:18:42"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 15:18:42"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 15:21:43"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 15:21:43"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 15:22:43"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 15:24:43"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 15:24:43"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 15:26:43"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 15:27:43"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 15:27:43"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 15:30:43"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 15:30:43"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 15:30:43"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 15:33:43"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 15:33:43"}
+{"level":"info","message":"GET /article/family_list 2 2019-07-18 15:34:39","timestamp":"2019-07-18 15:34:39"}
+{"level":"info","message":"GET /order/detail 7 2019-07-18 15:34:39","timestamp":"2019-07-18 15:34:39"}
+{"level":"info","message":"GET /article/article_list 31 2019-07-18 15:34:39","timestamp":"2019-07-18 15:34:39"}
+{"level":"info","message":"GET /order/detail 12 2019-07-18 15:34:41","timestamp":"2019-07-18 15:34:41"}
+{"level":"info","message":"POST /bind/table 65 2019-07-18 15:34:41","timestamp":"2019-07-18 15:34:41"}
+{"level":"info","message":"POST /push/order 52 2019-07-18 15:34:42","timestamp":"2019-07-18 15:34:42"}
+{"level":"info","message":"GET /order/order_state_count 26 2019-07-18 15:34:42","timestamp":"2019-07-18 15:34:42"}
+{"level":"info","message":"【/v1/newpos/order/push】==> 加菜成功！","timestamp":"2019-07-18 15:34:42"}
+{"level":"info","message":"GET /area 21 2019-07-18 15:34:42","timestamp":"2019-07-18 15:34:42"}
+{"level":"info","message":"GET /table/list 37 2019-07-18 15:34:42","timestamp":"2019-07-18 15:34:42"}
+{"level":"info","message":"GET /order/detail 70 2019-07-18 15:34:42","timestamp":"2019-07-18 15:34:42"}
+{"level":"info","message":"GET /order/get_order_test 6 2019-07-18 15:34:42","timestamp":"2019-07-18 15:34:42"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 15:34:43"}
+{"level":"info","message":"GET /order/order_state_count 5 2019-07-18 15:35:06","timestamp":"2019-07-18 15:35:06"}
+{"level":"info","message":"GET /area 2 2019-07-18 15:35:06","timestamp":"2019-07-18 15:35:06"}
+{"level":"info","message":"GET /table/list 8 2019-07-18 15:35:06","timestamp":"2019-07-18 15:35:06"}
+{"level":"info","message":"GET /table/number 3 2019-07-18 15:35:06","timestamp":"2019-07-18 15:35:06"}
+{"level":"info","message":"GET /order/detail 15 2019-07-18 15:35:10","timestamp":"2019-07-18 15:35:10"}
+{"level":"info","message":"GET /order/get_order_test 14 2019-07-18 15:35:10","timestamp":"2019-07-18 15:35:10"}
+{"level":"info","message":"GET /order/discount_info 2 2019-07-18 15:35:11","timestamp":"2019-07-18 15:35:11"}
+{"level":"info","message":"GET /order/detail 9 2019-07-18 15:35:11","timestamp":"2019-07-18 15:35:11"}
+{"level":"info","message":"GET /order/detail 5 2019-07-18 15:35:11","timestamp":"2019-07-18 15:35:11"}
+{"level":"info","message":"GET /order/order_items 11 2019-07-18 15:35:11","timestamp":"2019-07-18 15:35:11"}
+{"level":"info","message":"GET /order/discount_info 1 2019-07-18 15:35:55","timestamp":"2019-07-18 15:35:55"}
+{"level":"info","message":"GET /remark/order/refund 4 2019-07-18 15:35:55","timestamp":"2019-07-18 15:35:55"}
+{"level":"info","message":"POST /order/grant 138 2019-07-18 15:36:05","timestamp":"2019-07-18 15:36:05"}
+{"level":"info","message":"GET /order/detail 14 2019-07-18 15:36:05","timestamp":"2019-07-18 15:36:05"}
+{"level":"info","message":"【/v1/newpos/order/grant/article】==> 赠菜成功！","timestamp":"2019-07-18 15:36:05"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 15:36:43"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 15:36:43"}
+{"level":"info","message":"GET /order/discount_info 7 2019-07-18 15:38:10","timestamp":"2019-07-18 15:38:10"}
+{"level":"info","message":"GET /order/order_items 49 2019-07-18 15:38:10","timestamp":"2019-07-18 15:38:10"}
+{"level":"info","message":"GET /order/detail 43 2019-07-18 15:38:10","timestamp":"2019-07-18 15:38:10"}
+{"level":"info","message":"GET /order/detail 6 2019-07-18 15:38:10","timestamp":"2019-07-18 15:38:10"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 15:38:43"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 15:39:43"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 15:39:43"}
+{"level":"info","message":"GET /order/discount_info 4 2019-07-18 15:40:32","timestamp":"2019-07-18 15:40:32"}
+{"level":"info","message":"GET /order/order_items 41 2019-07-18 15:40:32","timestamp":"2019-07-18 15:40:32"}
+{"level":"info","message":"GET /order/detail 23 2019-07-18 15:40:32","timestamp":"2019-07-18 15:40:32"}
+{"level":"info","message":"GET /order/detail 12 2019-07-18 15:40:32","timestamp":"2019-07-18 15:40:32"}
+{"level":"info","message":"GET /order/discount_info 1 2019-07-18 15:40:43","timestamp":"2019-07-18 15:40:43"}
+{"level":"info","message":"GET /order/detail 8 2019-07-18 15:40:43","timestamp":"2019-07-18 15:40:43"}
+{"level":"info","message":"GET /order/detail 4 2019-07-18 15:40:43","timestamp":"2019-07-18 15:40:43"}
+{"level":"info","message":"GET /order/order_items 5 2019-07-18 15:40:43","timestamp":"2019-07-18 15:40:43"}
+{"level":"info","message":"POST /order/discount 312 2019-07-18 15:40:54","timestamp":"2019-07-18 15:40:54"}
+{"level":"info","message":"GET /order/detail 7 2019-07-18 15:40:54","timestamp":"2019-07-18 15:40:54"}
+{"level":"info","message":"GET /order/discount_info 3 2019-07-18 15:40:54","timestamp":"2019-07-18 15:40:54"}
+{"level":"info","message":"GET /order/detail 12 2019-07-18 15:40:54","timestamp":"2019-07-18 15:40:54"}
+{"level":"info","message":"【/v1/newpos/order/discount】==> 折扣成功！","timestamp":"2019-07-18 15:40:54"}
+{"level":"info","message":"GET /order/detail 8 2019-07-18 15:40:54","timestamp":"2019-07-18 15:40:54"}
+{"level":"info","message":"GET /order/discount_info 2 2019-07-18 15:40:54","timestamp":"2019-07-18 15:40:54"}
+{"level":"info","message":"GET /order/detail 12 2019-07-18 15:40:54","timestamp":"2019-07-18 15:40:54"}
+{"level":"info","message":"GET /order/order_items 8 2019-07-18 15:40:54","timestamp":"2019-07-18 15:40:54"}
+{"level":"info","message":"PUT /order/resume_discount 24 2019-07-18 15:41:02","timestamp":"2019-07-18 15:41:02"}
+{"level":"info","message":"GET /order/detail 13 2019-07-18 15:41:02","timestamp":"2019-07-18 15:41:02"}
+{"level":"info","message":"GET /order/discount_info 2 2019-07-18 15:41:02","timestamp":"2019-07-18 15:41:02"}
+{"level":"info","message":"GET /order/detail 14 2019-07-18 15:41:02","timestamp":"2019-07-18 15:41:02"}
+{"level":"info","message":"GET /order/detail 7 2019-07-18 15:41:02","timestamp":"2019-07-18 15:41:02"}
+{"level":"info","message":"【/v1/newpos/order/discount/resume】==> 折扣恢复成功！","timestamp":"2019-07-18 15:41:02"}
+{"level":"info","message":"GET /order/discount_info 12 2019-07-18 15:41:02","timestamp":"2019-07-18 15:41:02"}
+{"level":"info","message":"GET /order/detail 45 2019-07-18 15:41:02","timestamp":"2019-07-18 15:41:02"}
+{"level":"info","message":"GET /order/order_items 31 2019-07-18 15:41:02","timestamp":"2019-07-18 15:41:02"}
+{"level":"info","message":"POST /order/discount 62 2019-07-18 15:41:15","timestamp":"2019-07-18 15:41:15"}
+{"level":"info","message":"GET /order/discount_info 4 2019-07-18 15:41:15","timestamp":"2019-07-18 15:41:15"}
+{"level":"info","message":"GET /order/discount_info 15 2019-07-18 15:41:15","timestamp":"2019-07-18 15:41:15"}
+{"level":"info","message":"GET /order/detail 40 2019-07-18 15:41:15","timestamp":"2019-07-18 15:41:15"}
+{"level":"info","message":"GET /order/order_items 36 2019-07-18 15:41:15","timestamp":"2019-07-18 15:41:15"}
+{"level":"info","message":"GET /order/detail 9 2019-07-18 15:41:15","timestamp":"2019-07-18 15:41:15"}
+{"level":"info","message":"GET /order/detail 13 2019-07-18 15:41:15","timestamp":"2019-07-18 15:41:15"}
+{"level":"info","message":"【/v1/newpos/order/discount】==> 折扣成功！","timestamp":"2019-07-18 15:41:15"}
+{"level":"info","message":"GET /order/detail 20 2019-07-18 15:41:15","timestamp":"2019-07-18 15:41:15"}
+{"level":"info","message":"PUT /order/resume_discount 26 2019-07-18 15:41:44","timestamp":"2019-07-18 15:41:44"}
+{"level":"info","message":"GET /order/detail 11 2019-07-18 15:41:44","timestamp":"2019-07-18 15:41:44"}
+{"level":"info","message":"GET /order/discount_info 4 2019-07-18 15:41:44","timestamp":"2019-07-18 15:41:44"}
+{"level":"info","message":"GET /order/detail 11 2019-07-18 15:41:44","timestamp":"2019-07-18 15:41:44"}
+{"level":"info","message":"GET /order/discount_info 13 2019-07-18 15:41:44","timestamp":"2019-07-18 15:41:44"}
+{"level":"info","message":"【/v1/newpos/order/discount/resume】==> 折扣恢复成功！","timestamp":"2019-07-18 15:41:44"}
+{"level":"info","message":"GET /order/detail 68 2019-07-18 15:41:44","timestamp":"2019-07-18 15:41:44"}
+{"level":"info","message":"GET /order/order_items 79 2019-07-18 15:41:44","timestamp":"2019-07-18 15:41:44"}
+{"level":"info","message":"GET /order/detail 20 2019-07-18 15:41:44","timestamp":"2019-07-18 15:41:44"}
+{"level":"info","message":"POST /order/discount 86 2019-07-18 15:41:53","timestamp":"2019-07-18 15:41:53"}
+{"level":"info","message":"GET /order/detail 15 2019-07-18 15:41:54","timestamp":"2019-07-18 15:41:54"}
+{"level":"info","message":"【/v1/newpos/order/discount】==> 折扣成功！","timestamp":"2019-07-18 15:41:54"}
+{"level":"info","message":"GET /order/discount_info 6 2019-07-18 15:41:54","timestamp":"2019-07-18 15:41:54"}
+{"level":"info","message":"GET /order/detail 20 2019-07-18 15:41:54","timestamp":"2019-07-18 15:41:54"}
+{"level":"info","message":"GET /order/discount_info 4 2019-07-18 15:41:54","timestamp":"2019-07-18 15:41:54"}
+{"level":"info","message":"GET /order/detail 25 2019-07-18 15:41:54","timestamp":"2019-07-18 15:41:54"}
+{"level":"info","message":"GET /order/order_items 26 2019-07-18 15:41:54","timestamp":"2019-07-18 15:41:54"}
+{"level":"info","message":"GET /order/detail 6 2019-07-18 15:41:54","timestamp":"2019-07-18 15:41:54"}
+{"level":"info","message":"POST /order/discount 54 2019-07-18 15:42:05","timestamp":"2019-07-18 15:42:05"}
+{"level":"info","message":"GET /order/discount_info 7 2019-07-18 15:42:05","timestamp":"2019-07-18 15:42:05"}
+{"level":"info","message":"GET /order/detail 31 2019-07-18 15:42:05","timestamp":"2019-07-18 15:42:05"}
+{"level":"info","message":"GET /order/discount_info 13 2019-07-18 15:42:05","timestamp":"2019-07-18 15:42:05"}
+{"level":"info","message":"【/v1/newpos/order/discount】==> 折扣成功！","timestamp":"2019-07-18 15:42:05"}
+{"level":"info","message":"GET /order/detail 35 2019-07-18 15:42:05","timestamp":"2019-07-18 15:42:05"}
+{"level":"info","message":"GET /order/order_items 27 2019-07-18 15:42:05","timestamp":"2019-07-18 15:42:05"}
+{"level":"info","message":"GET /order/detail 21 2019-07-18 15:42:05","timestamp":"2019-07-18 15:42:05"}
+{"level":"info","message":"GET /order/detail 36 2019-07-18 15:42:05","timestamp":"2019-07-18 15:42:05"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 15:42:43"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 15:42:43"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 15:42:43"}
+{"level":"info","message":"GET /order/order_state_count 7 2019-07-18 15:44:05","timestamp":"2019-07-18 15:44:05"}
+{"level":"info","message":"GET /area 5 2019-07-18 15:44:05","timestamp":"2019-07-18 15:44:05"}
+{"level":"info","message":"GET /table/list 7 2019-07-18 15:44:05","timestamp":"2019-07-18 15:44:05"}
+{"level":"info","message":"GET /table/number 3 2019-07-18 15:44:05","timestamp":"2019-07-18 15:44:05"}
+{"level":"info","message":"GET /order/get_order_test 15 2019-07-18 15:44:06","timestamp":"2019-07-18 15:44:06"}
+{"level":"info","message":"GET /order/detail 19 2019-07-18 15:44:06","timestamp":"2019-07-18 15:44:06"}
+{"level":"info","message":"GET /order/get_order_test 14 2019-07-18 15:44:08","timestamp":"2019-07-18 15:44:08"}
+{"level":"info","message":"GET /order/detail 20 2019-07-18 15:44:08","timestamp":"2019-07-18 15:44:08"}
+{"level":"info","message":"GET /order/order_state_count 5 2019-07-18 15:44:12","timestamp":"2019-07-18 15:44:12"}
+{"level":"info","message":"GET /area 7 2019-07-18 15:44:12","timestamp":"2019-07-18 15:44:12"}
+{"level":"info","message":"GET /table/list 7 2019-07-18 15:44:12","timestamp":"2019-07-18 15:44:12"}
+{"level":"info","message":"GET /table/number 4 2019-07-18 15:44:12","timestamp":"2019-07-18 15:44:12"}
+{"level":"info","message":"GET /order/get_order_test 11 2019-07-18 15:44:13","timestamp":"2019-07-18 15:44:13"}
+{"level":"info","message":"GET /order/detail 23 2019-07-18 15:44:13","timestamp":"2019-07-18 15:44:13"}
+{"level":"info","message":"GET /order/discount_info 1 2019-07-18 15:44:17","timestamp":"2019-07-18 15:44:17"}
+{"level":"info","message":"GET /order/discount_info 1 2019-07-18 15:44:19","timestamp":"2019-07-18 15:44:19"}
+{"level":"info","message":"GET /remark/order/refund 3 2019-07-18 15:44:20","timestamp":"2019-07-18 15:44:20"}
+{"level":"info","message":"GET /order/discount_info 1 2019-07-18 15:44:23","timestamp":"2019-07-18 15:44:23"}
+{"level":"info","message":"GET /remark/order/refund 5 2019-07-18 15:44:23","timestamp":"2019-07-18 15:44:23"}
+{"level":"info","message":"POST /order/grant 37 2019-07-18 15:44:31","timestamp":"2019-07-18 15:44:31"}
+{"level":"info","message":"GET /order/detail 16 2019-07-18 15:44:31","timestamp":"2019-07-18 15:44:31"}
+{"level":"info","message":"【/v1/newpos/order/grant/article】==> 赠菜成功！","timestamp":"2019-07-18 15:44:31"}
+{"level":"info","message":"POST /order/grant 19 2019-07-18 15:44:38","timestamp":"2019-07-18 15:44:38"}
+{"level":"info","message":"POST /order/grant 18 2019-07-18 15:44:46","timestamp":"2019-07-18 15:44:46"}
+{"level":"info","message":"POST /order/grant 26 2019-07-18 15:44:50","timestamp":"2019-07-18 15:44:50"}
+{"level":"info","message":"GET /order/get_order_test 9 2019-07-18 15:45:11","timestamp":"2019-07-18 15:45:11"}
+{"level":"info","message":"GET /order/detail 12 2019-07-18 15:45:11","timestamp":"2019-07-18 15:45:11"}
+{"level":"info","message":"GET /order/get_order_test 8 2019-07-18 15:45:12","timestamp":"2019-07-18 15:45:12"}
+{"level":"info","message":"GET /order/detail 13 2019-07-18 15:45:12","timestamp":"2019-07-18 15:45:12"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 15:45:43"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 15:45:43"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 15:46:43"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 15:48:43"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 15:48:43"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 15:50:43"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 15:51:43"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 15:51:43"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 15:54:43"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 15:54:43"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 15:54:43"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 15:57:43"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 15:57:43"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 15:58:43"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 16:00:43"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 16:00:43"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 16:02:43"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 16:03:43"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 16:03:43"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 16:06:43"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 16:06:43"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 16:06:43"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-07-18 16:09:43"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-07-18 16:09:43"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-07-18 16:10:43"}

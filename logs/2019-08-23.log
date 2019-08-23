@@ -1,0 +1,16 @@
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-08-23 14:15:01"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/63325014c50b4b16a81e50b3623f8d96/+/+/+","timestamp":"2019-08-23 14:15:01"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-08-23 14:15:01"}
+{"level":"info","message":"SequelizeDatabaseError: SQLITE_ERROR: no such column: day_sn","timestamp":"2019-08-23 14:15:01"}
+{"level":"error","message":"==mqtt==close==你已断开连接,正常退出","timestamp":"2019-08-23 14:15:36"}
+{"level":"error","message":"==mqtt==reconnect==正在尝试重新连接","timestamp":"2019-08-23 14:15:52"}
+{"level":"info","message":"mqtt成功连接到：ws://test.emq.restoplus.cn:8083/mqtt","timestamp":"2019-08-23 14:15:52"}
+{"level":"info","message":"订阅成功--$queue/winPos/+/2f83afee7a0e4822a6729145dd53af33/63325014c50b4b16a81e50b3623f8d96/+/+/+","timestamp":"2019-08-23 14:15:52"}
+{"level":"info","message":"允许接收的平台=>posAdmin-dev,resto-dev","timestamp":"2019-08-23 14:15:52"}
+{"level":"info","message":"GET /user/normal/list 16 2019-08-23 14:16:09","timestamp":"2019-08-23 14:16:09"}
+{"level":"info","message":"GET /on/line/state 2 2019-08-23 14:16:09","timestamp":"2019-08-23 14:16:09"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-23 14:17:51"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-23 14:17:52"}
+{"level":"info","message":"启动打印机检测！间隔240000","timestamp":"2019-08-23 14:18:51"}
+{"level":"info","message":"启动离线订单检测！间隔180000","timestamp":"2019-08-23 14:20:51"}
+{"level":"info","message":"没有需要同步的订单！","timestamp":"2019-08-23 14:20:51"}
