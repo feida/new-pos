@@ -98,7 +98,7 @@
     "minimist": "^1.2.0",
     "mocha": "*",
     "mockjs": "^1.0.1-beta3",
-    "node-notifier": "5.1.2",
+    "node-notifier": "8.0.1",
     "node-sass": "^4.9.3",
     "normalize.css": "^8.0.1",
     "opn": "^4.0.2",
